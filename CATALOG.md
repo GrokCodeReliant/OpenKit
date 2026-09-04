@@ -1,0 +1,281 @@
+﻿# Open Kit catalog
+
+Generated 2026-09-03 19:04 MT. Screened PASS only. License: see LICENSE.txt.
+
+## 2d/dustcompact (13)
+
+- `door.png`
+- `ending.png`
+- `items.png`
+- `plate-drywells.png`
+- `plate-mill.png`
+- `portrait-nox.png`
+- `portrait-rhee.png`
+- `portrait-voss.png`
+- `rhee-stand.png`
+- `talk-pip.png`
+- `title.png`
+- `ww-floor.png`
+- `ww-wall.png`
+
+## 2d/heroes (19)
+
+- `portrait-knight.png`
+- `unit-ash_dragon.jpg`
+- `unit-behemoth.jpg`
+- `unit-black-dragon.jpg`
+- `unit-bladewarden.jpg`
+- `unit-bone_wyrm.jpg`
+- `unit-bramblekin.jpg`
+- `unit-brass_efreet.jpg`
+- `unit-cannonade.jpg`
+- `unit-cavalry.jpg`
+- `unit-cinderbow.jpg`
+- `unit-cinerist.jpg`
+- `unit-coil_acolyte.jpg`
+- `unit-coil_drake.jpg`
+- `unit-colossus.jpg`
+- `unit-coral_slinger.jpg`
+- `unit-cyclops.jpg`
+- `unit-dawnrider.jpg`
+- `unit-delver.jpg`
+
+## 2d/ironwake (68)
+
+- `arc.png`
+- `armor-haul.png`
+- `armor-rig.png`
+- `armor-runner.png`
+- `armor-ward.png`
+- `bags.png`
+- `bollard.png`
+- `bolt.png`
+- `brute.png`
+- `buffs.png`
+- `cables.png`
+- `container.png`
+- `crate.png`
+- `crawler.png`
+- `desk.png`
+- `docks-alt.png`
+- `docks-floor.png`
+- `docks-wall.png`
+- `docks-water.png`
+- `drone-clean.png`
+- `drone-mill.png`
+- `drone-rust.png`
+- `drum.png`
+- `explode.png`
+- `floodlight.png`
+- `hound-clean.png`
+- `hound-mill.png`
+- `hound-rust.png`
+- `impact.png`
+- `mattress.png`
+- `medkit.png`
+- `muzzle.png`
+- `nest.png`
+- `pipes.png`
+- `player-blue.png`
+- `player-gold.png`
+- `player-white.png`
+- `pulse.png`
+- `rack.png`
+- `rat.png`
+- `roach.png`
+- `sandbags.png`
+- `scatter.png`
+- `scrap.png`
+- `sentry.png`
+- `server.png`
+- `sewers-alt.png`
+- `sewers-floor.png`
+- `sewers-wall.png`
+- `sewers-water.png`
+- `sludge.png`
+- `spool.png`
+- `thug.png`
+- `tires.png`
+- `toolbox.png`
+- `trash.png`
+- `vault-alt.png`
+- `vault-floor.png`
+- `vault-wall.png`
+- `vault-water.png`
+- `weapon-arc.png`
+- `weapon-coil.png`
+- `weapon-pulse.png`
+- `weapon-scatter.png`
+- `works-alt.png`
+- `works-floor.png`
+- `works-wall.png`
+- `works-water.png`
+
+## 2d/topdown (4)
+
+- `topdown-barrel.png`
+- `topdown-crate.png`
+- `topdown-floor.png`
+- `topdown-soldier.png`
+
+## 2d/vectordrift (15)
+
+- `asteroid.png`
+- `icon-bomb.png`
+- `icon-burst.png`
+- `icon-drone.png`
+- `icon-freeze.png`
+- `icon-hull.png`
+- `icon-magnet.png`
+- `icon-repair.png`
+- `icon-shield.png`
+- `icon-speed.png`
+- `icon-spread.png`
+- `mothership.png`
+- `ship.png`
+- `shot.png`
+- `ufo.png`
+
+## 2d/velvetvault (8)
+
+- `crown.jpg`
+- `door.jpg`
+- `floor.jpg`
+- `gem.jpg`
+- `guard.jpg`
+- `lantern.jpg`
+- `thief.png`
+- `wall.jpg`
+
+## 2d/waystone (124)
+
+- `anvil.png`
+- `ashlord.png`
+- `barn.png`
+- `bell.png`
+- `bog-1.png`
+- `bog-2.png`
+- `bog-3.png`
+- `bog-4.png`
+- `boulder.png`
+- `brazier.png`
+- `brute-1.png`
+- `brute-2.png`
+- `brute-3.png`
+- `brute-4.png`
+- `cart.png`
+- `cinder-1.png`
+- `cinder-2.png`
+- `cinder-3.png`
+- `cinder-4.png`
+- `cottage.png`
+- `den.png`
+- `dirt.jpg`
+- `diver-1.png`
+- `diver-2.png`
+- `diver-3.png`
+- `diver-4.png`
+- `dragon.png`
+- `drone-1.png`
+- `drone-2.png`
+- `drone-3.png`
+- `drone-4.png`
+- `echo-1.png`
+- `echo-2.png`
+- `echo-3.png`
+- `echo-4.png`
+- `emberborn-1.png`
+- `emberborn-2.png`
+- `emberborn-3.png`
+- `emberborn-4.png`
+- `enemy-brute.png`
+- `enemy-grunt.png`
+- `enemy-hedgekin.png`
+- `frost.png`
+- `gale-1.png`
+- `gale-2.png`
+- `gale-3.png`
+- `gale-4.png`
+- `gate.png`
+- `grass.jpg`
+- `grunt-1.png`
+- `grunt-2.png`
+- `grunt-3.png`
+- `grunt-4.png`
+- `harpoon.png`
+- `hay.png`
+- `hedgekin-1.png`
+- `hedgekin-2.png`
+- `hedgekin-3.png`
+- `hedgekin-4.png`
+- `hex.png`
+- `hive.png`
+- `idol.png`
+- `keep.png`
+- `knight-1.png`
+- `knight-2.png`
+- `knight-3.png`
+- `knight-4.png`
+- `lantern.png`
+- `longshot.png`
+- `mirror.png`
+- `mortar.png`
+- `oak.png`
+- `pine.png`
+- `portal.png`
+- `ram-1.png`
+- `ram-2.png`
+- `ram-3.png`
+- `ram-4.png`
+- `root-1.png`
+- `root-2.png`
+- `root-3.png`
+- `root-4.png`
+- `runner-1.png`
+- `runner-2.png`
+- `runner-3.png`
+- `runner-4.png`
+- `scarecrow.png`
+- `shield-1.png`
+- `shield-2.png`
+- `shield-3.png`
+- `shield-4.png`
+- `shrub.png`
+- `snare.png`
+- `splitling-1.png`
+- `splitling-2.png`
+- `splitling-3.png`
+- `splitling-4.png`
+- `stone.jpg`
+- `stump.png`
+- `swarm-1.png`
+- `swarm-2.png`
+- `swarm-3.png`
+- `swarm-4.png`
+- `tower-arc.png`
+- `tower-brazier.png`
+- `tower-frost.png`
+- `tower-harpoon.png`
+- `tower-hex.png`
+- `tower-longshot.png`
+- `tower-mortar.png`
+- `tower-snare.png`
+- `tower-watch.png`
+- `watch.png`
+- `well.png`
+- `wight-1.png`
+- `wight-2.png`
+- `wight-3.png`
+- `wight-4.png`
+- `windmill.png`
+- `wraith.png`
+- `wyrmling-1.png`
+- `wyrmling-2.png`
+- `wyrmling-3.png`
+- `wyrmling-4.png`
+
+---
+**Total screened 2d:** 251
+**Still in _remake (not in kit):** 23 — need new art before donate.
+**Rejected:** 54 — do not ship.
+
