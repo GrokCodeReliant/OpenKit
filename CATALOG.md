@@ -276,6 +276,3 @@ Generated 2026-09-03 19:04 MT. Screened PASS only. License: see LICENSE.txt.
 
 ---
 **Total screened 2d:** 251
-**Still in _remake (not in kit):** 23 — need new art before donate.
-**Rejected:** 54 — do not ship.
-
