@@ -2,7 +2,7 @@
 
 Free 2D game assets. Use them however you want, including commercial games.
 
-Made with Grok / Grok Imagine. Credit that. No warranty. Details in `LICENSE.txt`.
+Made with Grok / Grok Imagine. License: CC0 1.0 Universal (public domain). No credit required, commercial use allowed, free forever. No warranty. Details in `LICENSE.txt`.
 
 **Download:** [latest release](https://github.com/GrokCodeReliant/OpenKit/releases/latest) (`OpenKit-2d-screened.zip`)
 
