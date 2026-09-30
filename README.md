@@ -6,6 +6,10 @@ Made with Grok / Grok Imagine. License: CC0 1.0 Universal (public domain). No cr
 
 **Download:** [latest release](https://github.com/GrokCodeReliant/OpenKit/releases/latest) (`OpenKit-2d-screened.zip`)
 
-v0.3.0 expands the classic fantasy tabletop pack under `2d/dnd` (tiles, props, tokens, monsters) to 963 screened images. Total screened images in this release: 1214.
+v0.3.1 expands the classic fantasy tabletop pack under `2d/dnd` (tiles, props, tokens, monsters) to 963 screened images. Total screened images in this release: 1214. This release is CC0 1.0 Universal (public domain); no credit required.
 
 File list: `CATALOG.md`
+
+## Back the studio
+
+Like the kit? You can [back the studio on Patreon](https://www.patreon.com/grokcodereliant). Everything here stays free and CC0.
