@@ -1241,3 +1241,11 @@ Generated 2026-09-11 22:13 MT. Screened PASS only. License: see LICENSE.txt.
 - `wyrmling-4.png`
 
 Total images: 1214
+
+## Rolling 2D packs (`packs/`)
+
+CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, published outside the release zip.
+
+- `packs/openkit-icons-inventory-b1/` — 16 icons
+- `packs/openkit-ui-frames-b1/` — 13 UI PNGs
+- `packs/openkit-icons-craft-tools-b1/` — 16 icons

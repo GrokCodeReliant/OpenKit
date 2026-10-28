@@ -1,0 +1,170 @@
+{
+  "pack": "openkit-icons-craft-tools-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256 transparent",
+  "generator": "src/gen_icons.py",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "icons": [
+    {
+      "name": "icon-hammer",
+      "file": "icons/icon-hammer.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "40dc92408ef3c2fbf5b79482dbfadaf227de886b6f6b30893005f7cefb4acf0a"
+    },
+    {
+      "name": "icon-anvil",
+      "file": "icons/icon-anvil.png",
+      "category": "craft",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "c6cb0e001e1be7322b2383d62f8b63798a7f9447bb8aae4ea397394a82053300"
+    },
+    {
+      "name": "icon-tongs",
+      "file": "icons/icon-tongs.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ccb698dc997245908351ec8455ac97e086908b47c365c4be7421f640476e5a73"
+    },
+    {
+      "name": "icon-chisel",
+      "file": "icons/icon-chisel.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "13d104d1d449464dbc5d1c4e08aa0cdd9b59139e76814a9d4e39bfbb6c7bc268"
+    },
+    {
+      "name": "icon-hand-plane",
+      "file": "icons/icon-hand-plane.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ecd19b939bcba68680f05a7d1e308d7c612e2204de24ccba464d7630f00ff1db"
+    },
+    {
+      "name": "icon-hand-saw",
+      "file": "icons/icon-hand-saw.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "050670ee02f944b19e5cc1c53437378fd49a44f27a02c3f0beb4b1fcafc9e2df"
+    },
+    {
+      "name": "icon-clamp",
+      "file": "icons/icon-clamp.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "093a5efc0fe9ea641a34a07a423b49cb7d6ca1eff19d0ecc81e142db11a85141"
+    },
+    {
+      "name": "icon-mallet",
+      "file": "icons/icon-mallet.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "07dc244da45641a5a4eb3b36126024e7421819e47eb67a5320c0520537ea6de4"
+    },
+    {
+      "name": "icon-file-rasp",
+      "file": "icons/icon-file-rasp.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ba965624566979056184892471285ec7433b06bc685bc82f7b24be971c262d32"
+    },
+    {
+      "name": "icon-awl",
+      "file": "icons/icon-awl.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "f8e7480de4c1c5dd60658d93fc5aef6b779488b0212d7c9e62e67812ec625556"
+    },
+    {
+      "name": "icon-try-square",
+      "file": "icons/icon-try-square.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "b95642e4f6859bc260b612f31f702b5422739c73c9b1e5135c2a71b22db27b85"
+    },
+    {
+      "name": "icon-bevel-gauge",
+      "file": "icons/icon-bevel-gauge.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "a8625d9e7c0c70de3cb925eadcf58a2703349494b68ebf59981d4195e4d002fe"
+    },
+    {
+      "name": "icon-drawknife",
+      "file": "icons/icon-drawknife.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "0b5ce32e33de9de8e7d90820c39955cd625ad67f7850c5d93df2c2c3001717d7"
+    },
+    {
+      "name": "icon-auger",
+      "file": "icons/icon-auger.png",
+      "category": "tool",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "e876661f20079b2b79c424ad28b034cd2f2006dfb188e809e5223089bc771370"
+    },
+    {
+      "name": "icon-whetstone",
+      "file": "icons/icon-whetstone.png",
+      "category": "craft",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "8a095b8a22ba55fe19fe05e745b9db4ccf1f0faf2e73f62da3b68df279ed2793"
+    },
+    {
+      "name": "icon-workbench",
+      "file": "icons/icon-workbench.png",
+      "category": "craft",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ac2b4792565830efc0ce53010d18f11a83346142a577be8ccc196bd603354426"
+    }
+  ]
+}

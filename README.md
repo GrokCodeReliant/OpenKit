@@ -4,7 +4,7 @@ Free 2D game assets. Use them however you want, including commercial games.
 
 Made with Grok / Grok Imagine. License: CC0 1.0 Universal (public domain). No credit required, commercial use allowed, free forever. No warranty. Details in `LICENSE.txt`.
 
-**Download:** [latest release](https://github.com/GrokCodeReliant/OpenKit/releases/latest) (`OpenKit-2d-screened.zip`)
+**Download:** [latest release](https://github.com/GrokCodeReliant/OpenKit/releases/latest) (`OpenKit-2d-screened.zip`). `packs/` also holds rolling 2D packs (icons, UI frames) under the same CC0 license.
 
 v0.3.1 expands the classic fantasy tabletop pack under `2d/dnd` (tiles, props, tokens, monsters) to 963 screened images. Total screened images in this release: 1214. This release is CC0 1.0 Universal (public domain); no credit required.
 
