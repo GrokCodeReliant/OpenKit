@@ -1263,3 +1263,5 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-tiles-rooftop-b1/` — 12 roof and building-exterior tiles
 - `packs/openkit-icons-skills-magic-b1/` — 16 skill/magic ability glyphs
 - `packs/openkit-sprites-furniture-b1/` — 16 furniture/interior prop sprites
+- `packs/openkit-tiles-interior-floor-b1/` — 12 interior floor tiles
+- `packs/openkit-icons-npc-faces-b1/` — 16 NPC/class face glyphs

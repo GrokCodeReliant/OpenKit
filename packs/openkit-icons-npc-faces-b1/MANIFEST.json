@@ -1,0 +1,174 @@
+{
+  "pack": "openkit-icons-npc-faces-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256 transparent",
+  "generator": "src/gen_icons.py (procedural, 4x supersample, LANCZOS downscale)",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "icons": [
+    {
+      "name": "icon-npc-villager",
+      "file": "icons/icon-npc-villager.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "0066ae4b39fcfe6917b2a354e77ef25ee7a7cfb82eac49f694f24c17f48d0aa5"
+    },
+    {
+      "name": "icon-npc-merchant",
+      "file": "icons/icon-npc-merchant.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "3342c0569275122e59fe828c3a997acd21806b0a9d51f2774837322dd719708b"
+    },
+    {
+      "name": "icon-npc-guard",
+      "file": "icons/icon-npc-guard.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "5c1b68240f4ff0a6d3e8f6aefdc27ddc6264cc208863e6de41ae11cc9169ce7f"
+    },
+    {
+      "name": "icon-npc-innkeeper",
+      "file": "icons/icon-npc-innkeeper.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "9c1421e2de0ab6413fe21fbc96c88555d6404f7ea91da33b78627e1e65ad0d19"
+    },
+    {
+      "name": "icon-npc-blacksmith",
+      "file": "icons/icon-npc-blacksmith.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "27eb4e43a4b65d2ed14e9c574a294ac4c1738c6a2f96043e919617f7885f9e8e"
+    },
+    {
+      "name": "icon-npc-farmer",
+      "file": "icons/icon-npc-farmer.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "16c33cd2ce6f3a33f2be1ff563d0e1f85c8895b0137907e03a8fb670bf853441"
+    },
+    {
+      "name": "icon-npc-mage",
+      "file": "icons/icon-npc-mage.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "855bd56bd07c3fffad860849bbdaf48e55d9b3f6a4f16057c94fc73dade909fb"
+    },
+    {
+      "name": "icon-npc-priest",
+      "file": "icons/icon-npc-priest.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "d7476f9dca1d7246865acbda2ced1c74ce5d20084e28f2c6839c3dca776695f7"
+    },
+    {
+      "name": "icon-npc-thief",
+      "file": "icons/icon-npc-thief.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "69421ff6cb015e5626edc2423bf13156c0bd5b0f07b36b6e25edbaeea1061708"
+    },
+    {
+      "name": "icon-npc-bard",
+      "file": "icons/icon-npc-bard.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "68c2c0cb7aeafc47fa8c61dc2e2faa573f81b4c5c1619d7aa2d38a64b95fa5f7"
+    },
+    {
+      "name": "icon-npc-child",
+      "file": "icons/icon-npc-child.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "48e7fd71cc5b16a63aa0509c36d304de111bd5c932502ab3e20e4fddf892c289"
+    },
+    {
+      "name": "icon-npc-elder",
+      "file": "icons/icon-npc-elder.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "44604ced68a62fc6428e9627eab276ac210c57eb6de15e48672297614b9ea578"
+    },
+    {
+      "name": "icon-npc-noble",
+      "file": "icons/icon-npc-noble.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "3a691ce3b240014b0d1fec30cc397ca36564e2dd5905dc5f5db3504e9fd6a1b9"
+    },
+    {
+      "name": "icon-npc-sailor",
+      "file": "icons/icon-npc-sailor.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "9118843810566d5195a901797bcd23ff0931e6ef666114d1bdcf4f1a31c584e8"
+    },
+    {
+      "name": "icon-npc-hunter",
+      "file": "icons/icon-npc-hunter.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "00c3b39f2e7f83307484791711bd5dec240a895d4b7190f3ffd51b57bfe790c0"
+    },
+    {
+      "name": "icon-npc-healer",
+      "file": "icons/icon-npc-healer.png",
+      "category": "npc",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "a6f5a95f19ab7f37471a5f83f950d3b7ab6ca8a4c3d7cbc8d15df6bf497f95e2"
+    }
+  ],
+  "judgment_calls": [
+    "Generic NPC/class archetypes only; not character Forms and no likeness of any real or named character.",
+    "Stylised flat fantasy busts; no text in icons."
+  ]
+}
