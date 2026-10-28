@@ -1,0 +1,170 @@
+{
+  "pack": "openkit-sprites-furniture-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256",
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "sprites": [
+    {
+      "name": "sprite-bed-wood",
+      "file": "sprites/sprite-bed-wood.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "3c9daa0057af6ef58a8b142a05527f21b08074a5f793765b766f6a3ed9bb762e"
+    },
+    {
+      "name": "sprite-wardrobe",
+      "file": "sprites/sprite-wardrobe.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "eb6d88940db97eea16ba6364a4246a6c016fbb155fdacd5049640ad201bb071c"
+    },
+    {
+      "name": "sprite-dresser",
+      "file": "sprites/sprite-dresser.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "03c904c593eb5febf0b197f7b6949825e9cae4044d259b56b06c489193b6451b"
+    },
+    {
+      "name": "sprite-nightstand",
+      "file": "sprites/sprite-nightstand.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "0a95554bb8da750c4d0b64a914d55d56b8f1c3f8d6e9445596f169f2db84ba7b"
+    },
+    {
+      "name": "sprite-sofa",
+      "file": "sprites/sprite-sofa.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "2165fe7bca0e71e291d30ace5219b59b3859bbba8b809532b961aa2cf2f26bac"
+    },
+    {
+      "name": "sprite-armchair",
+      "file": "sprites/sprite-armchair.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "34582c5a69fbedd9a4f90726730aeb06d98b20979ac09d4f5d5380b0a11c351e"
+    },
+    {
+      "name": "sprite-desk-writing",
+      "file": "sprites/sprite-desk-writing.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "b963354883a36ecaec7f6e2f228f372f4cf049509caef1ed36fa5b9e2a8a2c3a"
+    },
+    {
+      "name": "sprite-bench-long",
+      "file": "sprites/sprite-bench-long.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "f18b1451e84ae442893035188ade518b6ef5008b4f4458e01d250ccb1e1c31d8"
+    },
+    {
+      "name": "sprite-counter-shop",
+      "file": "sprites/sprite-counter-shop.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "4050b11ea9a17dc1d8452dc3ac8d31655e51dc31d725a20ccbb2fc4ffe640afb"
+    },
+    {
+      "name": "sprite-rug-oval",
+      "file": "sprites/sprite-rug-oval.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "cbd2a2481691a2cfaf779e4fce76e0cbd14a34c16ac33e0108511f640dc6db53"
+    },
+    {
+      "name": "sprite-mirror-wall",
+      "file": "sprites/sprite-mirror-wall.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "d14c408a8f8479479c3ab8dd6486b684535b349fa7aff8635036add769b26e3c"
+    },
+    {
+      "name": "sprite-bathtub",
+      "file": "sprites/sprite-bathtub.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "1ab6b984c3cb17eff45c8ed6b8e0926961e8361dd78f319b43888de461bc6b6a"
+    },
+    {
+      "name": "sprite-washbasin",
+      "file": "sprites/sprite-washbasin.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "5790e5a73530e7ac6370dd70c9456e0454a706c9140d663b233e72e709a47e8c"
+    },
+    {
+      "name": "sprite-fireplace",
+      "file": "sprites/sprite-fireplace.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "acbc1057c32533a8e514e6b19a598ebbb7aa1b2ac32f0f684f8688f2227970c1"
+    },
+    {
+      "name": "sprite-curtain",
+      "file": "sprites/sprite-curtain.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "c41fa13bb69b07c441c24696fd4c91dbd4ed0bc69b500561f6ef32e96a0c47f8"
+    },
+    {
+      "name": "sprite-coat-rack",
+      "file": "sprites/sprite-coat-rack.png",
+      "category": "furniture",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "4947b211ce909bbf49dc154ed871d47409a7f8e28b6598882acf744c324f75fa"
+    }
+  ]
+}
