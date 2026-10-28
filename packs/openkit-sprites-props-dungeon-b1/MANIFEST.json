@@ -1,0 +1,170 @@
+{
+  "pack": "openkit-sprites-props-dungeon-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256",
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "sprites": [
+    {
+      "name": "sprite-crate-wood",
+      "file": "sprites/sprite-crate-wood.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "bc3d19e9694eb907541235c09abe8bd226e3644dc115d2bd7b77126bedf030b8"
+    },
+    {
+      "name": "sprite-barrel-wood",
+      "file": "sprites/sprite-barrel-wood.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "494fc49433dc9945dd178e7ca4a57259e3186f35209e01b186181c1c7692f13c"
+    },
+    {
+      "name": "sprite-chest-closed",
+      "file": "sprites/sprite-chest-closed.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "86ca8e049e68f945321fb81addc974150e0505495c8bcf17af77fb49e4543119"
+    },
+    {
+      "name": "sprite-chest-open",
+      "file": "sprites/sprite-chest-open.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "087fa8e79f353657b1361fb3cce989126dc9878e02b7544ba2d846ee59deaeee"
+    },
+    {
+      "name": "sprite-table-wood",
+      "file": "sprites/sprite-table-wood.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "865aeffd72a5a92d6db5673b6ef130927e110b429676735850230f36be6223cb"
+    },
+    {
+      "name": "sprite-chair-wood",
+      "file": "sprites/sprite-chair-wood.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "1792f20c2ee320efd672d0b2aa9b35c4ce3f7f253dd93bc235e6b6fc2d6e9b48"
+    },
+    {
+      "name": "sprite-stool-wood",
+      "file": "sprites/sprite-stool-wood.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "e1f95398c2003578f6e19343c05e09870e3e69bcd1b745b2b67addeb5737d6fe"
+    },
+    {
+      "name": "sprite-bookshelf",
+      "file": "sprites/sprite-bookshelf.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "803d8f6dc3ef4079c3914c673c9ac3e6921a72107805821c96926701be6bf7dc"
+    },
+    {
+      "name": "sprite-candle-stand",
+      "file": "sprites/sprite-candle-stand.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "90a5188a62e10d99a73cb73a0d6fc834064aa6847d538ec5d181aa8a1ec435df"
+    },
+    {
+      "name": "sprite-lantern",
+      "file": "sprites/sprite-lantern.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "dcfd8554d8ac5a2bde4bedfe6d1c16215677b08be6b6e9098c9825bc6f59f91e"
+    },
+    {
+      "name": "sprite-pot-clay",
+      "file": "sprites/sprite-pot-clay.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "8e1e4d1814ea6e0572e06661b0a3b028e9f2c2bbb53871cfe0e927b9d8dccfb5"
+    },
+    {
+      "name": "sprite-sack",
+      "file": "sprites/sprite-sack.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "eb6c3b1e59ead680bd5e12184a7673762a94af6495a1fcafc8d98b9cf3ccd9cf"
+    },
+    {
+      "name": "sprite-ladder",
+      "file": "sprites/sprite-ladder.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "bf63a105bf584747cc6f8f546d4dc5568818063aaa541af3a6befc486ef91b69"
+    },
+    {
+      "name": "sprite-lever",
+      "file": "sprites/sprite-lever.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "1f7ed3fc720878fd66a5e79c82c63bbc5a8ba2867ddb49acc5e53ab20491029f"
+    },
+    {
+      "name": "sprite-pressure-plate",
+      "file": "sprites/sprite-pressure-plate.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "84f5c6ae5da37c3b5bccadb248c9373172a50d851bd80ac92e88d308089c8cd1"
+    },
+    {
+      "name": "sprite-trap-spikes",
+      "file": "sprites/sprite-trap-spikes.png",
+      "category": "prop",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "349dd1687b8c38ebf6e11284887ede28541356c132b4e3cc790e6afb2df7883e"
+    }
+  ]
+}

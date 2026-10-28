@@ -1254,3 +1254,4 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-tiles-dungeon-wall-b1/` — 12 wall tiles
 - `packs/openkit-icons-status-fx-b1/` — 16 status/buff icons
 - `packs/openkit-icons-consumables-b1/` — 16 consumable icons
+- `packs/openkit-sprites-props-dungeon-b1/` — 16 dungeon prop sprites
