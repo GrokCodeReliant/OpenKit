@@ -1,0 +1,89 @@
+{
+  "pack": "openkit-tiles-outdoor-ground-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_tiles.py",
+  "count": 12,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "2f71031d16e2dfac668c84e52f60187092ea0a9f8559bc11637f33c2d6799804"
+  },
+  "tiles": [
+    {
+      "name": "tile-grass-lush",
+      "file": "tiles/tile-grass-lush.png",
+      "kind": "seamless",
+      "sha256": "a046b3c9047137cf7a4104e2e66a42260878815b52eb488c8365da77cb051227"
+    },
+    {
+      "name": "tile-grass-dry",
+      "file": "tiles/tile-grass-dry.png",
+      "kind": "seamless",
+      "sha256": "d3dbe2f9aa206bd70cfffb49f4623b504e47b52e3a97aef435cd49c87aa4c94a"
+    },
+    {
+      "name": "tile-dirt-path",
+      "file": "tiles/tile-dirt-path.png",
+      "kind": "seamless",
+      "sha256": "61a7c5f0d767bbb895e362c93d5df8504865fc9b8b40f45eec5f12d396a9aa48"
+    },
+    {
+      "name": "tile-dirt-mud",
+      "file": "tiles/tile-dirt-mud.png",
+      "kind": "seamless",
+      "sha256": "a95d6c4f5713805807d12cae496ade687f2ea65f778ac07174666ac0b7f4c02b"
+    },
+    {
+      "name": "tile-sand-shore",
+      "file": "tiles/tile-sand-shore.png",
+      "kind": "seamless",
+      "sha256": "700b59e9f17639d396522d6e1b8fe71b571adfd6eb305436fa289e0cd3f7c3f6"
+    },
+    {
+      "name": "tile-stone-path",
+      "file": "tiles/tile-stone-path.png",
+      "kind": "seamless",
+      "sha256": "ee1291fe57742897ef57f445ada8e9a850d7de7a50d266e27d95b471a5647d21"
+    },
+    {
+      "name": "tile-cobble-road",
+      "file": "tiles/tile-cobble-road.png",
+      "kind": "seamless",
+      "sha256": "595237c5e05e6fae9777269975bdec1cc8298fb99d2ae7e3a588dc624fc960c7"
+    },
+    {
+      "name": "tile-water-shallow",
+      "file": "tiles/tile-water-shallow.png",
+      "kind": "seamless",
+      "sha256": "18aabadd915ed114be09c0ab03d5994c2d0dea28770228fb4ae38e421cda5a85"
+    },
+    {
+      "name": "tile-water-deep",
+      "file": "tiles/tile-water-deep.png",
+      "kind": "seamless",
+      "sha256": "adf4e42650c86c7f9bcd798e486093a5d4065e1a7d47df393cf3f1296b0669a7"
+    },
+    {
+      "name": "tile-snow-ground",
+      "file": "tiles/tile-snow-ground.png",
+      "kind": "seamless",
+      "sha256": "20b5bed2317b882b4a720fab604ee17d8a1369db072ae93078487cb9334f8aa4"
+    },
+    {
+      "name": "tile-flower-patch",
+      "file": "tiles/tile-flower-patch.png",
+      "kind": "accent",
+      "sha256": "19e1a1f89cac6cac00808510337166fd1487b811564e96a6dbf34c437d2f0899"
+    },
+    {
+      "name": "tile-rock-cluster",
+      "file": "tiles/tile-rock-cluster.png",
+      "kind": "accent",
+      "sha256": "1204be976b2507227ee517330ec1452bcf865de52b4526ec82f62e589a302b8f"
+    }
+  ]
+}
