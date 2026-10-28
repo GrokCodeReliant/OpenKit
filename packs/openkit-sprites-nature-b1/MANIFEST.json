@@ -1,0 +1,170 @@
+{
+  "pack": "openkit-sprites-nature-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256",
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "sprites": [
+    {
+      "name": "sprite-tree-oak",
+      "file": "sprites/sprite-tree-oak.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "4bae04a8eb789ef8f915aa953a1594d718e55ee95118bdbea871217abd9ca842"
+    },
+    {
+      "name": "sprite-tree-pine",
+      "file": "sprites/sprite-tree-pine.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "4cc41c4a59b5e133df107033f5ec796c56aa8a2fe6c88a7cdb832a52f0f7c210"
+    },
+    {
+      "name": "sprite-tree-dead",
+      "file": "sprites/sprite-tree-dead.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "dab6a20ecdc43acd42fb5accdf17bd8d754084a7cec3fa8ecea5db66a89611f8"
+    },
+    {
+      "name": "sprite-bush",
+      "file": "sprites/sprite-bush.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "6195d569c8b18a6475812b975f42a9694d12f2bf5f61b6750a1264e846e43792"
+    },
+    {
+      "name": "sprite-flower-red",
+      "file": "sprites/sprite-flower-red.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "d6b82311a859c82fd99d4a59715706b9bee25d548e955d90c5a7e563e0facb71"
+    },
+    {
+      "name": "sprite-flower-yellow",
+      "file": "sprites/sprite-flower-yellow.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "eef34a904bb3d42ebb8909451d7840e7dbf994b416c7451537cfb4067de1546c"
+    },
+    {
+      "name": "sprite-mushroom-red",
+      "file": "sprites/sprite-mushroom-red.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "cec4ec47e73b8f1157da7cdd4c8ef47dfc22d31e4ddd05cc313985f9dca0bc6c"
+    },
+    {
+      "name": "sprite-rock-boulder",
+      "file": "sprites/sprite-rock-boulder.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "2f0cce3580f32eb4edd000c2e5eefd469bbb6683c1390e5f28fe833546debaf5"
+    },
+    {
+      "name": "sprite-log-fallen",
+      "file": "sprites/sprite-log-fallen.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "832faf8e7b29ade59a6c72b5951a6ff06bdb59b63f891b2cd2e628e9f4831108"
+    },
+    {
+      "name": "sprite-stump",
+      "file": "sprites/sprite-stump.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "e87ead59e19f629b1d664c1348e5ff3dbaa09af30513ec3206936ad32c98b9a9"
+    },
+    {
+      "name": "sprite-campfire",
+      "file": "sprites/sprite-campfire.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "b1eb6ea943c59df5c9ee6faccf32c7bdd0497ee9f26d54375250adb844848e0d"
+    },
+    {
+      "name": "sprite-tent",
+      "file": "sprites/sprite-tent.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "2a0820c4479d5fbbc4b203a3fc4fda070b2360c529cb9384367798ad3adfda74"
+    },
+    {
+      "name": "sprite-signpost",
+      "file": "sprites/sprite-signpost.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "36ba06dfbfcba7b3500331a1142b04cccf1d448effed9969a130f5d4f1bb7a2f"
+    },
+    {
+      "name": "sprite-well",
+      "file": "sprites/sprite-well.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "0058fc6a0b64ec1282effeaecdf6d15d7d0c6734da7b5e6ed37c9a2abef78758"
+    },
+    {
+      "name": "sprite-fence-post",
+      "file": "sprites/sprite-fence-post.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "27fecaf27c831e9bd25c1c612f6a42da864b6347b625f817f60099473b765068"
+    },
+    {
+      "name": "sprite-wheat-sheaf",
+      "file": "sprites/sprite-wheat-sheaf.png",
+      "category": "nature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "df2afe3fdc54ade523b66eeef6c808e7c9a439c5ec3b0810093c9e340dc957f8"
+    }
+  ]
+}
