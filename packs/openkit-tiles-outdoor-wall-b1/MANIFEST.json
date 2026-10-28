@@ -1,0 +1,118 @@
+{
+  "pack": "openkit-tiles-outdoor-wall-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_tiles.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "cd8e6b0aaa8accf6807226614d809c8f8d8683211a6c5a4983174e94c28d2d5b"
+  },
+  "tiles": [
+    {
+      "name": "tile-hedge-green",
+      "file": "tiles/tile-hedge-green.png",
+      "kind": "seamless",
+      "sha256": "0f3e4393e14d072b4316b6450d5178b278e4f9497a16e01c993ff69f624ac06a"
+    },
+    {
+      "name": "tile-hedge-flowered",
+      "file": "tiles/tile-hedge-flowered.png",
+      "kind": "seamless",
+      "sha256": "b272370abead1f8e9b93393dd965f45029b33d8030b101234127963561f4d471"
+    },
+    {
+      "name": "tile-hedge-gap",
+      "file": "tiles/tile-hedge-gap.png",
+      "kind": "directional",
+      "sha256": "306c9a9ff0310131183d94da4df6c3521291285d7185f2ae8b9c7b2c29d1a24e"
+    },
+    {
+      "name": "tile-palisade-wood",
+      "file": "tiles/tile-palisade-wood.png",
+      "kind": "edge",
+      "sha256": "f38b676c88c86a5bada80a62947f7032ddafd4bcacb899b1c111f3432f172824"
+    },
+    {
+      "name": "tile-palisade-gate",
+      "file": "tiles/tile-palisade-gate.png",
+      "kind": "directional",
+      "sha256": "413fe8ac75ed99cef200f916a65e85834d087d40eb05cdaba2bf6e357c5c0a2b"
+    },
+    {
+      "name": "tile-fence-wattle",
+      "file": "tiles/tile-fence-wattle.png",
+      "kind": "edge",
+      "sha256": "9d79caf55570ea6be34d6e32b4d3f2d0a61e6d68f647464e5468aca0b707b986"
+    },
+    {
+      "name": "tile-fence-rail",
+      "file": "tiles/tile-fence-rail.png",
+      "kind": "edge",
+      "sha256": "78ee77146462c23e9905a4376377d8234b3a5bebba1b55a368e9579246bf46a4"
+    },
+    {
+      "name": "tile-fence-stone-low",
+      "file": "tiles/tile-fence-stone-low.png",
+      "kind": "edge",
+      "sha256": "43b26d391b128292fbd294437fd61305e8fe7da7fb3b830287cbb2bd685d5428"
+    },
+    {
+      "name": "tile-wall-castle-ashlar",
+      "file": "tiles/tile-wall-castle-ashlar.png",
+      "kind": "seamless",
+      "sha256": "98b00e449bf738dcabf6ddd7b1c247d46de70273a83578b85f6b824fb696baf1"
+    },
+    {
+      "name": "tile-wall-castle-battlement",
+      "file": "tiles/tile-wall-castle-battlement.png",
+      "kind": "edge",
+      "sha256": "8a30598382bfd80063e5b98b0d36313d5d2f706ad7b5bc2de02a9b8c13c3fc7c"
+    },
+    {
+      "name": "tile-wall-ivy-clad",
+      "file": "tiles/tile-wall-ivy-clad.png",
+      "kind": "fill",
+      "sha256": "151908a28b3dd377c35d69fd55e4a613c1a4eda8367f432db7d77c3b5155171b"
+    },
+    {
+      "name": "tile-wall-daub-white",
+      "file": "tiles/tile-wall-daub-white.png",
+      "kind": "seamless",
+      "sha256": "e98fe042f374f270e4e9ad3b0aa0e0012c83a14660e798d83e279ef5718d53c5"
+    },
+    {
+      "name": "tile-wall-fieldstone",
+      "file": "tiles/tile-wall-fieldstone.png",
+      "kind": "seamless",
+      "sha256": "1a3ff86014b6e4c82af15fecbb2894177527f21fcea5c94f3b8dcbd781a0cc09"
+    },
+    {
+      "name": "tile-wall-brick-red-outdoor",
+      "file": "tiles/tile-wall-brick-red-outdoor.png",
+      "kind": "seamless",
+      "sha256": "70e907b2705daf8bb891f617d3fd4e3f712142c8b492cc295a024d1f29080d92"
+    },
+    {
+      "name": "tile-garden-trellis",
+      "file": "tiles/tile-garden-trellis.png",
+      "kind": "fill",
+      "sha256": "cc09589292e22af27c4865b521f2cf702820301f296ab0c4d1a040844e3dcb47"
+    },
+    {
+      "name": "tile-gate-arch-stone",
+      "file": "tiles/tile-gate-arch-stone.png",
+      "kind": "directional",
+      "sha256": "f146b5d9fa8e8fbe6232ebc7c11e9f390f9df8b5254d5b377de1afaf3171616e"
+    }
+  ],
+  "judgment_calls": [
+    "Generic outdoor walls, fences and hedges; no specific real-world site depicted.",
+    "All geometry procedural; no third-party assets.",
+    "No likeness of any person, brand or protected design."
+  ]
+}
