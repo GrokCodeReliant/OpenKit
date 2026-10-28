@@ -1,0 +1,90 @@
+{
+  "pack": "openkit-tiles-rooftop-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_tiles.py",
+  "count": 12,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "f0b74a02050df36a1f6f5839d8c76329862b42d4f754540c0ae1310bf90d2f7a"
+  },
+  "tiles": [
+    {
+      "name": "tile-roof-thatch-flat",
+      "file": "tiles/tile-roof-thatch-flat.png",
+      "kind": "seamless",
+      "sha256": "f5448172f5acf3ac010cddc330fecad75c074539ee8a11e6c67b596c17942b21"
+    },
+    {
+      "name": "tile-roof-thatch-ridge-flat",
+      "file": "tiles/tile-roof-thatch-ridge-flat.png",
+      "kind": "seamless",
+      "sha256": "2cf72c44fcbd1a76c78e7b8b5083f3a16416feceb30282390456b4a9bd57c5a3"
+    },
+    {
+      "name": "tile-roof-slate",
+      "file": "tiles/tile-roof-slate.png",
+      "kind": "seamless",
+      "sha256": "9970fabfde5f8c0c5ce282f530354c09230901218c47792ffb9ca748d6410b5c"
+    },
+    {
+      "name": "tile-roof-slate-ridge",
+      "file": "tiles/tile-roof-slate-ridge.png",
+      "kind": "seamless",
+      "sha256": "a3593c86b458b85df540b686fa0b00e959b6b1638251f16b94e89871e0808179"
+    },
+    {
+      "name": "tile-roof-clay-flat",
+      "file": "tiles/tile-roof-clay-flat.png",
+      "kind": "seamless",
+      "sha256": "c8d99730a76a7b720614f50588401c6a74fa1e77d4cb813db91754cc10ca1a89"
+    },
+    {
+      "name": "tile-roof-wood-shake",
+      "file": "tiles/tile-roof-wood-shake.png",
+      "kind": "seamless",
+      "sha256": "67e2f554b936a23fe86f07a5e8b23b47bcc22a4c84e3cc7985c73dab14957eea"
+    },
+    {
+      "name": "tile-wall-stucco",
+      "file": "tiles/tile-wall-stucco.png",
+      "kind": "seamless",
+      "sha256": "a81eabe1f4b534a66ceedef6d908626e69ce00b5bccf1d89aa0284a221a12a25"
+    },
+    {
+      "name": "tile-wall-timber-frame",
+      "file": "tiles/tile-wall-timber-frame.png",
+      "kind": "seamless",
+      "sha256": "0105e74044c3974cd79675e44d908466e3e183b89263ebeb17d3a79040df0919"
+    },
+    {
+      "name": "tile-chimney-brick",
+      "file": "tiles/tile-chimney-brick.png",
+      "kind": "accent",
+      "sha256": "31f405b7cc4b8e7db443ba1894c3b097d1631632f68d37c119b1a3b375dda656"
+    },
+    {
+      "name": "tile-window-shuttered",
+      "file": "tiles/tile-window-shuttered.png",
+      "kind": "accent",
+      "sha256": "50169be5642ef105acf317814d38e3ac0ae800b6ccafc97dfaf1388af20a1f1f"
+    },
+    {
+      "name": "tile-door-wood",
+      "file": "tiles/tile-door-wood.png",
+      "kind": "accent",
+      "sha256": "37c57280616e07d1e0523bedc1befe38c5bd7dd60682b4b15d4f082864d0de37"
+    },
+    {
+      "name": "tile-eave-ornament",
+      "file": "tiles/tile-eave-ornament.png",
+      "kind": "accent",
+      "sha256": "928f22fa0221f6f85c27a4c0ea7dc5b525da346cced05bd09628dce74c9f23d6"
+    }
+  ],
+  "collision_check": "Renamed three tiles to *-flat (thatch, thatch-ridge, clay) to avoid kebab clash with 3D openkit-roof-tiles-b1 FBX assets."
+}
