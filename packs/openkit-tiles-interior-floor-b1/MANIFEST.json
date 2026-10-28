@@ -1,0 +1,86 @@
+{
+  "pack": "openkit-tiles-interior-floor-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_tiles.py",
+  "count": 12,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "tiles": [
+    {
+      "name": "tile-floor-hardwood",
+      "file": "tiles/tile-floor-hardwood.png",
+      "kind": "seamless",
+      "sha256": "7e38b250dc5bd32ef6e69c4de1313a75f57c78f9418ca19d50a9391f12012ca4"
+    },
+    {
+      "name": "tile-floor-parquet",
+      "file": "tiles/tile-floor-parquet.png",
+      "kind": "seamless",
+      "sha256": "f778193f8d2cb147b610180ee9cf1ae4a0a4fdc148bb1ceda126185cf0561e6c"
+    },
+    {
+      "name": "tile-floor-stone-checkered",
+      "file": "tiles/tile-floor-stone-checkered.png",
+      "kind": "seamless",
+      "sha256": "1c44f39084f5efbaab7867ec5fd35290b787a9b12a24e62c986cdfd217430d3a"
+    },
+    {
+      "name": "tile-floor-tile-ceramic",
+      "file": "tiles/tile-floor-tile-ceramic.png",
+      "kind": "seamless",
+      "sha256": "f6f7c91a7162b674d4abb835453ffb9f800dff040224b4e3abb43e5bb01a9dbf"
+    },
+    {
+      "name": "tile-floor-carpet-red",
+      "file": "tiles/tile-floor-carpet-red.png",
+      "kind": "seamless",
+      "sha256": "8d2171fe8da433dd44f3124761f706b2882d3d232f8ce2e667b9ae06128e8575"
+    },
+    {
+      "name": "tile-floor-carpet-blue",
+      "file": "tiles/tile-floor-carpet-blue.png",
+      "kind": "seamless",
+      "sha256": "95aa3e81b731f4cf452b3187f5b78dc4a058e7954350d263f038b2919cef0ee4"
+    },
+    {
+      "name": "tile-floor-rush-mat",
+      "file": "tiles/tile-floor-rush-mat.png",
+      "kind": "seamless",
+      "sha256": "fb9f0e52a0c72882d185bce4d9d2b3c9ea23173a7543738c863c4ef69825df9f"
+    },
+    {
+      "name": "tile-floor-tavern-plank",
+      "file": "tiles/tile-floor-tavern-plank.png",
+      "kind": "seamless",
+      "sha256": "72802f02898773ac4119c6b4d164e06e3c521c3b4980efb49cd01dff7a8a6968"
+    },
+    {
+      "name": "tile-floor-marble",
+      "file": "tiles/tile-floor-marble.png",
+      "kind": "seamless",
+      "sha256": "58d2a437e97c04a306f767a3ed6d6ff2e31a2e5d62fe7b7947a9a13ec6c68a21"
+    },
+    {
+      "name": "tile-floor-kitchen-stone",
+      "file": "tiles/tile-floor-kitchen-stone.png",
+      "kind": "seamless",
+      "sha256": "c52337e8875efbfa0c217fe88e6e53ef9d7eb1f97a97dc0a72bcb9170760d229"
+    },
+    {
+      "name": "tile-rug-hearth",
+      "file": "tiles/tile-rug-hearth.png",
+      "kind": "accent",
+      "sha256": "04107bf9e1bcf7f46d118b2bcbe92e6938f452134b4f866e394b0de67deb57b8"
+    },
+    {
+      "name": "tile-rug-bedside",
+      "file": "tiles/tile-rug-bedside.png",
+      "kind": "accent",
+      "sha256": "a9e83efb4203a7865c7f708c18705a780cb9931c96bd3d1ca8c1232f3cc0c7b9"
+    }
+  ]
+}
