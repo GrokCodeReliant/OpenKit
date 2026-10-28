@@ -1,0 +1,120 @@
+{
+  "pack": "openkit-tiles-interior-wall-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_tiles.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "989e39290a15938e33bf65d0d99a064b9ef5eeb757f12c04e19fb15baf3879f3"
+  },
+  "tiles": [
+    {
+      "name": "tile-intwall-plaster-cream",
+      "file": "tiles/tile-intwall-plaster-cream.png",
+      "kind": "fill",
+      "sha256": "b2120176a315ba0b81662db18de20c49d8658723a7464345fc183d0ad4f32188"
+    },
+    {
+      "name": "tile-intwall-plaster-peach",
+      "file": "tiles/tile-intwall-plaster-peach.png",
+      "kind": "fill",
+      "sha256": "6171463944f17356f8f504c04f7d95a607dc170a95210d213fb9eeb1cb195de2"
+    },
+    {
+      "name": "tile-intwall-wainscot-oak",
+      "file": "tiles/tile-intwall-wainscot-oak.png",
+      "kind": "fill",
+      "sha256": "3bc7f0358fae0cc90f357aebf210f156b53ac0f2837e07ed1a7b89a13e7f09e5"
+    },
+    {
+      "name": "tile-intwall-wainscot-dark",
+      "file": "tiles/tile-intwall-wainscot-dark.png",
+      "kind": "fill",
+      "sha256": "aeab44c03c69ba49c353c42c97da2737afca8a355c59c20715ed41932e254ec7"
+    },
+    {
+      "name": "tile-intwall-wallpaper-floral",
+      "file": "tiles/tile-intwall-wallpaper-floral.png",
+      "kind": "fill",
+      "sha256": "50999932d260dd17c0a1e84d7fd324da677cbcb7bfbeabe2a40181f42f39d246"
+    },
+    {
+      "name": "tile-intwall-wallpaper-stripe",
+      "file": "tiles/tile-intwall-wallpaper-stripe.png",
+      "kind": "fill",
+      "sha256": "1610ea8fbe7730b7d8b871fc681b985bcc328fa5f20bd1d461ef416628e4bd75"
+    },
+    {
+      "name": "tile-intwall-stone-hearth",
+      "file": "tiles/tile-intwall-stone-hearth.png",
+      "kind": "feature",
+      "sha256": "624665547ce303e79a871fdfe0ce9d3f0223563ff90457c7132d32f2b2dcb492"
+    },
+    {
+      "name": "tile-intwall-bookshelf-filled",
+      "file": "tiles/tile-intwall-bookshelf-filled.png",
+      "kind": "feature",
+      "sha256": "715dfd609f51a15ff6c131405e35922f0ef3f4c52dd4f536c8975fcfd38af9e7"
+    },
+    {
+      "name": "tile-intwall-tapestry-red",
+      "file": "tiles/tile-intwall-tapestry-red.png",
+      "kind": "feature",
+      "sha256": "7c08d01f41985d1e34f1602484612afbef6f2df2d3bf233e0083a1d6ccb375f3"
+    },
+    {
+      "name": "tile-intwall-half-timber",
+      "file": "tiles/tile-intwall-half-timber.png",
+      "kind": "fill",
+      "sha256": "4b6fa1b48176f744fb2f9aebdb0fdc92d9166ceb629339e024f61feac234bf0f"
+    },
+    {
+      "name": "tile-intwall-panel-carved",
+      "file": "tiles/tile-intwall-panel-carved.png",
+      "kind": "fill",
+      "sha256": "8a2f7f212c9b4e5c9858eb065262eeb4c71d784a89269e5e4decb7542479b375"
+    },
+    {
+      "name": "tile-intwall-brick-painted",
+      "file": "tiles/tile-intwall-brick-painted.png",
+      "kind": "fill",
+      "sha256": "66976fc67827be355374d1164be53cfb547e1f5fe1b382f1ada4503fc4496e81"
+    },
+    {
+      "name": "tile-intwall-lathe-lath",
+      "file": "tiles/tile-intwall-lathe-lath.png",
+      "kind": "fill",
+      "sha256": "0a0f016e9a3a455bf53fd9cf585858e2dc86790e1df5390f4edd0d7e4ffd1ef5"
+    },
+    {
+      "name": "tile-intwall-nicheshelf",
+      "file": "tiles/tile-intwall-nicheshelf.png",
+      "kind": "feature",
+      "sha256": "d491b66dba3a3e75c3b9df2d541c3a55df276ba47791c3524bc43987ab6b204c"
+    },
+    {
+      "name": "tile-intwall-window-bay",
+      "file": "tiles/tile-intwall-window-bay.png",
+      "kind": "feature",
+      "sha256": "8953eb72177b087c7257ac6fe7a0ba5220b2b14d060d96e29d8e56e1edcdbe9d"
+    },
+    {
+      "name": "tile-intwall-door-panelled",
+      "file": "tiles/tile-intwall-door-panelled.png",
+      "kind": "feature",
+      "sha256": "674b5f7768e6fa51d90cf71802af96cc793ef054b4a384f3d27943811cc58b86"
+    }
+  ],
+  "judgment_calls": [
+    "Generic fantasy interior walls; no specific real building depicted.",
+    "All geometry procedural; no third-party assets.",
+    "No likeness of any real person.",
+    "tile-intwall- prefix used to avoid collisions with existing wall tiles.",
+    "Fill tiles wrap seamlessly; feature tiles are centred accents."
+  ]
+}
