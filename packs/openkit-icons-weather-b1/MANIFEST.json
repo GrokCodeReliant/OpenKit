@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-icons-weather-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_icons.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "e499f106a8c11e85d3284330681bd542a0f6c16b2a3619a154660db3e10be26d"
+  },
+  "icons": [
+    {
+      "name": "icon-weather-sun",
+      "file": "icons/icon-weather-sun.png",
+      "category": "weather",
+      "sha256": "a0c05e239edcb6875dc3298304868267a2160ea0057983ad6cee35e156aad0f9"
+    },
+    {
+      "name": "icon-weather-moon",
+      "file": "icons/icon-weather-moon.png",
+      "category": "weather",
+      "sha256": "f0440665416bd060ee46951d2aa3de1d3df1bf45f69f5bb249fdc0897cd93ac0"
+    },
+    {
+      "name": "icon-weather-cloud",
+      "file": "icons/icon-weather-cloud.png",
+      "category": "weather",
+      "sha256": "9b16094fa06b4bfab74878e81d7d84c8033d39963db2fa4e9e76a99ff16c4e9c"
+    },
+    {
+      "name": "icon-weather-rain",
+      "file": "icons/icon-weather-rain.png",
+      "category": "weather",
+      "sha256": "7720f8dab7e48130d7971bae8135a6a9926993c836432c036285a15b1e10fe45"
+    },
+    {
+      "name": "icon-weather-storm",
+      "file": "icons/icon-weather-storm.png",
+      "category": "weather",
+      "sha256": "de32cb6f3bf9ae95acb599eaed09370e61909dec18ca035e6dea47ee4d56951c"
+    },
+    {
+      "name": "icon-weather-snow",
+      "file": "icons/icon-weather-snow.png",
+      "category": "weather",
+      "sha256": "558d86b60f71d54a8627d9964e0560ec11c33d100409bbc525c12b22ca76e9ff"
+    },
+    {
+      "name": "icon-weather-fog",
+      "file": "icons/icon-weather-fog.png",
+      "category": "weather",
+      "sha256": "97db3c72b256253dafef5d9e194b6e91e3748129f2854cc26593621334b2c703"
+    },
+    {
+      "name": "icon-weather-wind",
+      "file": "icons/icon-weather-wind.png",
+      "category": "weather",
+      "sha256": "03d42a698a99ae004e8d5244b91a2ec26f4f4b44cf43b332fff54790396e8f46"
+    },
+    {
+      "name": "icon-weather-hail",
+      "file": "icons/icon-weather-hail.png",
+      "category": "weather",
+      "sha256": "a1da3942ba3b0ad9de995e2a93733732ac17660f4117463112f5e42229843138"
+    },
+    {
+      "name": "icon-weather-rainbow",
+      "file": "icons/icon-weather-rainbow.png",
+      "category": "weather",
+      "sha256": "c8a3462818ab722eb0cd245202db36c122c9c56ffc51dd67b90e754bed5d7f4b"
+    },
+    {
+      "name": "icon-weather-sunrise",
+      "file": "icons/icon-weather-sunrise.png",
+      "category": "weather",
+      "sha256": "5d3d013d787ab7f9ffc57b1e6394b55a4588406d348f4e3a0cee06b0a919f733"
+    },
+    {
+      "name": "icon-weather-sunset",
+      "file": "icons/icon-weather-sunset.png",
+      "category": "weather",
+      "sha256": "8c7e9720402424bf33dc1c42f9eab971cbc08ef2d16c370dd7c1230a4028b24c"
+    },
+    {
+      "name": "icon-weather-stars",
+      "file": "icons/icon-weather-stars.png",
+      "category": "weather",
+      "sha256": "b7b329aa9117feabd681b14c2d56485eca8a4cb15f8803a3e3b096c3e6081ca0"
+    },
+    {
+      "name": "icon-weather-tornado",
+      "file": "icons/icon-weather-tornado.png",
+      "category": "weather",
+      "sha256": "73d53b5323ba704ad89a68929ad623d2ddd4a652c8027034aec8d5d0260002b2"
+    },
+    {
+      "name": "icon-weather-heat",
+      "file": "icons/icon-weather-heat.png",
+      "category": "weather",
+      "sha256": "0b375bef4fe0d0ef8f3d0c9779594ac9a8fa4f7ef17dd2129e1dae3c7c2623f2"
+    },
+    {
+      "name": "icon-weather-blizzard",
+      "file": "icons/icon-weather-blizzard.png",
+      "category": "weather",
+      "sha256": "1a0a9ce209a9c233599587b9da729a53307c3d6e0b3dd762c32b98a2628ca6a4"
+    }
+  ],
+  "judgment_calls": [
+    "Generic weather/time-of-day glyphs built from procedural primitives only.",
+    "No third-party assets.",
+    "No likeness of any real person, brand, or logo.",
+    "Not Forms."
+  ]
+}
