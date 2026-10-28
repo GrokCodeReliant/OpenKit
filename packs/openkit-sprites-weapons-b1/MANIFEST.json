@@ -1,0 +1,170 @@
+{
+  "pack": "openkit-sprites-weapons-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256",
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "sprites": [
+    {
+      "name": "sprite-sword-long",
+      "file": "sprites/sprite-sword-long.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "332b8112e38fb7f6cf651cc92cc72bf975fd1c10eb3a9b121057b0cd118e3cd3"
+    },
+    {
+      "name": "sprite-sword-short",
+      "file": "sprites/sprite-sword-short.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "f97f2ac9d2e6e65a790c1febae946f6dc208488cdcd38ebf4c386953de253ec6"
+    },
+    {
+      "name": "sprite-axe-battle",
+      "file": "sprites/sprite-axe-battle.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "3131adfd76c64b2b10ea04293808f4547394b0645a47dfa011da4f81660dffb8"
+    },
+    {
+      "name": "sprite-mace",
+      "file": "sprites/sprite-mace.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "1430c14eb776eff958a7ceff7a05a5cf8074b84836fcf9695a1778a65f31e17b"
+    },
+    {
+      "name": "sprite-spear",
+      "file": "sprites/sprite-spear.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "370139974c4e3436b6f0003ee3dc263c7cfe52cd26dbd4477c0aad9d6141a1b6"
+    },
+    {
+      "name": "sprite-bow-unstrung",
+      "file": "sprites/sprite-bow-unstrung.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "f86091dc6f235f0ba637871cdf879017b43ed20533f9232a429b9b0628754c27"
+    },
+    {
+      "name": "sprite-crossbow",
+      "file": "sprites/sprite-crossbow.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "d19ca520b3d552f8abbb03cbbba782eda62563d6951cd380b996ef8771d0391c"
+    },
+    {
+      "name": "sprite-dagger",
+      "file": "sprites/sprite-dagger.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "8462f5ca4d5261471178d864a5059fb2735e79624750fc2120c57af73ead8855"
+    },
+    {
+      "name": "sprite-shield-kite",
+      "file": "sprites/sprite-shield-kite.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ba5ac322f6691b5e6e890cd58a0615f6388a97180b7340097b6b30f46da85bb4"
+    },
+    {
+      "name": "sprite-shield-round",
+      "file": "sprites/sprite-shield-round.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "73fec3567911784bd28d50cebc9a96e1198e6057a35b32dd413b5a58fe86cf3f"
+    },
+    {
+      "name": "sprite-staff",
+      "file": "sprites/sprite-staff.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "219ecd467b00052fd6beea77cde1ae9b9fa9e4c2e66630ee9e8dadcf305b066c"
+    },
+    {
+      "name": "sprite-hammer-war",
+      "file": "sprites/sprite-hammer-war.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "1cc451f1866cdad92826f9cdd635b5a97922f1b9d0aa4bdefb7bb3956e7fe8ef"
+    },
+    {
+      "name": "sprite-halberd",
+      "file": "sprites/sprite-halberd.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "c40d641aa14e224cb9e643f4b4c03209e956b9e7b8bf0429462ceec824e5493b"
+    },
+    {
+      "name": "sprite-quiver-full",
+      "file": "sprites/sprite-quiver-full.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "5372858cacb019377c48359bff6309f4f73957669fb4eb333f3f07270d297b1b"
+    },
+    {
+      "name": "sprite-arrow",
+      "file": "sprites/sprite-arrow.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ae390baa3314e9ac71b8d6ed428a31538d982f6cdeafeb5690689a0ff7c34659"
+    },
+    {
+      "name": "sprite-helmet-steel",
+      "file": "sprites/sprite-helmet-steel.png",
+      "category": "weapon",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "b128b1a50da33195d961c2a3d90312284c308290a1ca1031c6d5dc1a1419b5ab"
+    }
+  ]
+}
