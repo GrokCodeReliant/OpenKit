@@ -1,0 +1,182 @@
+{
+  "pack": "openkit-sprites-props-town-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "d6f7ac451a9e78deb05b06f6691fc0555092eb2841995d16d4ab503b4561066b"
+  },
+  "sprites": [
+    {
+      "name": "sprite-market-awning",
+      "file": "sprites/sprite-market-awning.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "44821d5a10ca11e1d887d2831020cd6ba0fb2e06dd592a18e19ea1e7e6713857"
+    },
+    {
+      "name": "sprite-hanging-sign",
+      "file": "sprites/sprite-hanging-sign.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ba2e240ded45b9554e8f6b9be251af11f1ef0d1cd8eb3bc33b427dcf01fb14b4"
+    },
+    {
+      "name": "sprite-hand-cart",
+      "file": "sprites/sprite-hand-cart.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "052277cd9e7424e5f6a55d2f0b32edac4491943987aeb98919906dc058b581be"
+    },
+    {
+      "name": "sprite-wagon-wheel",
+      "file": "sprites/sprite-wagon-wheel.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "dd22b731b5e78ded66a209db6625e2156510fd2ba43afba3fa554c1394bd7cc7"
+    },
+    {
+      "name": "sprite-bread-basket",
+      "file": "sprites/sprite-bread-basket.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "5d199db4402f9660f1d167a20c5e1ae9ec5d374975e1e74371ffbf6341b60098"
+    },
+    {
+      "name": "sprite-fish-rack",
+      "file": "sprites/sprite-fish-rack.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "fa87713920cd2b3ae1c0d123567bf011d124214dce4094b241e92c6ce3c29048"
+    },
+    {
+      "name": "sprite-merchant-scale",
+      "file": "sprites/sprite-merchant-scale.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "d5340d6213d9c72053e8f8446b11f1ea9666ed6b72ca315781be7899088059b4"
+    },
+    {
+      "name": "sprite-cloth-bolt-roll",
+      "file": "sprites/sprite-cloth-bolt-roll.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "3899c9509fdb94c3b7e4188a0e8b0e7b04c1b1e6736d4587c5fb677cd73de0a9"
+    },
+    {
+      "name": "sprite-veggie-crate",
+      "file": "sprites/sprite-veggie-crate.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "fc8c2b5d245e898641e16349f19ff1451dd84ccd133866ed467bce790110b4b4"
+    },
+    {
+      "name": "sprite-wine-cask",
+      "file": "sprites/sprite-wine-cask.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "b2204febb94a728abc78093636da66f6f2f87a09c0da4bf84a0f66a6ccf64c67"
+    },
+    {
+      "name": "sprite-notice-board",
+      "file": "sprites/sprite-notice-board.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "60020b8d5655e4d283c1acaa3471ce48ca148a1085a47640c1416c0f9482eee0"
+    },
+    {
+      "name": "sprite-street-lamp",
+      "file": "sprites/sprite-street-lamp.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ed5fb818ec27e5d0b4c9a9f5cb50f495a012c41c3bde24a22259875416a55b61"
+    },
+    {
+      "name": "sprite-water-trough",
+      "file": "sprites/sprite-water-trough.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "e4fe0b24dc430e6063d9576887c2481a9e04890b04ae75009c4075b4a1cfb98c"
+    },
+    {
+      "name": "sprite-hitching-post",
+      "file": "sprites/sprite-hitching-post.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "3d59d2b7f6a30ece93c2dabd45143b6f8a090314d1e56bb2a59d5833298b3c74"
+    },
+    {
+      "name": "sprite-market-stall-empty",
+      "file": "sprites/sprite-market-stall-empty.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "5ddf8cc2b4a7f46c1e5b8b1aebac54a9a5a5930b378038dc27b6db1466d1a8a7"
+    },
+    {
+      "name": "sprite-town-well-pump",
+      "file": "sprites/sprite-town-well-pump.png",
+      "category": "prop/town",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "4ff73bd4662c37e5abdb35e4b90933c695cfc398ee40709cab743e2d19a9e180"
+    }
+  ],
+  "judgment_calls": [
+    "Generic town/market street props drawn from simple procedural shapes.",
+    "No third-party assets or references.",
+    "No real-person likeness; not derived from any Forms submission."
+  ]
+}
