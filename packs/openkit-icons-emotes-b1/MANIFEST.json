@@ -1,0 +1,120 @@
+{
+  "pack": "openkit-icons-emotes-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA transparent",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_icons.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "406054c8acf24b206ad3aa32adca35ddc6a7600d650fa918aa1489d5dc52f3aa"
+  },
+  "icons": [
+    {
+      "name": "icon-emote-smile",
+      "file": "icons/icon-emote-smile.png",
+      "category": "emote",
+      "sha256": "d6b0b8825753600efcd1cda7be9a8df17a2a5c973218ef050490d3ce90243bfc"
+    },
+    {
+      "name": "icon-emote-grin",
+      "file": "icons/icon-emote-grin.png",
+      "category": "emote",
+      "sha256": "87a56dff34ffbe65cad94fd644341a4594ac3f5a7b3778c2c46c45d2bb085dd2"
+    },
+    {
+      "name": "icon-emote-sad",
+      "file": "icons/icon-emote-sad.png",
+      "category": "emote",
+      "sha256": "87021d6eed91643deec3bc1bb4ae60984e83135f0eb79d36dad51d44e78b8a8f"
+    },
+    {
+      "name": "icon-emote-angry",
+      "file": "icons/icon-emote-angry.png",
+      "category": "emote",
+      "sha256": "fae87a6cfa6e3df508c96543b3632fe5e544cde2a490e1905b9e59f21842bd32"
+    },
+    {
+      "name": "icon-emote-surprised",
+      "file": "icons/icon-emote-surprised.png",
+      "category": "emote",
+      "sha256": "0a8a55fcd49f3c7e428cc0f0f6338c974cce680ab1991d99f218e16bd6522882"
+    },
+    {
+      "name": "icon-emote-wink",
+      "file": "icons/icon-emote-wink.png",
+      "category": "emote",
+      "sha256": "3bad067270f4e153cfde212881b1b8ad37ec3a5c9d212390353820dea67f8d45"
+    },
+    {
+      "name": "icon-emote-heart",
+      "file": "icons/icon-emote-heart.png",
+      "category": "emote",
+      "sha256": "db8096fa97ff5513ba7c5bf15d7b1f2374631d711c568b24727e61d598df4226"
+    },
+    {
+      "name": "icon-emote-thumbsup",
+      "file": "icons/icon-emote-thumbsup.png",
+      "category": "emote",
+      "sha256": "06ef56e31885c4497cd54683ea4bbe125d3176a3545a2086249335ea913e5022"
+    },
+    {
+      "name": "icon-emote-thumbsdown",
+      "file": "icons/icon-emote-thumbsdown.png",
+      "category": "emote",
+      "sha256": "66569deb2593b067613a26129e6087241173dbe1576a3453bb85d6c3f14cedf8"
+    },
+    {
+      "name": "icon-emote-sleep",
+      "file": "icons/icon-emote-sleep.png",
+      "category": "emote",
+      "sha256": "c8cfb9487686d5cbbe3435bf778c0d7d47228a4a4df781099f60fd3f1a8b919c"
+    },
+    {
+      "name": "icon-emote-sweat",
+      "file": "icons/icon-emote-sweat.png",
+      "category": "emote",
+      "sha256": "8ea170a35d55d3bf2f9df2b898aa01a1e6c2f872933f531dd28171e2650ce68f"
+    },
+    {
+      "name": "icon-emote-laugh",
+      "file": "icons/icon-emote-laugh.png",
+      "category": "emote",
+      "sha256": "a57e33c8f205838079b1e1ae2aa9a15f7f7b0b7865fb8a2e7f163acf7018f2b8"
+    },
+    {
+      "name": "icon-emote-confused",
+      "file": "icons/icon-emote-confused.png",
+      "category": "emote",
+      "sha256": "45d0b6a5f2f586eda19876d1350a2c88197f1b43971f17fce1b6b1712f005fff"
+    },
+    {
+      "name": "icon-emote-party",
+      "file": "icons/icon-emote-party.png",
+      "category": "emote",
+      "sha256": "b09b24555575659d3253358e7ec1821cd46cadff18d05adcd2780fbec125cb2f"
+    },
+    {
+      "name": "icon-emote-skull",
+      "file": "icons/icon-emote-skull.png",
+      "category": "emote",
+      "sha256": "13e0fecfc8e5212a0ba25dbdc2c667a7bb7e95f6e8b5cc758bb87572d144817c"
+    },
+    {
+      "name": "icon-emote-sparkle",
+      "file": "icons/icon-emote-sparkle.png",
+      "category": "emote",
+      "sha256": "9d010db69132973396073d608b1c5d3de610310d07bee71cc28ed28c09a2be6b"
+    }
+  ],
+  "judgment_calls": [
+    "Generic chat/reaction emotes built from simple circles and symbols; not NPC portraits (those live in icon-npc-*).",
+    "All geometry procedural; no third-party assets.",
+    "No likeness of any real person.",
+    "Not a clone of any vendor emoji set (no Forms / trademark designs).",
+    "Sleep Z and confused ? glyphs use the bundled Pillow default font, rendered to pixels."
+  ]
+}
