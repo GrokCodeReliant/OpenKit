@@ -1276,3 +1276,4 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-icons-weather-b1/` — 16 weather / time-of-day UI icons
 - `packs/openkit-tiles-interior-wall-b1/` — 16 interior wall tiles (tavern / home)
 - `packs/openkit-sprites-props-magic-b1/` — 16 magic / ritual prop sprites
+- `packs/openkit-sprites-vehicles-b1/` — 16 vehicle / cart / boat sprites

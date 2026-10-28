@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-sprites-vehicles-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "add5c0854252bff59c1b576fbb3f56c560a67471d889aab258740d22efd80a8c"
+  },
+  "sprites": [
+    {
+      "name": "sprite-wagon-covered",
+      "file": "sprites/sprite-wagon-covered.png",
+      "category": "vehicle",
+      "sha256": "59c076f51ec5dfa92db8ec00caab00b293d26c8fbde251e0040ef679f35e6b73"
+    },
+    {
+      "name": "sprite-carriage-coach",
+      "file": "sprites/sprite-carriage-coach.png",
+      "category": "vehicle",
+      "sha256": "51d5b5b55b2829a201a3edeb14ff61c45ec5ce36bc0c84e2f6b27207dc529f88"
+    },
+    {
+      "name": "sprite-cart-ox",
+      "file": "sprites/sprite-cart-ox.png",
+      "category": "vehicle",
+      "sha256": "c9a5d7d2ca56718bbc9edd7ea3967bf261c66a9708a0b629f288fb71620a13fd"
+    },
+    {
+      "name": "sprite-sled-wood",
+      "file": "sprites/sprite-sled-wood.png",
+      "category": "vehicle",
+      "sha256": "a2e83977647b39109ca1849887f4f2f50150d6a2b4c8fcae28628073a793fff6"
+    },
+    {
+      "name": "sprite-raft-log",
+      "file": "sprites/sprite-raft-log.png",
+      "category": "vehicle",
+      "sha256": "f52da30f92d87db5f6b79225d423f77228af9a9facdc912a1cc56b614b02a366"
+    },
+    {
+      "name": "sprite-canoe",
+      "file": "sprites/sprite-canoe.png",
+      "category": "vehicle",
+      "sha256": "a7c53b5cfebde08f2fe84dd742c11d4757a6f277960fedd11ca7c489651575e1"
+    },
+    {
+      "name": "sprite-rowboat",
+      "file": "sprites/sprite-rowboat.png",
+      "category": "vehicle",
+      "sha256": "124b9e0bbbc7a4779203c7324cfb0f4aba2d7638fedf7dbe35473c0d27541e94"
+    },
+    {
+      "name": "sprite-sailboat-small",
+      "file": "sprites/sprite-sailboat-small.png",
+      "category": "vehicle",
+      "sha256": "fc5a4a090630888ae7c89813be869d21459c9def4ca6af3927b33343fd1b52ab"
+    },
+    {
+      "name": "sprite-ship-cog",
+      "file": "sprites/sprite-ship-cog.png",
+      "category": "vehicle",
+      "sha256": "c640cdbcff0f4c2bcc1b48c7adc61fa379eef43395a6ee3a13e05d82abc1478a"
+    },
+    {
+      "name": "sprite-horse-brown",
+      "file": "sprites/sprite-horse-brown.png",
+      "category": "vehicle",
+      "sha256": "e593ac622ac4f8ecf36b18ac6b298e46b9c7d7fae821f2e8142b9c89ee187cfd"
+    },
+    {
+      "name": "sprite-horse-white",
+      "file": "sprites/sprite-horse-white.png",
+      "category": "vehicle",
+      "sha256": "5a1bc4fbec62f79789312fff420b8295808ceb2bdfc45371922166de508b06a6"
+    },
+    {
+      "name": "sprite-donkey",
+      "file": "sprites/sprite-donkey.png",
+      "category": "vehicle",
+      "sha256": "3b21dc59a07ffb6078516996d5a1da090d90c8b004e825761bddd3bbe654a232"
+    },
+    {
+      "name": "sprite-pony-cart",
+      "file": "sprites/sprite-pony-cart.png",
+      "category": "vehicle",
+      "sha256": "d4fd4f21ddadacf84c0a7e8c2967be89e5d456db8b61ba98a11ba80f2e9c16ee"
+    },
+    {
+      "name": "sprite-wheelbarrow",
+      "file": "sprites/sprite-wheelbarrow.png",
+      "category": "vehicle",
+      "sha256": "75857ff1db6c691fee6fa494c8cfbf0eac4ac35f835343a6d6868a73e88ab19e"
+    },
+    {
+      "name": "sprite-palanquin",
+      "file": "sprites/sprite-palanquin.png",
+      "category": "vehicle",
+      "sha256": "6aa63ebb5e8e7b4d9432942ea9a6a6c7e979e98153cfd108e78a197a937ce23f"
+    },
+    {
+      "name": "sprite-balloon-hotair",
+      "file": "sprites/sprite-balloon-hotair.png",
+      "category": "vehicle",
+      "sha256": "396acc5d6619fc57bd80d74cbd6d828260bbb480692a1f21e18e818b0a74ee2d"
+    }
+  ],
+  "judgment_calls": [
+    "Generic fantasy vehicles, boats and mounts only",
+    "No third-party assets; original procedural geometry",
+    "No likeness of real people or branded designs",
+    "Not Forms / no studio IP; horses and donkey are generic animals"
+  ]
+}
