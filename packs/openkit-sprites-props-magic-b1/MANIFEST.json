@@ -1,0 +1,118 @@
+{
+  "pack": "openkit-sprites-props-magic-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA transparent",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_sprites.py (Pillow, 4x supersample, LANCZOS)",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "edf665a748b605ef026bf105b8e87056d8b5911308a3f511bba4c11de796ce3a"
+  },
+  "sprites": [
+    {
+      "name": "sprite-crystal-ball",
+      "file": "sprites/sprite-crystal-ball.png",
+      "category": "prop/magic",
+      "sha256": "95dc43e6b3e7bb9c91dd86c04a7c54a42089874cc37e79f05f89c0c2e77dea06"
+    },
+    {
+      "name": "sprite-cauldron-iron",
+      "file": "sprites/sprite-cauldron-iron.png",
+      "category": "prop/magic",
+      "sha256": "9ae7b8952ebac11e297687e6e6564d2de7e1d5b56b3c1685f9b2b4aa49ebb154"
+    },
+    {
+      "name": "sprite-altar-stone",
+      "file": "sprites/sprite-altar-stone.png",
+      "category": "prop/magic",
+      "sha256": "9a608eda2717aa2fa295ad6f540ac4a474e9da33d9b78cc5aa97d8f69149a84e"
+    },
+    {
+      "name": "sprite-rune-circle",
+      "file": "sprites/sprite-rune-circle.png",
+      "category": "prop/magic",
+      "sha256": "439279bcd9bd2f45e29b560e18323ce752581cc8dcac1c70b4ca376a3818652a"
+    },
+    {
+      "name": "sprite-grimoire-open",
+      "file": "sprites/sprite-grimoire-open.png",
+      "category": "prop/magic",
+      "sha256": "76d3a65e96436673d4eccb27dbbf6154b4a836e69e02396f4dc6e710f25a75e1"
+    },
+    {
+      "name": "sprite-wand-oak",
+      "file": "sprites/sprite-wand-oak.png",
+      "category": "prop/magic",
+      "sha256": "b2549df3ed347fca1c6d826022a30a4f5b1b5b8a8cc5e547b4686c2af76e84a0"
+    },
+    {
+      "name": "sprite-orb-pedestal",
+      "file": "sprites/sprite-orb-pedestal.png",
+      "category": "prop/magic",
+      "sha256": "9e44e94e5fc2558e3b619159938b4cb6655d3d14f57bce3bd3fd4b1a6c6603cc"
+    },
+    {
+      "name": "sprite-magic-mirror",
+      "file": "sprites/sprite-magic-mirror.png",
+      "category": "prop/magic",
+      "sha256": "76aa86f145ee1d4f898410509c5d410f27f28ca7e1b23906381aaa80675eb77f"
+    },
+    {
+      "name": "sprite-ritual-candles",
+      "file": "sprites/sprite-ritual-candles.png",
+      "category": "prop/magic",
+      "sha256": "4da033a9b0fc474f99ccb3e887a233d67a73ce0f0c4c15e4546a71f3fbfe80fe"
+    },
+    {
+      "name": "sprite-pentacle-floor",
+      "file": "sprites/sprite-pentacle-floor.png",
+      "category": "prop/magic",
+      "sha256": "ba69f8bbf0df8ab10916e44513a30b237f7b4215c5770f31d6af86fd8b21e4db"
+    },
+    {
+      "name": "sprite-crystal-cluster",
+      "file": "sprites/sprite-crystal-cluster.png",
+      "category": "prop/magic",
+      "sha256": "b41aa43810149684307361e900236b930f08e18cc4e8b7a165c09c5d74d8369d"
+    },
+    {
+      "name": "sprite-hourglass-arcane",
+      "file": "sprites/sprite-hourglass-arcane.png",
+      "category": "prop/magic",
+      "sha256": "efcd70224ef7a384ff3858480a468180ea9a7a78bad2c039d36a3c7f4b1ab0a0"
+    },
+    {
+      "name": "sprite-brazier-blueflame",
+      "file": "sprites/sprite-brazier-blueflame.png",
+      "category": "prop/magic",
+      "sha256": "87d947c93fd2b7b266a4e6553a7b48fbc8cd1ebe042f674e7dcbf8738a86e6b3"
+    },
+    {
+      "name": "sprite-totem-carved",
+      "file": "sprites/sprite-totem-carved.png",
+      "category": "prop/magic",
+      "sha256": "c040b219750484b2bda2ee031a90cd1b2827e7bf8746fca126317f237e2f376e"
+    },
+    {
+      "name": "sprite-spellbook-stack",
+      "file": "sprites/sprite-spellbook-stack.png",
+      "category": "prop/magic",
+      "sha256": "cc749806e605c7298f63eaf76905c932ff2bba66aa0c8bb600282c382b30962a"
+    },
+    {
+      "name": "sprite-portal-arch",
+      "file": "sprites/sprite-portal-arch.png",
+      "category": "prop/magic",
+      "sha256": "6847a56e4b329774761b6126d60f3d467c0461e370d684d52216279f067e845b"
+    }
+  ],
+  "judgment_calls": [
+    "Generic fantasy magic props only; no likeness, no Forms, no studio IP.",
+    "Names chosen to avoid existing sprite-* (e.g. sprite-magic-mirror is distinct from sprite-mirror-wall).",
+    "Pentacle and rune circle are flat floor decals drawn in pseudo-perspective/top-down."
+  ]
+}
