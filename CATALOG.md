@@ -1267,3 +1267,4 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-icons-npc-faces-b1/` — 16 NPC/class face glyphs
 - `packs/openkit-sprites-creatures-b1/` — 16 fantasy creature/enemy sprites
 - `packs/openkit-tiles-water-b1/` — 16 water and shore tiles
+- `packs/openkit-sprites-props-town-b1/` — 16 town/market prop sprites
