@@ -1,0 +1,170 @@
+{
+  "pack": "openkit-icons-status-fx-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256 transparent",
+  "generator": "src/gen_icons.py",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "icons": [
+    {
+      "name": "icon-status-poison",
+      "file": "icons/icon-status-poison.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "52f76922738cca04f622a1a0acb0353b29113b37e44cdb0ecf14e6465f80d289"
+    },
+    {
+      "name": "icon-status-burn",
+      "file": "icons/icon-status-burn.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "7bf948f858350b8079a0068b55a51281e383d120e9e6c65b072b1834f485f26f"
+    },
+    {
+      "name": "icon-status-freeze",
+      "file": "icons/icon-status-freeze.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "570f9ce8b45b8c755935725463135164821f364fb0ca9524af9077054fc86408"
+    },
+    {
+      "name": "icon-status-stun",
+      "file": "icons/icon-status-stun.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "8f94aa636fa7fd2032c8d3c323dc1c6c42c39813b46265ee1ace82e168efcf19"
+    },
+    {
+      "name": "icon-status-bleed",
+      "file": "icons/icon-status-bleed.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "09da3af2177e7dc5552a0bb4302e0809f08e073624e9131ff9f51836eeb7c554"
+    },
+    {
+      "name": "icon-status-regen",
+      "file": "icons/icon-status-regen.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "a56eba045befcd0266d75d538346a72e1c39b7bbb2737d055fe03a52315a4580"
+    },
+    {
+      "name": "icon-status-shield-buff",
+      "file": "icons/icon-status-shield-buff.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "2011fb32a9c3518fde180dd64b500214cdcb48ca195334204897f520a5fb60b5"
+    },
+    {
+      "name": "icon-status-speed",
+      "file": "icons/icon-status-speed.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "2f6cced5e4a71395fad4e829f2291314dc521aef226fe78c8dbb53efd7c10b27"
+    },
+    {
+      "name": "icon-status-slow",
+      "file": "icons/icon-status-slow.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "5ec80874760ebadb5f4ebb65ab14310d64659c25a340576b8afb70c988708863"
+    },
+    {
+      "name": "icon-status-strength",
+      "file": "icons/icon-status-strength.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "6f3b0aab4b5e70b94f26b325852d63ffa99abac78f61653877b6bca78615be03"
+    },
+    {
+      "name": "icon-status-weakness",
+      "file": "icons/icon-status-weakness.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "d75180cba3a19319403c4fd3580e5e527fa726a73a734cdd41807b555147a9e5"
+    },
+    {
+      "name": "icon-status-invisibility",
+      "file": "icons/icon-status-invisibility.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "7c9de059cadef105bd240ee832ccd7f6441c376a84d41dbd3de9a1b756d49cdf"
+    },
+    {
+      "name": "icon-status-silence",
+      "file": "icons/icon-status-silence.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "5fdb1ef4e6e98b23337766383c7b67a0be2415ceb77118f67f43ba14b4141318"
+    },
+    {
+      "name": "icon-status-confusion",
+      "file": "icons/icon-status-confusion.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "4fe3a77da5a6153e40a951ffacb25731fc8301f46298f4b49fb652d4a06597ba"
+    },
+    {
+      "name": "icon-status-rooted",
+      "file": "icons/icon-status-rooted.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "a85c1d920a5fa65d09539cd586e27518237dfafb10f037a7d0f56fb39845c46f"
+    },
+    {
+      "name": "icon-status-blessed",
+      "file": "icons/icon-status-blessed.png",
+      "category": "status",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "da2e2d4a9aa8db85861db85150a3e6fdbc1f51dd6909edbf015d2f9493196bb5"
+    }
+  ]
+}
