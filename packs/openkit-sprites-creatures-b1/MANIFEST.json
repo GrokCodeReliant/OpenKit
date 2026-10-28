@@ -1,0 +1,173 @@
+{
+  "pack": "openkit-sprites-creatures-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256",
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "sprites": [
+    {
+      "name": "sprite-slime-green",
+      "file": "sprites/sprite-slime-green.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "bbed81918980839a2b4a2e5464f87360ffeadb167fa4815fbdd03aab5f2d3814"
+    },
+    {
+      "name": "sprite-slime-blue",
+      "file": "sprites/sprite-slime-blue.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "36c8435d04b78fc0109aff5eede7843d1b9c6fbdc95f1d1863fa9e9c104f2930"
+    },
+    {
+      "name": "sprite-rat",
+      "file": "sprites/sprite-rat.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "21e9d8e8ff15f0c4107365974c5b92392acd757abd86adcb89bb691bb814651f"
+    },
+    {
+      "name": "sprite-bat",
+      "file": "sprites/sprite-bat.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "1e613b6c755b7caa5f00794dd6843e978ad97b5b24483a53bee136fc2e68197d"
+    },
+    {
+      "name": "sprite-spider",
+      "file": "sprites/sprite-spider.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "90c570495d29753e8cc64ee4af21e78daed03ca4b1044ecb57bade66395cb5f9"
+    },
+    {
+      "name": "sprite-skeleton",
+      "file": "sprites/sprite-skeleton.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "5719cbc5af27af3cfe4a2699e476f2a2f753ee549d435c58b1239f72004aa2c1"
+    },
+    {
+      "name": "sprite-zombie",
+      "file": "sprites/sprite-zombie.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "df1c93d94d6e3215b3606246dee8e42598576dc71eaaa4f54af03082692d26e3"
+    },
+    {
+      "name": "sprite-goblin",
+      "file": "sprites/sprite-goblin.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "b2d91329c2a3fb3b5d32d07c1a8414f30717e09e24c8111c0b93c8bf66ca3db8"
+    },
+    {
+      "name": "sprite-wolf",
+      "file": "sprites/sprite-wolf.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "1505e20ffbd776d3e00608910f94eedf70a46faff307c42b3d89ec78525a2505"
+    },
+    {
+      "name": "sprite-boar",
+      "file": "sprites/sprite-boar.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "895d15dc853a31233f2ad2498dff1e63db24343009141f0dc74e9cff032d8745"
+    },
+    {
+      "name": "sprite-snake",
+      "file": "sprites/sprite-snake.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "b2ef29d727b3687b634e2dd99730757e1256145411f38bb8c617dc38ebadd76b"
+    },
+    {
+      "name": "sprite-imp",
+      "file": "sprites/sprite-imp.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "14cc6e645383c9b32828c9c4729e5e6a39da153344d06bb65117d61d5d81b712"
+    },
+    {
+      "name": "sprite-ghost",
+      "file": "sprites/sprite-ghost.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "d70dc09323ef64986612a6fe7e741d3d2f0d4722ba6a98f5ac01378b3e4594c8"
+    },
+    {
+      "name": "sprite-mushroom-walker",
+      "file": "sprites/sprite-mushroom-walker.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "105e6554a9261fa9cf5455ad42fb41d29ba68360858cc228e6a8a4287788abf8"
+    },
+    {
+      "name": "sprite-crab",
+      "file": "sprites/sprite-crab.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "cee67cdc6d3e876f13d429cd03f7376643b8a0873c9afc47588872633d862a99"
+    },
+    {
+      "name": "sprite-bee",
+      "file": "sprites/sprite-bee.png",
+      "category": "creature",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "82ac7a84e750f7885ff74c558c45f35f0db6b3b4f2513f2f426195fc1837001a"
+    }
+  ],
+  "judgment_calls": [
+    "Generic fantasy critters only; not Dojo Forms characters or any named studio IP."
+  ]
+}
