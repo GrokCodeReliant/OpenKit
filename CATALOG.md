@@ -1259,3 +1259,4 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-sprites-nature-b1/` — 16 nature/outdoor prop sprites
 - `packs/openkit-icons-ores-materials-b1/` — 16 ore/ingot/material icons
 - `packs/openkit-ui-slots-badges-b1/` — 16 UI slots/badges/frames
+- `packs/openkit-sprites-weapons-b1/` — 16 weapon/gear world sprites
