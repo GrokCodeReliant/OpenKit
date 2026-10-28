@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-icons-quest-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_icons.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "aabef68f3d07abbb1d147815c5e7b562bb93ce076a206e01c6b2a1392747d44c"
+  },
+  "icons": [
+    {
+      "name": "icon-quest-marker",
+      "file": "icons/icon-quest-marker.png",
+      "category": "quest",
+      "sha256": "d7adb0bffcdc14c38eaf8b8b3edc4ffc147a4c942c300be40088ac48f1d28e1e"
+    },
+    {
+      "name": "icon-quest-complete",
+      "file": "icons/icon-quest-complete.png",
+      "category": "quest",
+      "sha256": "e8ab8c37fa1f5d04a33a4fa9236dc2b6ffc268f12da42ab1531bcfc2e22bdca6"
+    },
+    {
+      "name": "icon-quest-failed",
+      "file": "icons/icon-quest-failed.png",
+      "category": "quest",
+      "sha256": "a69d6320573207f94527f2d105c64b6cfb48ab3e63ce524944bc6a4ff8c6ddb6"
+    },
+    {
+      "name": "icon-letter-sealed",
+      "file": "icons/icon-letter-sealed.png",
+      "category": "quest",
+      "sha256": "3b8a6d613d677d2972e091843327752cf360edf0224cb60018d57d083b62d569"
+    },
+    {
+      "name": "icon-map-rolled",
+      "file": "icons/icon-map-rolled.png",
+      "category": "quest",
+      "sha256": "87fe855e22f51e35312327e04af7ccc612e8767d3a2e81dc42404b0e01e3d44a"
+    },
+    {
+      "name": "icon-compass",
+      "file": "icons/icon-compass.png",
+      "category": "quest",
+      "sha256": "ea40a760ff4a6b35b98629402d2796b7fe85cba52e051a1e9b80f088f6615344"
+    },
+    {
+      "name": "icon-journal-open",
+      "file": "icons/icon-journal-open.png",
+      "category": "quest",
+      "sha256": "d596360c68c152ffea5fd752a87276f51d970bfe890357aae9932e37729e7ed2"
+    },
+    {
+      "name": "icon-contract-scroll",
+      "file": "icons/icon-contract-scroll.png",
+      "category": "quest",
+      "sha256": "529b7cecece63a18087ed5cad1dafac103014683300990d888803c16cfcd13a3"
+    },
+    {
+      "name": "icon-relic-idol",
+      "file": "icons/icon-relic-idol.png",
+      "category": "quest",
+      "sha256": "fd2cd14cbfae7f28a13df8362dc225db5e22749996209ccc03b33a5e75877ff7"
+    },
+    {
+      "name": "icon-crown-simple",
+      "file": "icons/icon-crown-simple.png",
+      "category": "quest",
+      "sha256": "2a2cfa3e20b603656567db47e5dcbaa51df2c92173914fdb6e0809bba0576bb5"
+    },
+    {
+      "name": "icon-medal-gold",
+      "file": "icons/icon-medal-gold.png",
+      "category": "quest",
+      "sha256": "bbf956a73dac446db81a675385aa18fdb56404fd7efdcf3d54968134796a56da"
+    },
+    {
+      "name": "icon-wanted-poster",
+      "file": "icons/icon-wanted-poster.png",
+      "category": "quest",
+      "sha256": "15a293d2022a0cc29d6fc2fb5635784fa6d98d7fcb907784b70cf8f1aabdda0c"
+    },
+    {
+      "name": "icon-token-faction",
+      "file": "icons/icon-token-faction.png",
+      "category": "quest",
+      "sha256": "c0be7ff39bc27b5bdd1f1c1d5d86b4a77e00a7cbf31b118d672bba5d0f5f71fa"
+    },
+    {
+      "name": "icon-skull-marker",
+      "file": "icons/icon-skull-marker.png",
+      "category": "quest",
+      "sha256": "5dabc4249740b36d414eaf1b289e698250ab59b04d56399f159ea379a9f878ec"
+    },
+    {
+      "name": "icon-exclaim-bubble",
+      "file": "icons/icon-exclaim-bubble.png",
+      "category": "quest",
+      "sha256": "673b4865fc8f661f51f16361a6b069ebe79b2f63b4e49ed2b3d8f1fc3bde853c"
+    },
+    {
+      "name": "icon-question-bubble",
+      "file": "icons/icon-question-bubble.png",
+      "category": "quest",
+      "sha256": "94dbe79bcab6ba3338a337c6fe2a724662a079d33663673d29b34acbc28bdf05"
+    }
+  ],
+  "judgment_calls": [
+    "Generic quest/objective/UI marker archetypes only",
+    "Original procedural geometry; no third-party assets",
+    "No real-world logos or likenesses; wanted-poster face is a blank silhouette",
+    "Not derived from Forms or any studio IP"
+  ]
+}
