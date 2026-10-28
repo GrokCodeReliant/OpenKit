@@ -1278,3 +1278,4 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-sprites-props-magic-b1/` — 16 magic / ritual prop sprites
 - `packs/openkit-sprites-vehicles-b1/` — 16 vehicle / cart / boat sprites
 - `packs/openkit-ui-cursors-b1/` — 16 fantasy UI cursor glyphs
+- `packs/openkit-icons-emotes-b1/` — 16 chat / reaction emote icons
