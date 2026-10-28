@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-sprites-props-farm-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "b09df74707d7a1388ab6bbded36f3279d4ddd3d41392f46f1df2d8cb9878a31c"
+  },
+  "sprites": [
+    {
+      "name": "sprite-hay-bale",
+      "file": "sprites/sprite-hay-bale.png",
+      "category": "prop/farm",
+      "sha256": "731117261510d639efbe0f6f88ca777886a0f1c81dc7d3008021c3c83f7ce419"
+    },
+    {
+      "name": "sprite-haystack",
+      "file": "sprites/sprite-haystack.png",
+      "category": "prop/farm",
+      "sha256": "5249419513cd725e5f62b59668e4d5278f8fe68c86dc43e34e86f602e95b4b9a"
+    },
+    {
+      "name": "sprite-scarecrow",
+      "file": "sprites/sprite-scarecrow.png",
+      "category": "prop/farm",
+      "sha256": "f44f3c4b39c18aba60c09a9371c2074de8478c95c97f5051888f56c2571d5703"
+    },
+    {
+      "name": "sprite-chicken",
+      "file": "sprites/sprite-chicken.png",
+      "category": "prop/farm",
+      "sha256": "70fcd9134845759e3a751b15da3bedaa14d839fa5f47bb368721d54ed870d192"
+    },
+    {
+      "name": "sprite-rooster",
+      "file": "sprites/sprite-rooster.png",
+      "category": "prop/farm",
+      "sha256": "04456ad989f06892054f9dbd483f4f84535e37c618c3db982585643cc5296739"
+    },
+    {
+      "name": "sprite-pig",
+      "file": "sprites/sprite-pig.png",
+      "category": "prop/farm",
+      "sha256": "225420209bceed09fcd68340acb4bc088f241eaf83d2d04db4f08f5cf6a5a60d"
+    },
+    {
+      "name": "sprite-sheep",
+      "file": "sprites/sprite-sheep.png",
+      "category": "prop/farm",
+      "sha256": "554f0e53833dc19a074afabc3443713e209c9063efb390c348771665abd7efb2"
+    },
+    {
+      "name": "sprite-cow",
+      "file": "sprites/sprite-cow.png",
+      "category": "prop/farm",
+      "sha256": "da00f2388c5d9fdb57bd4e4c3dd712a6884e1f83ca0c4a89576c19fb9e6ef359"
+    },
+    {
+      "name": "sprite-milk-bucket",
+      "file": "sprites/sprite-milk-bucket.png",
+      "category": "prop/farm",
+      "sha256": "2d2576b5f46cf4582107fe3200fe8098d10f08ba1691b3fe35c148d23cb4bef5"
+    },
+    {
+      "name": "sprite-pitchfork",
+      "file": "sprites/sprite-pitchfork.png",
+      "category": "prop/farm",
+      "sha256": "0b1293a949220188d9b1d84e897ffc304e09ba41bd984402993c0c3719ebc151"
+    },
+    {
+      "name": "sprite-scythe",
+      "file": "sprites/sprite-scythe.png",
+      "category": "prop/farm",
+      "sha256": "242e018b50f73f8e863a41ee5f41916218838cc97b7d82c2cb46ffef98958122"
+    },
+    {
+      "name": "sprite-hoe",
+      "file": "sprites/sprite-hoe.png",
+      "category": "prop/farm",
+      "sha256": "67b4a7d35d797ca5106ffc2a59f06c2430d043876fe52595df075d16f10019e3"
+    },
+    {
+      "name": "sprite-chicken-coop",
+      "file": "sprites/sprite-chicken-coop.png",
+      "category": "prop/farm",
+      "sha256": "f504a6fcfa1e42c3d2b788eec35b5cafdd9a868024782ae79c8960a10465b2ed"
+    },
+    {
+      "name": "sprite-barn-door",
+      "file": "sprites/sprite-barn-door.png",
+      "category": "prop/farm",
+      "sha256": "16b47e1c9db6cece1d8581009bb72c5ad3684cdd1baa978e56cb6a307875f9b7"
+    },
+    {
+      "name": "sprite-corn-stalk",
+      "file": "sprites/sprite-corn-stalk.png",
+      "category": "prop/farm",
+      "sha256": "49ebdd3e19917ef42699fc684b6b287c1ee1ae8bd156150031a571062b018619"
+    },
+    {
+      "name": "sprite-watering-can",
+      "file": "sprites/sprite-watering-can.png",
+      "category": "prop/farm",
+      "sha256": "b7b2eb8628e9aa957d082fe3616a19b3fda62c17b77e29a29b2aacd2023d5945"
+    }
+  ],
+  "judgment_calls": [
+    "Generic farm props and animals only",
+    "Original procedural geometry; no third-party assets",
+    "No likeness of real persons or brands",
+    "Not Forms or any studio IP"
+  ]
+}
