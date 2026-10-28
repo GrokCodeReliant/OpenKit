@@ -1,0 +1,170 @@
+{
+  "pack": "openkit-icons-skills-magic-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256 transparent",
+  "generator": "src/gen_icons.py",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "icons": [
+    {
+      "name": "icon-skill-fireball",
+      "file": "icons/icon-skill-fireball.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "44ec537cb6aa616862f97b6eb228157c7a9e242113dea834ad8fb0cf346f7a47"
+    },
+    {
+      "name": "icon-skill-ice-bolt",
+      "file": "icons/icon-skill-ice-bolt.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "c84c77e1e9cfe68fe72694e810cc995f23b5071399e6a331356c9b6f2184cfb6"
+    },
+    {
+      "name": "icon-skill-lightning",
+      "file": "icons/icon-skill-lightning.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "31e377b14db4b780d80f71b287874135fa8f4dff3645b0dcf222267a80859df6"
+    },
+    {
+      "name": "icon-skill-heal",
+      "file": "icons/icon-skill-heal.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "54801700ba25e483589560ebeea984c7b1c0b1f879ee5653aab41abdf2781b97"
+    },
+    {
+      "name": "icon-skill-shield-wall",
+      "file": "icons/icon-skill-shield-wall.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "680a5d05c8747a9f7a47b6287350303ef07c66fa2311d12ea8ffc4a4694d260d"
+    },
+    {
+      "name": "icon-skill-stealth",
+      "file": "icons/icon-skill-stealth.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "97d1b305441ee2263d9a733466302d1a025d4b94f185669defe9ff22871a2c7e"
+    },
+    {
+      "name": "icon-skill-charge",
+      "file": "icons/icon-skill-charge.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "25072bdbf35f7aa9d8121b1facb42ebefb5ba15cf6847e52fa3f025a6aac5377"
+    },
+    {
+      "name": "icon-skill-arrow-rain",
+      "file": "icons/icon-skill-arrow-rain.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "8ff1a20c3a9771c9c46eaea9d7f189b8742551787026ece4b0b614c7db41ed79"
+    },
+    {
+      "name": "icon-skill-poison-cloud",
+      "file": "icons/icon-skill-poison-cloud.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "03071e5fed9d3d873bbfd31cd3f33596ebcc5da4f7e6bfc55eb7e98769f78471"
+    },
+    {
+      "name": "icon-skill-summon",
+      "file": "icons/icon-skill-summon.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "6f366d26fc02636f5b466f459f3f1086dbe4d6b1e16ce6200943182b6a6dbf24"
+    },
+    {
+      "name": "icon-skill-teleport",
+      "file": "icons/icon-skill-teleport.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "71c5c46133dd891d80202dd862b7ba5401305d1d812225f58fa1e0e4b7d96e22"
+    },
+    {
+      "name": "icon-skill-berserk",
+      "file": "icons/icon-skill-berserk.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "0904eaeeff0a7f9c751ba66895af4a101f4bd40c80e894d688ba8434f70251f6"
+    },
+    {
+      "name": "icon-skill-lockpick",
+      "file": "icons/icon-skill-lockpick.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "67899cef1ab13381456bf0f4201c34f897f38e4a22caadf37e68cc47564557c9"
+    },
+    {
+      "name": "icon-skill-craft",
+      "file": "icons/icon-skill-craft.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "81b6eb0dbbb309943e8c1f4623c64415a2df2fc5a849a187f593f08d6297d4e9"
+    },
+    {
+      "name": "icon-skill-identify",
+      "file": "icons/icon-skill-identify.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "8c3e07b22834aa4e65e800efa61bc49d7c9d61a2cf3d612a1a396a9a24fec8ff"
+    },
+    {
+      "name": "icon-skill-taunt",
+      "file": "icons/icon-skill-taunt.png",
+      "category": "skill",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "b353707508b1b022195430d55f5f475317e25713eb7b8502f7d6a2824c59ab58"
+    }
+  ]
+}
