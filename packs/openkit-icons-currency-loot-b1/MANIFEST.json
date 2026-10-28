@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-icons-currency-loot-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA transparent",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_icons.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "453988def9530910e30bc34ad545eca43b1dfff97ff80529d9f801b78d2cf51f"
+  },
+  "icons": [
+    {
+      "name": "icon-coin-copper",
+      "file": "icons/icon-coin-copper.png",
+      "category": "currency/loot",
+      "sha256": "2862f1d81b673ec7fc990084d54e7bd8a25fbe66516f44027bf2dded77650905"
+    },
+    {
+      "name": "icon-coin-silver",
+      "file": "icons/icon-coin-silver.png",
+      "category": "currency/loot",
+      "sha256": "ae5af8dfa8c0b3f0a7d4f4a23d1e60d917e3da2ca72825ef71a0227ba8d31037"
+    },
+    {
+      "name": "icon-coin-gold",
+      "file": "icons/icon-coin-gold.png",
+      "category": "currency/loot",
+      "sha256": "8e80912cdc7ce4f359ea57eb9082da3363c26f69e415c42667935818d0759b4b"
+    },
+    {
+      "name": "icon-coin-purse",
+      "file": "icons/icon-coin-purse.png",
+      "category": "currency/loot",
+      "sha256": "3120cc9cf06eb1e8b2b8eafc3fed35a13deb9b0e4c7f25b60f24499870797627"
+    },
+    {
+      "name": "icon-gem-ruby",
+      "file": "icons/icon-gem-ruby.png",
+      "category": "currency/loot",
+      "sha256": "143d8cd7fd175443d9b743e1b1452b560f2cb8d69f146454132e7e7ab8f8e89e"
+    },
+    {
+      "name": "icon-gem-sapphire",
+      "file": "icons/icon-gem-sapphire.png",
+      "category": "currency/loot",
+      "sha256": "11e40d289f2c293004188771e38efdd2cabc8f2c65153a5e27ab109aa69e4468"
+    },
+    {
+      "name": "icon-gem-emerald",
+      "file": "icons/icon-gem-emerald.png",
+      "category": "currency/loot",
+      "sha256": "aa653f980cfcec7aa5d9fe5c4c51883c7c7bd8bc04e620e97e7d93feb169f063"
+    },
+    {
+      "name": "icon-pearl",
+      "file": "icons/icon-pearl.png",
+      "category": "currency/loot",
+      "sha256": "1d4334bbbb10a366c27c5731dc474a426c0aa97f23c5549b254220fc11d15fbd"
+    },
+    {
+      "name": "icon-treasure-chest-closed",
+      "file": "icons/icon-treasure-chest-closed.png",
+      "category": "currency/loot",
+      "sha256": "25813773b1bc84e147602fa7b5e54199e339e2302dcd3d69c7887d502055a321"
+    },
+    {
+      "name": "icon-treasure-chest-open",
+      "file": "icons/icon-treasure-chest-open.png",
+      "category": "currency/loot",
+      "sha256": "ef0079f2f1ef2b9556bbd2bcb7eb2bf3f758e3eec4095fedb352f9f20eb484aa"
+    },
+    {
+      "name": "icon-lockbox-iron",
+      "file": "icons/icon-lockbox-iron.png",
+      "category": "currency/loot",
+      "sha256": "8e07fefe6e7bb6fbd27fd20ff8922e10c0956b2b0304e49e1d30c00daa5b283b"
+    },
+    {
+      "name": "icon-loot-sack",
+      "file": "icons/icon-loot-sack.png",
+      "category": "currency/loot",
+      "sha256": "15f76e6e8c57e185cb806f428faa73fe13c79f239ad00ad84bdea8a366abd102"
+    },
+    {
+      "name": "icon-gold-bar",
+      "file": "icons/icon-gold-bar.png",
+      "category": "currency/loot",
+      "sha256": "170cf821a541b760a9983fc0d982a9c25e00890fa3e48ba374496f6a3e23b5f8"
+    },
+    {
+      "name": "icon-silver-bar",
+      "file": "icons/icon-silver-bar.png",
+      "category": "currency/loot",
+      "sha256": "b8dac880a31cc0f5fccef872e57bf1a9c8b28071d5d902d71c95be627de2f407"
+    },
+    {
+      "name": "icon-diamond-cut",
+      "file": "icons/icon-diamond-cut.png",
+      "category": "currency/loot",
+      "sha256": "07221fb0c22292078b44a5f4e069588d55e33dc96426863f308e808062ee2022"
+    },
+    {
+      "name": "icon-relic-shard",
+      "file": "icons/icon-relic-shard.png",
+      "category": "currency/loot",
+      "sha256": "95f8265589ba4b5b16fe92d97a8c8b0b316bb4dc9b880a2bba27a32a4f8b1561"
+    }
+  ],
+  "judgment_calls": [
+    "Generic fantasy currency/loot glyphs only",
+    "Original procedural geometry; no third-party assets",
+    "No likeness, logos, or trademarks",
+    "Not Forms"
+  ]
+}
