@@ -1,0 +1,170 @@
+{
+  "pack": "openkit-ui-slots-badges-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "generator": "src/gen_ui.py (procedural, deterministic)",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "assets": [
+    {
+      "name": "ui-slot-empty-96",
+      "file": "ui/ui-slot-empty-96.png",
+      "size": [
+        96,
+        96
+      ],
+      "kind": "slot",
+      "sha256": "9b92f6288b3bff3cf4f58ea20da7eccc156ee9ae98aff7f9f6a8af50dbdbd528"
+    },
+    {
+      "name": "ui-slot-locked-96",
+      "file": "ui/ui-slot-locked-96.png",
+      "size": [
+        96,
+        96
+      ],
+      "kind": "slot",
+      "sha256": "3e97638f87e7554cc5530906df547e11d245b27d93d521f867e446671491f19b"
+    },
+    {
+      "name": "ui-slot-rare-96",
+      "file": "ui/ui-slot-rare-96.png",
+      "size": [
+        96,
+        96
+      ],
+      "kind": "slot",
+      "sha256": "c3db6f2e0e9799b8dd2f98bc4717a6ab71951c2c1927855fbab4742b9f42f1ec"
+    },
+    {
+      "name": "ui-slot-epic-96",
+      "file": "ui/ui-slot-epic-96.png",
+      "size": [
+        96,
+        96
+      ],
+      "kind": "slot",
+      "sha256": "47e0e31bbfb3c764220cb79fe401093c307efe049a3e4ae7f2744b68e304d1d9"
+    },
+    {
+      "name": "ui-slot-legendary-96",
+      "file": "ui/ui-slot-legendary-96.png",
+      "size": [
+        96,
+        96
+      ],
+      "kind": "slot",
+      "sha256": "8dc535e00e4f7656e38b2bab5326caa6970a9f9d0d4035e423e136912b8a63bd"
+    },
+    {
+      "name": "ui-badge-common",
+      "file": "ui/ui-badge-common.png",
+      "size": [
+        64,
+        64
+      ],
+      "kind": "badge",
+      "sha256": "ef606931fef7b8b0dff1c913bed9527d9ba70ac44c5b4eb2a68873d9a9b1c673"
+    },
+    {
+      "name": "ui-badge-uncommon",
+      "file": "ui/ui-badge-uncommon.png",
+      "size": [
+        64,
+        64
+      ],
+      "kind": "badge",
+      "sha256": "7253e9e34421339e655f1faadaf79f07c2f4e8565c31cbce0a4f7bda662ca054"
+    },
+    {
+      "name": "ui-badge-rare",
+      "file": "ui/ui-badge-rare.png",
+      "size": [
+        64,
+        64
+      ],
+      "kind": "badge",
+      "sha256": "b5a3ceb59dba877d7a6fda1e8ef6e7199d898b0fc28fb00b75da38a6590c89f4"
+    },
+    {
+      "name": "ui-badge-epic",
+      "file": "ui/ui-badge-epic.png",
+      "size": [
+        64,
+        64
+      ],
+      "kind": "badge",
+      "sha256": "e6ee012d964336af3e48b1cc326e0c4cc7468efab7db0f3d44058046f8315542"
+    },
+    {
+      "name": "ui-badge-legendary",
+      "file": "ui/ui-badge-legendary.png",
+      "size": [
+        64,
+        64
+      ],
+      "kind": "badge",
+      "sha256": "f1e694a8612eb5c6c80cfd7b8370107771545829370878400236640fb24f8ba1"
+    },
+    {
+      "name": "ui-corner-ornament",
+      "file": "ui/ui-corner-ornament.png",
+      "size": [
+        64,
+        64
+      ],
+      "kind": "ornament",
+      "sha256": "65c47f1438603c8027e7ab11ac41fd98b75845d1b97cc6b9e10dd26574a41b54"
+    },
+    {
+      "name": "ui-divider-thin",
+      "file": "ui/ui-divider-thin.png",
+      "size": [
+        256,
+        8
+      ],
+      "kind": "divider",
+      "sha256": "85d17db72d8e6e4d95b2e075e4a87d1ee0279e7be6308f09422023627f17df54"
+    },
+    {
+      "name": "ui-progress-bar-bg",
+      "file": "ui/ui-progress-bar-bg.png",
+      "size": [
+        256,
+        24
+      ],
+      "kind": "bar",
+      "sha256": "66b469112bf830e9dfdbfc843a29c534f5e3151791a838ab85963a4080af663d"
+    },
+    {
+      "name": "ui-progress-bar-fill",
+      "file": "ui/ui-progress-bar-fill.png",
+      "size": [
+        256,
+        24
+      ],
+      "kind": "bar",
+      "sha256": "f27605c92939010196b0d71b1a53330db31a23721fd80be068fc9688b10a7aea"
+    },
+    {
+      "name": "ui-minimap-frame",
+      "file": "ui/ui-minimap-frame.png",
+      "size": [
+        128,
+        128
+      ],
+      "kind": "frame",
+      "sha256": "18ab0ce401e1a5d6cf470f7a14a618cc61982439d4a6dac4e9ec1512a7f6dac5"
+    },
+    {
+      "name": "ui-portrait-frame",
+      "file": "ui/ui-portrait-frame.png",
+      "size": [
+        128,
+        128
+      ],
+      "kind": "frame",
+      "sha256": "289a14a46ee3560137e6c4633c5dd02cf4cd13789e161adc818a7ad52a1787be"
+    }
+  ]
+}
