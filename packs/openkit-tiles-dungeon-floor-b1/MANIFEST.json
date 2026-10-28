@@ -1,0 +1,83 @@
+{
+  "pack": "openkit-tiles-dungeon-floor-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": "256x256",
+  "generator": "src/gen_tiles.py (deterministic procedural)",
+  "count": 12,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "tiles": [
+    {
+      "name": "tile-stone-flag-plain",
+      "file": "tiles/tile-stone-flag-plain.png",
+      "kind": "seamless",
+      "sha256": "4be7f52aaa3e73f2323a4be1afd4e9ff533b54aeec855048e92a246c0f33ae3f"
+    },
+    {
+      "name": "tile-stone-flag-cracked",
+      "file": "tiles/tile-stone-flag-cracked.png",
+      "kind": "seamless",
+      "sha256": "f9812d5d97f300e7443b5ef16b3165fbe4ddab9c12764bb4b0fd8a45204cb9fb"
+    },
+    {
+      "name": "tile-stone-cobble",
+      "file": "tiles/tile-stone-cobble.png",
+      "kind": "seamless",
+      "sha256": "acc99535b98d739c8a6b296c4067dd7b792082e9533d5cb34fee6f712fb0f8da"
+    },
+    {
+      "name": "tile-stone-brick-floor",
+      "file": "tiles/tile-stone-brick-floor.png",
+      "kind": "seamless",
+      "sha256": "382f4cef79681af0dd26206dd1a1901012448419a702e386e8a63cf64ea4ed5f"
+    },
+    {
+      "name": "tile-dirt-packed",
+      "file": "tiles/tile-dirt-packed.png",
+      "kind": "seamless",
+      "sha256": "25a2e043410ad49aff6e687f002f64fc0c48f7e067566c8062d4a2dd163ac6e8"
+    },
+    {
+      "name": "tile-dirt-gravel",
+      "file": "tiles/tile-dirt-gravel.png",
+      "kind": "seamless",
+      "sha256": "dd252e5df2d5c388754a3718f6ffb36d98c40cfc47452cf5d86d14bc14b30f35"
+    },
+    {
+      "name": "tile-moss-stone",
+      "file": "tiles/tile-moss-stone.png",
+      "kind": "seamless",
+      "sha256": "4355a4dbc3d71f20fec4c69d648f21c29f5a7db7cd19079be94e6478eb83228e"
+    },
+    {
+      "name": "tile-wood-plank-floor",
+      "file": "tiles/tile-wood-plank-floor.png",
+      "kind": "seamless",
+      "sha256": "a55e86a508a6b33c7e6b538a6564bfae59f167518fbf64f77ece68ecb86749e6"
+    },
+    {
+      "name": "tile-wood-plank-worn",
+      "file": "tiles/tile-wood-plank-worn.png",
+      "kind": "seamless",
+      "sha256": "e8dca8dfb48f89b31c552650276f4396ff54689277a2552a682f6a754ae4a2de"
+    },
+    {
+      "name": "tile-dungeon-drain",
+      "file": "tiles/tile-dungeon-drain.png",
+      "kind": "accent",
+      "sha256": "595a0691b928f1737d322229c7434d1cced83cb28bcbcebd67a4215d73be5c4c"
+    },
+    {
+      "name": "tile-dungeon-rubble",
+      "file": "tiles/tile-dungeon-rubble.png",
+      "kind": "accent",
+      "sha256": "1704676711721a1b173de8259c01796d99d12f5dac65f6382d317aca2ff8b7da"
+    },
+    {
+      "name": "tile-dungeon-bloodstain",
+      "file": "tiles/tile-dungeon-bloodstain.png",
+      "kind": "accent",
+      "sha256": "a5ecc7eb9ea3895a2923e550c9e6a41bdfcff07191bea17fc25e130cdb32a625"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "pack": "openkit-icons-armor-gear-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256 transparent",
+  "generator": "src/gen_icons.py",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "icons": [
+    {
+      "name": "icon-helm-leather",
+      "file": "icons/icon-helm-leather.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "cfd7bd7afb712fd7fc9d613fbddaed3c9c3a5bc0c5805fa0c440e4991669ba40"
+    },
+    {
+      "name": "icon-helm-steel",
+      "file": "icons/icon-helm-steel.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "42b7e92b63fa58d9643ebc4cd35ce9c65cea2af10ad2eb49531a1ebd7ccaae64"
+    },
+    {
+      "name": "icon-chest-leather",
+      "file": "icons/icon-chest-leather.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "24b4fe0af9a6c327b0b24344981cc7a602daf34e439d7263131caddfbfb6aa12"
+    },
+    {
+      "name": "icon-chest-chain",
+      "file": "icons/icon-chest-chain.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "fe965e854ce011d7868f6c9ae77ceaf7a1ab63aafd8d82db7e7471182cf4d930"
+    },
+    {
+      "name": "icon-chest-plate",
+      "file": "icons/icon-chest-plate.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "900638590e2393b66ba5ac6c51a3ee59593edee14e704b5b63390b51f9375a00"
+    },
+    {
+      "name": "icon-gloves-leather",
+      "file": "icons/icon-gloves-leather.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "1e0f1ff6eb7f3d8b59dd3fab391c6a997af3afa44b00a7b8476110d5e3056099"
+    },
+    {
+      "name": "icon-boots-leather",
+      "file": "icons/icon-boots-leather.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "a383ee6faf3db58058c89f00b3a8802933bd6e40cc5e81dee19bb14f7873058a"
+    },
+    {
+      "name": "icon-boots-steel",
+      "file": "icons/icon-boots-steel.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "5702a5ba763deaec316af4186600b10ab98f6a901e11b17cbb2cf3be71299dfe"
+    },
+    {
+      "name": "icon-cape",
+      "file": "icons/icon-cape.png",
+      "category": "accessory",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "d6a0a293d20c6c1b76e7a3c897a5f49e86fc0622772ca2f66d3aba6a4e5e8a1f"
+    },
+    {
+      "name": "icon-belt-pouch",
+      "file": "icons/icon-belt-pouch.png",
+      "category": "accessory",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "74688244a4830d22da33ad308433cc4bf5f86539b10a39498c1487401287fa5a"
+    },
+    {
+      "name": "icon-bracer",
+      "file": "icons/icon-bracer.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "e56ed9aa4d1ac1913f0790165168118a19bafa8a3078962597185e554a440195"
+    },
+    {
+      "name": "icon-pauldron",
+      "file": "icons/icon-pauldron.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ed29da7a4d74196fe9dcf8c57003cc08f05f4d1b3d248f7a82be6739ce64a506"
+    },
+    {
+      "name": "icon-greaves",
+      "file": "icons/icon-greaves.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "f3b29ac5c6da97b1ed2c5d59e97bffc9fbe894a03beb1f4269490d58ad1592a3"
+    },
+    {
+      "name": "icon-hood-cloth",
+      "file": "icons/icon-hood-cloth.png",
+      "category": "armor",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "13fd375b210e927ce54cc064ba13360662ff19a1655bf2076d931b5591ae88ef"
+    },
+    {
+      "name": "icon-amulet",
+      "file": "icons/icon-amulet.png",
+      "category": "accessory",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "29f3c9f253a9069d306cee98451fe91e6cc2244c275a0c50b22f118fd30006a5"
+    },
+    {
+      "name": "icon-quiver",
+      "file": "icons/icon-quiver.png",
+      "category": "accessory",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "3f8b3b03f3615a99b2ca139c754bf606fe08de558632c137449665c506c6991c"
+    }
+  ]
+}

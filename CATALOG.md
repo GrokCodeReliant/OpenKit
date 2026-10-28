@@ -1249,3 +1249,5 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-icons-inventory-b1/` — 16 icons
 - `packs/openkit-ui-frames-b1/` — 13 UI PNGs
 - `packs/openkit-icons-craft-tools-b1/` — 16 icons
+- `packs/openkit-tiles-dungeon-floor-b1/` — 12 tiles
+- `packs/openkit-icons-armor-gear-b1/` — 16 icons
