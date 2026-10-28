@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-ui-cursors-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_ui.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "637256f640c76a12737b70f52219c07f3822e86c13b8c55600ea6d40b8c71816"
+  },
+  "ui": [
+    {
+      "name": "ui-cursor-arrow",
+      "file": "ui/ui-cursor-arrow.png",
+      "category": "ui/cursor",
+      "sha256": "a905fbfca1538ffdec7a7e2f374220719829e74b7037e80a8093983c1d5ca5d1"
+    },
+    {
+      "name": "ui-cursor-hand",
+      "file": "ui/ui-cursor-hand.png",
+      "category": "ui/cursor",
+      "sha256": "8eae226dd5da3a233aef494b0d7a8b2f16b7072f24f0a3394cd59a7b3e2f668f"
+    },
+    {
+      "name": "ui-cursor-grab",
+      "file": "ui/ui-cursor-grab.png",
+      "category": "ui/cursor",
+      "sha256": "4814737b0094b44c1f73303f07b5c8cfe916b56e24ee2f0a183d2c73122709d0"
+    },
+    {
+      "name": "ui-cursor-sword",
+      "file": "ui/ui-cursor-sword.png",
+      "category": "ui/cursor",
+      "sha256": "207df79db7bdab92bd4abc6bf77335a61cdd58f6526958968e64cfd1260d02ed"
+    },
+    {
+      "name": "ui-cursor-bow",
+      "file": "ui/ui-cursor-bow.png",
+      "category": "ui/cursor",
+      "sha256": "99a71911ca84189206e9afc12d2b489790de1d79003a42b603f2d77200ff86be"
+    },
+    {
+      "name": "ui-cursor-magic",
+      "file": "ui/ui-cursor-magic.png",
+      "category": "ui/cursor",
+      "sha256": "cdf7f04849b8f3267339831e49451c6cf3d037f27cfd111efa2a3146966c7581"
+    },
+    {
+      "name": "ui-cursor-talk",
+      "file": "ui/ui-cursor-talk.png",
+      "category": "ui/cursor",
+      "sha256": "ead682c82140f7f539dc54616ed326935166658996bac37dab92bd5b7e3befd2"
+    },
+    {
+      "name": "ui-cursor-loot",
+      "file": "ui/ui-cursor-loot.png",
+      "category": "ui/cursor",
+      "sha256": "8e34c09b677a74a88855510fdf842a8e9c83b31274d09bcaf83d31d265d68430"
+    },
+    {
+      "name": "ui-cursor-door",
+      "file": "ui/ui-cursor-door.png",
+      "category": "ui/cursor",
+      "sha256": "f0d1c9ebb3b3480bb275be870243b95791b610e3f4055b299866933b988cda8d"
+    },
+    {
+      "name": "ui-cursor-lock",
+      "file": "ui/ui-cursor-lock.png",
+      "category": "ui/cursor",
+      "sha256": "25647231ce54eee70522f40711d6f305a76b389db5c881b804144342526869b3"
+    },
+    {
+      "name": "ui-cursor-heal",
+      "file": "ui/ui-cursor-heal.png",
+      "category": "ui/cursor",
+      "sha256": "f02c94d926714a7ef54e2b725001c0666accf471ea8f68a70f54a66c9cbfaf17"
+    },
+    {
+      "name": "ui-cursor-target",
+      "file": "ui/ui-cursor-target.png",
+      "category": "ui/cursor",
+      "sha256": "a6910aedd3c987d59c24306f29cf1c42e012493a7a8c977093414c1da5e41058"
+    },
+    {
+      "name": "ui-cursor-wait",
+      "file": "ui/ui-cursor-wait.png",
+      "category": "ui/cursor",
+      "sha256": "ce3f5eab107649e1004c20241b1b8291519a0064db8ceb956a6a557dfb87c734"
+    },
+    {
+      "name": "ui-cursor-forbidden",
+      "file": "ui/ui-cursor-forbidden.png",
+      "category": "ui/cursor",
+      "sha256": "cc34c45b1ac5c691414b86e6a555fd5533a9a615fcf5c9536e0a80822373d6e9"
+    },
+    {
+      "name": "ui-cursor-resize",
+      "file": "ui/ui-cursor-resize.png",
+      "category": "ui/cursor",
+      "sha256": "c5a1af0a240c46a97104fb46f966184b03c5b4bdcb28521efb2c7983e349eaf4"
+    },
+    {
+      "name": "ui-cursor-text",
+      "file": "ui/ui-cursor-text.png",
+      "category": "ui/cursor",
+      "sha256": "4c5075b82c16c9d65df09573d63223abcf3b65bf9a5742b91ec5349da573f9ec"
+    }
+  ],
+  "judgment_calls": [
+    "Generic flat fantasy cursors drawn from primitive procedural geometry.",
+    "No third-party assets.",
+    "No likeness of any person; no OS trademark cursors or logos.",
+    "Not Forms-derived."
+  ]
+}
