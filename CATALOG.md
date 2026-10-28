@@ -1272,3 +1272,4 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-icons-quest-b1/` — 16 quest / objective / map-marker UI icons
 - `packs/openkit-icons-currency-loot-b1/` — 16 currency / loot UI icons
 - `packs/openkit-sprites-props-camp-b1/` — 16 camp / wilderness travel prop sprites
+- `packs/openkit-tiles-dungeon-ceiling-b1/` — 16 dungeon ceiling / vault / rafter tiles

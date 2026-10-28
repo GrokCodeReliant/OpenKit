@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-tiles-dungeon-ceiling-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_tiles.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "ab55eb3dd573954880f6d63a5fb3d2a35445b37959875657d4a0737bd628a03b"
+  },
+  "tiles": [
+    {
+      "name": "tile-ceiling-stone-plain",
+      "file": "tiles/tile-ceiling-stone-plain.png",
+      "kind": "fill",
+      "sha256": "83252e1445372d8300e07dc00faabe0d6b40daf54940bba8bf828cd32493837b"
+    },
+    {
+      "name": "tile-ceiling-stone-cracked",
+      "file": "tiles/tile-ceiling-stone-cracked.png",
+      "kind": "variant",
+      "sha256": "c208f07d23bafe717834a1d2f5d8f9cfbf421cb78c70f3e55cf9de5e26b3585f"
+    },
+    {
+      "name": "tile-ceiling-brick-vault",
+      "file": "tiles/tile-ceiling-brick-vault.png",
+      "kind": "fill",
+      "sha256": "0418c1e739daffb060b8242666089c7dc1e85d39721946cefdd3fce5da29845f"
+    },
+    {
+      "name": "tile-ceiling-cobble",
+      "file": "tiles/tile-ceiling-cobble.png",
+      "kind": "fill",
+      "sha256": "0f4df4be34ab0d9f71ad1d63045c50724f34c10222ee0b5b38a233b24281ab9e"
+    },
+    {
+      "name": "tile-ceiling-wood-beam",
+      "file": "tiles/tile-ceiling-wood-beam.png",
+      "kind": "feature",
+      "sha256": "c39dc323c650503b8c86f163f118a58a2ea1eb4d1cc8e12d6a3559d20ae0c2a1"
+    },
+    {
+      "name": "tile-ceiling-wood-plank",
+      "file": "tiles/tile-ceiling-wood-plank.png",
+      "kind": "fill",
+      "sha256": "d38b2bdc450cc05c097ccbf277a1138076f88093e7a5afd9d337fd2f3827ff10"
+    },
+    {
+      "name": "tile-ceiling-rafter-cross",
+      "file": "tiles/tile-ceiling-rafter-cross.png",
+      "kind": "feature",
+      "sha256": "ff446005c9fecef7dff656d346ade233b174a7664ce104fbf19752d2c754dec3"
+    },
+    {
+      "name": "tile-ceiling-arch-rib",
+      "file": "tiles/tile-ceiling-arch-rib.png",
+      "kind": "feature",
+      "sha256": "c0042587ab1d9d0b12a4c99761f02cf08206d94f3fa7bb284c0fe842499b1d7c"
+    },
+    {
+      "name": "tile-ceiling-mossy",
+      "file": "tiles/tile-ceiling-mossy.png",
+      "kind": "fill",
+      "sha256": "2497af9b4b93db4fe491f02c8fe4d53fbe3c6fc0e96593e6c6583aa14504da83"
+    },
+    {
+      "name": "tile-ceiling-root-hang",
+      "file": "tiles/tile-ceiling-root-hang.png",
+      "kind": "variant",
+      "sha256": "324e47a106e75ac50c5904903575bb9f36190ec518dc07a68e38f1b31ba61199"
+    },
+    {
+      "name": "tile-ceiling-grille",
+      "file": "tiles/tile-ceiling-grille.png",
+      "kind": "feature",
+      "sha256": "5edcccb24a8ef6b14fdb9cd0e32637b241464b690c176ef1aa758cfde5dc344e"
+    },
+    {
+      "name": "tile-ceiling-trapdoor",
+      "file": "tiles/tile-ceiling-trapdoor.png",
+      "kind": "feature",
+      "sha256": "a99c4e107992db4d77b6262c1f45db27d7b91196eda70c77ae0774556846f5b1"
+    },
+    {
+      "name": "tile-ceiling-chandelier-hook",
+      "file": "tiles/tile-ceiling-chandelier-hook.png",
+      "kind": "feature",
+      "sha256": "ff91288d51647cbc8bd9d23e28c04087d4ce5f64e2705688f37744d0e96d2452"
+    },
+    {
+      "name": "tile-ceiling-stalactite",
+      "file": "tiles/tile-ceiling-stalactite.png",
+      "kind": "variant",
+      "sha256": "e9a8a38f6bc069229c8de6dcdb3fa75aa845f82d725f1602161e52aeecfd7376"
+    },
+    {
+      "name": "tile-ceiling-fresco-faded",
+      "file": "tiles/tile-ceiling-fresco-faded.png",
+      "kind": "feature",
+      "sha256": "e6d641671c6478eec52943a3d3845cf19cc355ea4252d6e37febb7842600b6fc"
+    },
+    {
+      "name": "tile-ceiling-drip-stain",
+      "file": "tiles/tile-ceiling-drip-stain.png",
+      "kind": "variant",
+      "sha256": "20314c84e927dc55ff59058e02965c7903689bc98c231a2b8c07ba33b359413d"
+    }
+  ],
+  "judgment_calls": [
+    "Generic dungeon ceiling motifs (stone, brick, wood, rafters, vaults) seen from below.",
+    "All geometry procedural; no third-party assets or references.",
+    "No likeness of any real person, place, or product.",
+    "Fills (stone-plain, brick-vault, cobble, wood-plank, mossy) tile seamlessly; features are centred accents."
+  ]
+}
