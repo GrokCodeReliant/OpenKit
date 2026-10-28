@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-sprites-props-camp-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "081d22b8c5b34b14b054a15a7445d65bb4404ac67e4935203ff2625f75ca6b69"
+  },
+  "sprites": [
+    {
+      "name": "sprite-bedroll",
+      "file": "sprites/sprite-bedroll.png",
+      "category": "prop/camp",
+      "sha256": "d20ebcece311bdddd0ecbe867a35125e2ccb8cda4f30ffba33c715ac00470c09"
+    },
+    {
+      "name": "sprite-cookpot-tripod",
+      "file": "sprites/sprite-cookpot-tripod.png",
+      "category": "prop/camp",
+      "sha256": "65c562c4eae1a922d3a4085ee5ccebb9f0baf5d4acb3d1be9a4c8f03cede95d0"
+    },
+    {
+      "name": "sprite-camp-stool",
+      "file": "sprites/sprite-camp-stool.png",
+      "category": "prop/camp",
+      "sha256": "e89c836631c6e74ce0ae2cbaa30702dd65c00a82ada34d4afc07a3761f024f8c"
+    },
+    {
+      "name": "sprite-backpack-lean",
+      "file": "sprites/sprite-backpack-lean.png",
+      "category": "prop/camp",
+      "sha256": "cb2df63d3e6770da0afb7f723fb6a35288738ca91a22c68fdd7feae90350eb9e"
+    },
+    {
+      "name": "sprite-torch-stake",
+      "file": "sprites/sprite-torch-stake.png",
+      "category": "prop/camp",
+      "sha256": "a83e9143d79de782b927d1d16e2f15f4c74d60333fd09bf318f567b4890a54b8"
+    },
+    {
+      "name": "sprite-banner-camp",
+      "file": "sprites/sprite-banner-camp.png",
+      "category": "prop/camp",
+      "sha256": "fb48b020aa7d2f3efdbf48d8c082779a97fab39cbd92337a3fa3aa4d5d2561a6"
+    },
+    {
+      "name": "sprite-supply-crate-open",
+      "file": "sprites/sprite-supply-crate-open.png",
+      "category": "prop/camp",
+      "sha256": "658f9de566e8d5cc734ebf5dfbcc5a57e8b311df808651813ffbfcb0342c8a61"
+    },
+    {
+      "name": "sprite-waterskin-hanging",
+      "file": "sprites/sprite-waterskin-hanging.png",
+      "category": "prop/camp",
+      "sha256": "93e9f2dabcf1e539ddc35410a87d500379ba1ef669c3136e453b95a515e31c56"
+    },
+    {
+      "name": "sprite-chopping-block",
+      "file": "sprites/sprite-chopping-block.png",
+      "category": "prop/camp",
+      "sha256": "7cadbb11ce287a739046a501a80725b85a5619eda5a04b0c911b5cda80faeec4"
+    },
+    {
+      "name": "sprite-rope-coil",
+      "file": "sprites/sprite-rope-coil.png",
+      "category": "prop/camp",
+      "sha256": "3f4e7322db997ccdd4ebb9c58360199054e3707be4c0a402a6fc8b1dba8c49d1"
+    },
+    {
+      "name": "sprite-camp-map-table",
+      "file": "sprites/sprite-camp-map-table.png",
+      "category": "prop/camp",
+      "sha256": "0860a22191871c70e113fe668c6e43467c945bdef8b9758775e756f3785fbfee"
+    },
+    {
+      "name": "sprite-bedroll-rolled",
+      "file": "sprites/sprite-bedroll-rolled.png",
+      "category": "prop/camp",
+      "sha256": "eb9510b388684ec15a7db7a5efe33c43668a9018d341df15e7aace67a33e1a13"
+    },
+    {
+      "name": "sprite-camp-grill",
+      "file": "sprites/sprite-camp-grill.png",
+      "category": "prop/camp",
+      "sha256": "a133c23e71f1c54a42c68e68e4255c6674016df7310ad5b1cf31c057bb126ed3"
+    },
+    {
+      "name": "sprite-hitch-rail",
+      "file": "sprites/sprite-hitch-rail.png",
+      "category": "prop/camp",
+      "sha256": "b333b1f64b8a10a38f19dfbfb6fa93ef10fb5d413819ee3be6c3c5d941e6b380"
+    },
+    {
+      "name": "sprite-kindling-pile",
+      "file": "sprites/sprite-kindling-pile.png",
+      "category": "prop/camp",
+      "sha256": "65be7214f0c0312804127c7dc352e2aa1ec505edcb70158cc7387b736dd1b548"
+    },
+    {
+      "name": "sprite-lantern-post",
+      "file": "sprites/sprite-lantern-post.png",
+      "category": "prop/camp",
+      "sha256": "7ca37c660eecccf0d646e6a4dcd19544d5706e7875effb3459c3567ec0755a34"
+    }
+  ],
+  "judgment_calls": [
+    "Generic camp/wilderness props only",
+    "No third-party assets",
+    "No likeness of any real person or thing",
+    "Not derived from Forms or studio IP"
+  ]
+}
