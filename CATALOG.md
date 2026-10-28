@@ -1261,3 +1261,4 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-ui-slots-badges-b1/` — 16 UI slots/badges/frames
 - `packs/openkit-sprites-weapons-b1/` — 16 weapon/gear world sprites
 - `packs/openkit-tiles-rooftop-b1/` — 12 roof and building-exterior tiles
+- `packs/openkit-icons-skills-magic-b1/` — 16 skill/magic ability glyphs
