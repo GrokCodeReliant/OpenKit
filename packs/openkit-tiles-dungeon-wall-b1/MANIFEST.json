@@ -1,0 +1,83 @@
+{
+  "pack": "openkit-tiles-dungeon-wall-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": "256x256",
+  "generator": "src/gen_tiles.py (deterministic procedural)",
+  "count": 12,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "tiles": [
+    {
+      "name": "tile-wall-stone-plain",
+      "file": "tiles/tile-wall-stone-plain.png",
+      "kind": "seamless",
+      "sha256": "efbf01070bee714a9569a7fec5f9b0436e94b4922005c40fa55ce58949bcf443"
+    },
+    {
+      "name": "tile-wall-stone-rough",
+      "file": "tiles/tile-wall-stone-rough.png",
+      "kind": "seamless",
+      "sha256": "d25316daa4bbaa74d98e25334775c308f45638e507f3c8fcf96e9d00f5b2f633"
+    },
+    {
+      "name": "tile-wall-brick",
+      "file": "tiles/tile-wall-brick.png",
+      "kind": "seamless",
+      "sha256": "c5c4bccf7f9e5368629a8d5615303be9a171e9526faeeed46e994e7ad0573f54"
+    },
+    {
+      "name": "tile-wall-brick-worn",
+      "file": "tiles/tile-wall-brick-worn.png",
+      "kind": "seamless",
+      "sha256": "617ab95866dd50d01ef9e7b512fc88f909da6486bb047a3e0c8e834e1c30ed40"
+    },
+    {
+      "name": "tile-wall-cobble",
+      "file": "tiles/tile-wall-cobble.png",
+      "kind": "seamless",
+      "sha256": "a5640e4e2f0caa0f0da3d3ce45fd88c8e6b85831f73672176af5b94c1a0809e1"
+    },
+    {
+      "name": "tile-wall-moss",
+      "file": "tiles/tile-wall-moss.png",
+      "kind": "seamless",
+      "sha256": "098dfbe36cf6b68d004350936134dea466aca1f8501dd9fd069dfccf3bec7233"
+    },
+    {
+      "name": "tile-wall-plaster-cracked",
+      "file": "tiles/tile-wall-plaster-cracked.png",
+      "kind": "seamless",
+      "sha256": "6e58172d5ec3efdb930dcd2848b0fa8dac10439eb1002ba61d0ca861a188deb3"
+    },
+    {
+      "name": "tile-wall-wood-panel",
+      "file": "tiles/tile-wall-wood-panel.png",
+      "kind": "seamless",
+      "sha256": "a0e17f40da393af690f909f5341677576c38345b81e57d3dd2b46e9c211b86e7"
+    },
+    {
+      "name": "tile-wall-torch-sconce",
+      "file": "tiles/tile-wall-torch-sconce.png",
+      "kind": "accent",
+      "sha256": "2b39235bb47a649b3a6b7c83c87a9dcad861d1ad92596cda9e7b497e5716ab55"
+    },
+    {
+      "name": "tile-wall-door-arch",
+      "file": "tiles/tile-wall-door-arch.png",
+      "kind": "accent",
+      "sha256": "2f0ef2e270cbcc9b22ec286f0ed60c45dac68576da1acd2530143e3849c38132"
+    },
+    {
+      "name": "tile-wall-grate",
+      "file": "tiles/tile-wall-grate.png",
+      "kind": "accent",
+      "sha256": "07664757526359d0aa57c636e1edd6c3961a611867b9e03a3031cf3b0dadb9e4"
+    },
+    {
+      "name": "tile-wall-banner-hook",
+      "file": "tiles/tile-wall-banner-hook.png",
+      "kind": "accent",
+      "sha256": "d358acfd0879b2af77e4031abe5f4569f1bcac74e5c033073837577bdc4ae782"
+    }
+  ]
+}
