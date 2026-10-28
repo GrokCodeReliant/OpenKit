@@ -1266,3 +1266,4 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-tiles-interior-floor-b1/` — 12 interior floor tiles
 - `packs/openkit-icons-npc-faces-b1/` — 16 NPC/class face glyphs
 - `packs/openkit-sprites-creatures-b1/` — 16 fantasy creature/enemy sprites
+- `packs/openkit-tiles-water-b1/` — 16 water and shore tiles

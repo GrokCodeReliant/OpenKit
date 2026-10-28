@@ -1,0 +1,114 @@
+{
+  "pack": "openkit-tiles-water-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_tiles.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "c81394cbc5afe5827b19bef904d92eef5168e6514b16bd517322000a4a1e59f9"
+  },
+  "tiles": [
+    {
+      "name": "tile-water-calm",
+      "file": "tiles/tile-water-calm.png",
+      "kind": "water",
+      "sha256": "1a2fe63070669ecf6371eb3818b517b651586e14b4bc5943ea6d7638a01f9436"
+    },
+    {
+      "name": "tile-water-ripple",
+      "file": "tiles/tile-water-ripple.png",
+      "kind": "water",
+      "sha256": "7c701984230c30f07108dbfdb6a2c2a3dafc7722d85e9aada3bf468e919a4870"
+    },
+    {
+      "name": "tile-water-foam",
+      "file": "tiles/tile-water-foam.png",
+      "kind": "water",
+      "sha256": "4aa7d5f43f65e9d161252e82b517dc5d236f6c10a2fdea59e2d4de01f7cb5424"
+    },
+    {
+      "name": "tile-water-foam-edge",
+      "file": "tiles/tile-water-foam-edge.png",
+      "kind": "shore",
+      "sha256": "e38c06d82f7cb3e9ed3dabee2c3f255124008f19434e49d0967b0305b55c547c"
+    },
+    {
+      "name": "tile-river-center",
+      "file": "tiles/tile-river-center.png",
+      "kind": "water",
+      "sha256": "4f45ceb63e74e00f29bcd7ae3135b6e63c7e3966bd9d5c531e8b3549287736f6"
+    },
+    {
+      "name": "tile-river-bank-left",
+      "file": "tiles/tile-river-bank-left.png",
+      "kind": "shore",
+      "sha256": "f245cf51b2b72e9f3488bf7dd6b8e16632eb755e5c9bc817a26ea4659cde7a48"
+    },
+    {
+      "name": "tile-river-bank-right",
+      "file": "tiles/tile-river-bank-right.png",
+      "kind": "shore",
+      "sha256": "ae43bca638d9a38f6eee3a7dcafc86f009f6eab87b80d1309ae045c7586f2cbd"
+    },
+    {
+      "name": "tile-waterfall-mid",
+      "file": "tiles/tile-waterfall-mid.png",
+      "kind": "water",
+      "sha256": "b1e7654b79f14b6a307aa40bc4bdb6511a55d6c072d48a505d1b9c07ef8f0cde"
+    },
+    {
+      "name": "tile-waterfall-top",
+      "file": "tiles/tile-waterfall-top.png",
+      "kind": "water",
+      "sha256": "80b7a4c1d1ae4a201ad08ddc0a2cf0875e200908c54fabb7d17985755ecfcf94"
+    },
+    {
+      "name": "tile-waterfall-splash",
+      "file": "tiles/tile-waterfall-splash.png",
+      "kind": "water",
+      "sha256": "29e079eeb7b8792213560be6769186f14484cdc6800758b20a9c2aca3c7e0e13"
+    },
+    {
+      "name": "tile-marsh-reed",
+      "file": "tiles/tile-marsh-reed.png",
+      "kind": "shore",
+      "sha256": "d4085384749c6bd00dcd300ccb262076a7fd47268111bfbbc2925eb9437afee6"
+    },
+    {
+      "name": "tile-pond-lily",
+      "file": "tiles/tile-pond-lily.png",
+      "kind": "water",
+      "sha256": "0b04143611a458c9ea850baf259927923674a5b3c8d7acf885827e5edc80ab5d"
+    },
+    {
+      "name": "tile-ice-sheet",
+      "file": "tiles/tile-ice-sheet.png",
+      "kind": "water",
+      "sha256": "22fd37ddb9bd8ff1c9da6b966f38a0067415a205c11022314b1c9a6dbe2cd5a1"
+    },
+    {
+      "name": "tile-ice-crack",
+      "file": "tiles/tile-ice-crack.png",
+      "kind": "water",
+      "sha256": "a47d1b89c1d570fcb64d5d63ab7b7d3d938c63500fdd8ff678e7d1039bfa06a9"
+    },
+    {
+      "name": "tile-bridge-plank-over-water",
+      "file": "tiles/tile-bridge-plank-over-water.png",
+      "kind": "shore",
+      "sha256": "33676f6a042d69caf20097a7f60db8d5bba6b7df111fbf775c8497c2692e3a61"
+    },
+    {
+      "name": "tile-pier-plank",
+      "file": "tiles/tile-pier-plank.png",
+      "kind": "shore",
+      "sha256": "144523b48fc144252e7ada151e7cab2ad715b272319e0068f512d2708b3979f5"
+    }
+  ],
+  "judgment_calls": "Generic flat-fantasy water/shore tiles drawn procedurally (4x supersample, LANCZOS to 256). No third-party assets, no likeness of any real person, place or product. Names avoid existing outdoor-ground water/sand tiles."
+}
