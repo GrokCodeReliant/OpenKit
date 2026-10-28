@@ -1,0 +1,170 @@
+{
+  "pack": "openkit-icons-consumables-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA 256x256 transparent",
+  "generator": "src/gen_icons.py",
+  "count": 16,
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "icons": [
+    {
+      "name": "icon-potion-green",
+      "file": "icons/icon-potion-green.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ea43a9257198e5dc247547a69717f87f8741221c9abae6cd8823538ada32e23b"
+    },
+    {
+      "name": "icon-potion-purple",
+      "file": "icons/icon-potion-purple.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "ae5b9480d48fe45ac4d38d51c2d832994f38c7cd8a99baac35752c1fa45d80d2"
+    },
+    {
+      "name": "icon-potion-yellow",
+      "file": "icons/icon-potion-yellow.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "c50fcd060bbbb186c2f6af33e98beeb9dc19176bd2dd96a11cf0c3445899e536"
+    },
+    {
+      "name": "icon-potion-white",
+      "file": "icons/icon-potion-white.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "21cbf08c7695d402751ec3bca4abbeed54208ce2067f06c11268cfe071a9373e"
+    },
+    {
+      "name": "icon-food-cheese",
+      "file": "icons/icon-food-cheese.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "de1a016afcfce4dce5728bbda835905bcb92fd3dc054e7af59d67ddbb12db55e"
+    },
+    {
+      "name": "icon-food-apple",
+      "file": "icons/icon-food-apple.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "cd50f332dd7271be2ccf23159d670533e7e0ba576b3485ed95fc91c66949a313"
+    },
+    {
+      "name": "icon-food-meat",
+      "file": "icons/icon-food-meat.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "10e48057bd0f4e2749662c6579e7bdf77084ecc0f3d762870a093d07ca5340ba"
+    },
+    {
+      "name": "icon-food-fish",
+      "file": "icons/icon-food-fish.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "8d899e7d867a1503fbd3a8caa949d8b940e08e773259c96171eac9baae89f0b9"
+    },
+    {
+      "name": "icon-food-mushroom",
+      "file": "icons/icon-food-mushroom.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "699b52faae0efc0a62c0ecffd6bb02f444d102b7a28244acedc231390d31e6a9"
+    },
+    {
+      "name": "icon-food-stew",
+      "file": "icons/icon-food-stew.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "997f8fa85e79f6486a5a33c3f6e83a0a2d29a1b1906e418aad2f25a64009a0f6"
+    },
+    {
+      "name": "icon-drink-ale",
+      "file": "icons/icon-drink-ale.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "6f0d239a9bacde2146dfb6aea87627f5464462dc2b9753c92922a31c9a5449e8"
+    },
+    {
+      "name": "icon-drink-wine",
+      "file": "icons/icon-drink-wine.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "5ed632b67575c7b2edd0db23f7a307ae53e7dd55f46b71cb27028764e7d2b084"
+    },
+    {
+      "name": "icon-scroll-blank",
+      "file": "icons/icon-scroll-blank.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "d5014e3ec8c79853a5c11ae17104c3a8d6b70f02f6696f35cef87cc41f1c89a2"
+    },
+    {
+      "name": "icon-bomb-smoke",
+      "file": "icons/icon-bomb-smoke.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "e8141927f162098b3bfe9903299d908467aa171525d44f1e8da1289e719ee679"
+    },
+    {
+      "name": "icon-bomb-fire",
+      "file": "icons/icon-bomb-fire.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "b521a796930f3cc20481f413d9859ea061a6bacb3ed537b4995e17e2d4e20903"
+    },
+    {
+      "name": "icon-ration-pack",
+      "file": "icons/icon-ration-pack.png",
+      "category": "consumable",
+      "size": [
+        256,
+        256
+      ],
+      "sha256": "cc93f31bdd8ce172d0c4e0ec6d7600ec0f3fb8a4c1f8612177666b355240da76"
+    }
+  ]
+}
