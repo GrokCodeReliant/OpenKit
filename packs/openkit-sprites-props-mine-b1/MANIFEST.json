@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-sprites-props-mine-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "50255e9c123fe96c4103c42f8361868b47b67ab71c6b23bddddcb6f28b0718a1"
+  },
+  "sprites": [
+    {
+      "name": "sprite-minecart",
+      "file": "sprites/sprite-minecart.png",
+      "category": "prop/mine",
+      "sha256": "e41a7c0c382fabdeda35c4df6bef12c8d41d4d69d673f34cb0bebb7218626372"
+    },
+    {
+      "name": "sprite-mine-rail",
+      "file": "sprites/sprite-mine-rail.png",
+      "category": "prop/mine",
+      "sha256": "034edfc487e8e7306d2c6918aee420e32aa2b22b4dac0ef1f470483b2db09396"
+    },
+    {
+      "name": "sprite-pickaxe",
+      "file": "sprites/sprite-pickaxe.png",
+      "category": "prop/mine",
+      "sha256": "24398bf115bf9109702d8b60de4b0522fd7cf806e93fb6b12f7e91b46bbb0e45"
+    },
+    {
+      "name": "sprite-sledgehammer",
+      "file": "sprites/sprite-sledgehammer.png",
+      "category": "prop/mine",
+      "sha256": "16b4d46c2d81f593e08df8da9619741867965cef4014ee7dc7ef0788eaf99e92"
+    },
+    {
+      "name": "sprite-ore-cart-full",
+      "file": "sprites/sprite-ore-cart-full.png",
+      "category": "prop/mine",
+      "sha256": "792471094d67d46dfe23bb0d93e9f12d432320d5778eb7fe58df7b5e443c721a"
+    },
+    {
+      "name": "sprite-ore-pile",
+      "file": "sprites/sprite-ore-pile.png",
+      "category": "prop/mine",
+      "sha256": "01df78bdcdae8e230c920afd1120342655fceb897337716c87a34a80716e8ffa"
+    },
+    {
+      "name": "sprite-mine-lantern",
+      "file": "sprites/sprite-mine-lantern.png",
+      "category": "prop/mine",
+      "sha256": "dce438e898bb31f08e8477c760023b6977f4b2f1a44214e9b77d8c6f0d181110"
+    },
+    {
+      "name": "sprite-support-beam",
+      "file": "sprites/sprite-support-beam.png",
+      "category": "prop/mine",
+      "sha256": "bda40fc6d52ee0baf176ee434e94353b82fb2d9028a5c6c3d2a994f039920e4f"
+    },
+    {
+      "name": "sprite-dynamite-crate",
+      "file": "sprites/sprite-dynamite-crate.png",
+      "category": "prop/mine",
+      "sha256": "7dea55642e0d95ac464520d0671ad76901de3783519b2ee4679f976b373f4693"
+    },
+    {
+      "name": "sprite-mine-entrance",
+      "file": "sprites/sprite-mine-entrance.png",
+      "category": "prop/mine",
+      "sha256": "2a0ea3c76c81f70658d2861283474ecc53f987799158ed62b51167e15079014c"
+    },
+    {
+      "name": "sprite-rock-ore-vein",
+      "file": "sprites/sprite-rock-ore-vein.png",
+      "category": "prop/mine",
+      "sha256": "df515683c448021b6fa74237310027d4a3756d24e7c31e2dc62ebcdfbfcfde08"
+    },
+    {
+      "name": "sprite-wheelbarrow-ore",
+      "file": "sprites/sprite-wheelbarrow-ore.png",
+      "category": "prop/mine",
+      "sha256": "4227fc8ece901ada3414f51273c1fcb3ec6ff8648bc8773609f7176122fe5a32"
+    },
+    {
+      "name": "sprite-mining-helmet",
+      "file": "sprites/sprite-mining-helmet.png",
+      "category": "prop/mine",
+      "sha256": "3a306f0ae0db1b51eac9037a5b471027aa5428cf0107e1a0067a21a63c5b0d9d"
+    },
+    {
+      "name": "sprite-drill-hand",
+      "file": "sprites/sprite-drill-hand.png",
+      "category": "prop/mine",
+      "sha256": "5279c7e8740c9bd527d8f05f4fa8b58ddbc9e7445ce6308752067641f8fd9d58"
+    },
+    {
+      "name": "sprite-pulley-winch",
+      "file": "sprites/sprite-pulley-winch.png",
+      "category": "prop/mine",
+      "sha256": "11cda303832d8b3452caec9ee220336b8bd5e068dcd409f7a847c958590b92ff"
+    },
+    {
+      "name": "sprite-mine-sign",
+      "file": "sprites/sprite-mine-sign.png",
+      "category": "prop/mine",
+      "sha256": "81b021b254805bc3986d4520d64b7434dbd84db40ee104f8e3042d5b02d4bd94"
+    }
+  ],
+  "judgment_calls": [
+    "Mine lantern is a caged miner's lamp, distinct from lantern/lantern-post.",
+    "Dynamite crate is crate with red sticks and hazard plate; not crate-wood/supply-crate-open.",
+    "Ore cart full reuses minecart body with ore heap for consistent set reading.",
+    "Mine sign is a pick-and-arrow board with no text."
+  ]
+}
