@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-sprites-props-harbor-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "c4b7bf681a5288c0af7d259cace89b11ede8b7f2dc8dbfaa76cbd74eae7005b2"
+  },
+  "sprites": [
+    {
+      "name": "sprite-anchor",
+      "file": "sprites/sprite-anchor.png",
+      "category": "prop/harbor",
+      "sha256": "6e4b9b3d5c45d55aab7eed5ecfc673e9992b40882cf880e69a8b370ffb40271d"
+    },
+    {
+      "name": "sprite-mooring-bollard",
+      "file": "sprites/sprite-mooring-bollard.png",
+      "category": "prop/harbor",
+      "sha256": "46b82f7d49cb0116a43027b2475f77650390e2c6abcb4c64c4965e59b5c43829"
+    },
+    {
+      "name": "sprite-dock-crate-stack",
+      "file": "sprites/sprite-dock-crate-stack.png",
+      "category": "prop/harbor",
+      "sha256": "28491d7bc889017bb77ceb495e04168921becbea631abed32f34b09f36985511"
+    },
+    {
+      "name": "sprite-fishing-net",
+      "file": "sprites/sprite-fishing-net.png",
+      "category": "prop/harbor",
+      "sha256": "6d5c90f3f54bdc9a07bac3f4995e0d9f8277636179b1de3e76eaaf8b5ffcc6de"
+    },
+    {
+      "name": "sprite-lobster-pot",
+      "file": "sprites/sprite-lobster-pot.png",
+      "category": "prop/harbor",
+      "sha256": "8ea606d0477d62dc2cd1918a33f9d3aa6a9b095022542b614c2d1897e4a96620"
+    },
+    {
+      "name": "sprite-buoy-red",
+      "file": "sprites/sprite-buoy-red.png",
+      "category": "prop/harbor",
+      "sha256": "f6f9fa5a2b2d5e892be39154618c8bab675ce92b75604293cf88e42314d5ccdc"
+    },
+    {
+      "name": "sprite-dock-crane",
+      "file": "sprites/sprite-dock-crane.png",
+      "category": "prop/harbor",
+      "sha256": "f9af48d098615fa48e1450c6021782307f0da85363f12deeb0a6bc5750e58e46"
+    },
+    {
+      "name": "sprite-ship-wheel",
+      "file": "sprites/sprite-ship-wheel.png",
+      "category": "prop/harbor",
+      "sha256": "e9914049027e0648085524bf235de6186d56fd6a734e275add7582957d950603"
+    },
+    {
+      "name": "sprite-cannon-naval",
+      "file": "sprites/sprite-cannon-naval.png",
+      "category": "prop/harbor",
+      "sha256": "f0e66b0d2327e4801c97a46018827613a8912d05d6b8773248b88f4769788083"
+    },
+    {
+      "name": "sprite-life-ring",
+      "file": "sprites/sprite-life-ring.png",
+      "category": "prop/harbor",
+      "sha256": "09093cada29fbdfcb4e2cdb221b2c430035030cb20daa8589ca0f52cc5ede167"
+    },
+    {
+      "name": "sprite-gangplank",
+      "file": "sprites/sprite-gangplank.png",
+      "category": "prop/harbor",
+      "sha256": "eebea818d5edca56b1a8f082fe7279c9919769c11e3ed74dac9c53b5f319b5bf"
+    },
+    {
+      "name": "sprite-harbor-lantern",
+      "file": "sprites/sprite-harbor-lantern.png",
+      "category": "prop/harbor",
+      "sha256": "8d874a81a4ccc9107e00d8cc88f2a7d4d326ae680343df1d2db69368685fb23b"
+    },
+    {
+      "name": "sprite-coil-hawser",
+      "file": "sprites/sprite-coil-hawser.png",
+      "category": "prop/harbor",
+      "sha256": "0fa5bd58e298242837cd26245f1ed77c99403e1d8dfe4b3d72fb868252faad74"
+    },
+    {
+      "name": "sprite-fish-barrel",
+      "file": "sprites/sprite-fish-barrel.png",
+      "category": "prop/harbor",
+      "sha256": "4fbe83c3e4b80b5711ba5e128aa1c5004ba82a5cd1aa848c83e93afa4d083583"
+    },
+    {
+      "name": "sprite-pier-piling",
+      "file": "sprites/sprite-pier-piling.png",
+      "category": "prop/harbor",
+      "sha256": "f1d7410afbac27103f931d54c14c4b27e606703369a0f04a383497c0b2f5734e"
+    },
+    {
+      "name": "sprite-lighthouse-small",
+      "file": "sprites/sprite-lighthouse-small.png",
+      "category": "prop/harbor",
+      "sha256": "07dec53aa89d8345f9c644444b828c3bc0c7a8536abe82efc3d3c39f805dfd1c"
+    }
+  ],
+  "judgment_calls": [
+    "Harbor props only; no full boats (vehicles pack).",
+    "Names chosen to avoid existing sprite-* (rope-coil, barrel-wood, crate-wood, fish-rack).",
+    "Water hints kept as small base strips on buoy/piling for context.",
+    "4x supersample, LANCZOS to 256."
+  ]
+}
