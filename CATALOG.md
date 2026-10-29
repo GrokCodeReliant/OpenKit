@@ -1281,3 +1281,4 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-icons-emotes-b1/` — 16 chat / reaction emote icons
 - `packs/openkit-sprites-props-farm-b1/` — 16 farm / barn / livestock prop sprites
 - `packs/openkit-sprites-props-mine-b1/` — 16 mine / quarry / dig-site prop sprites
+- `packs/openkit-sprites-props-harbor-b1/` — 16 harbor / dock / pier prop sprites
