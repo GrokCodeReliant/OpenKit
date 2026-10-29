@@ -1,0 +1,119 @@
+{
+  "pack": "openkit-sprites-characters-b1",
+  "license": "CC0-1.0",
+  "format": "PNG RGBA transparent",
+  "size": [
+    256,
+    256
+  ],
+  "generator": "src/gen_sprites.py",
+  "count": 16,
+  "sheet": {
+    "file": "sheet/CONTACT_SHEET.png",
+    "sha256": "2c7b9e29d8f4b32320f6549756c687015e40becdf773f2e9d7861e6a56b6de33"
+  },
+  "sprites": [
+    {
+      "name": "sprite-char-warrior",
+      "file": "sprites/sprite-char-warrior.png",
+      "category": "character",
+      "sha256": "fa11f2f689a2e1c047b5523c4f01c8e76917ffc9eb188986f6ff5b84c944ac24"
+    },
+    {
+      "name": "sprite-char-knight",
+      "file": "sprites/sprite-char-knight.png",
+      "category": "character",
+      "sha256": "63e914f5e025ea3619655621f01d1d21695b91cb754f5d9f8db83607f11bf8d7"
+    },
+    {
+      "name": "sprite-char-rogue",
+      "file": "sprites/sprite-char-rogue.png",
+      "category": "character",
+      "sha256": "f56416e356e89b22824a65f080841d0a8ea4eb0937f11ad236e767e464340638"
+    },
+    {
+      "name": "sprite-char-ranger",
+      "file": "sprites/sprite-char-ranger.png",
+      "category": "character",
+      "sha256": "5feec52c77805b96d6d7f3341e2a3653db8244caa6b5811e9b8cab5ad812ed47"
+    },
+    {
+      "name": "sprite-char-mage",
+      "file": "sprites/sprite-char-mage.png",
+      "category": "character",
+      "sha256": "396b5d4f51b6205a62b6b576be0869ae63e4bdf10a049c92b07cfef9c9d3ccdd"
+    },
+    {
+      "name": "sprite-char-cleric",
+      "file": "sprites/sprite-char-cleric.png",
+      "category": "character",
+      "sha256": "edc68824ac606b2e28a652d8ef5565c2660874f2098b2b06281717c65045e23f"
+    },
+    {
+      "name": "sprite-char-bard",
+      "file": "sprites/sprite-char-bard.png",
+      "category": "character",
+      "sha256": "faf33b2835118ca8151bf860e9f1c999e839b068f74696fa5c18335a580f286b"
+    },
+    {
+      "name": "sprite-char-monk",
+      "file": "sprites/sprite-char-monk.png",
+      "category": "character",
+      "sha256": "b70fb9abe15834672f446dc28cee7b89fb4ea9c13105e1f0e5c12eeca7fecd8f"
+    },
+    {
+      "name": "sprite-char-barbarian",
+      "file": "sprites/sprite-char-barbarian.png",
+      "category": "character",
+      "sha256": "cfb53624135c8b2ca3590f2aae64dd09c649c7fcfe0e230d370a50a45c357729"
+    },
+    {
+      "name": "sprite-char-paladin",
+      "file": "sprites/sprite-char-paladin.png",
+      "category": "character",
+      "sha256": "2213f5a222b30a4e69d44419bc3d862d5fe85534923fd22b952745b8737dd0b0"
+    },
+    {
+      "name": "sprite-char-necromancer",
+      "file": "sprites/sprite-char-necromancer.png",
+      "category": "character",
+      "sha256": "e49593f429312e562a881fc3e824b14bc7a87003d7467166a829cf9785d3bda8"
+    },
+    {
+      "name": "sprite-char-druid",
+      "file": "sprites/sprite-char-druid.png",
+      "category": "character",
+      "sha256": "a2b490cd696c3c7af2a9db92c003deeabc5f270c33e2e0f9f525b760acc55c94"
+    },
+    {
+      "name": "sprite-char-alchemist",
+      "file": "sprites/sprite-char-alchemist.png",
+      "category": "character",
+      "sha256": "5346945d400b1a33c24bb37cd89ed25702559d6a2e218e4208fea6227735a782"
+    },
+    {
+      "name": "sprite-char-peasant",
+      "file": "sprites/sprite-char-peasant.png",
+      "category": "character",
+      "sha256": "ff34e5d5da042f286bcb9dad0095e65c91527014ec0fd26b4bc9b98a345ab470"
+    },
+    {
+      "name": "sprite-char-merchant",
+      "file": "sprites/sprite-char-merchant.png",
+      "category": "character",
+      "sha256": "d0721ff2291cc4e55c784a1fde4d84b047bc6128cb083b1d490157df94fbd52b"
+    },
+    {
+      "name": "sprite-char-guard",
+      "file": "sprites/sprite-char-guard.png",
+      "category": "character",
+      "sha256": "23132d4b5cb8c518a7ed22e4be11386115fe0f3aed523e272978d264ff41e508"
+    }
+  ],
+  "judgment_calls": [
+    "Generic fantasy class archetypes only (warrior, mage, etc.); not Forms, no likeness of any real person, no studio IP characters.",
+    "All geometry original procedural Pillow drawing; no third-party assets, fonts in sheet are Pillow built-in default.",
+    "sprite-char-* prefix chosen to avoid collision with creature sprites (sprite-goblin, sprite-skeleton, ...) and icon-npc-* faces.",
+    "Multiple skin tones distributed across the set; front-facing standing pose for all 16."
+  ]
+}
