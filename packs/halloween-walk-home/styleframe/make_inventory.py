@@ -1,0 +1,55 @@
+# Regenerates art/OPEN_KIT_INVENTORY.md: one row per file incl. itself, with size and sha256.
+import os,glob,hashlib
+from collections import Counter
+os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)),".."))
+INV="OPEN_KIT_INVENTORY.md"
+INTERNAL={"ART_PACK.VEIL.md","SELF_CRITIQUE.md","ASSET_LIST.md"}  # not shipped
+def kind(p):
+    if p.startswith("fx/"): return "FX animation (stop marker)"
+    if "/parts/" in p: return "SVG master"
+    if p.startswith("atlas/") and p.endswith(".png"): return "atlas PNG @2x"
+    if p.startswith("atlas/"): return "atlas data"
+    if p.endswith(".glb"): return "3D glTF"
+    if "batch4/preview_" in p: return "3D preview PNG"
+    if p.startswith("backgrounds/"): return "background"
+    if p.startswith("challenges/"): return "challenge composite (mock)"
+    if "previews/" in p: return "sprite preview PNG"
+    if "contact_sheet" in p: return "contact sheet"
+    if p.startswith("styleframe/styleframe") or "composite_scene" in p: return "style frame / mock"
+    if p.endswith(".css"): return "palette"
+    return {"py":"source script","sh":"source script","md":"doc","json":"data"}.get(p.rsplit(".",1)[-1],"file")
+# Re-rendered with CairoSVG on 2026-10-23 (headless Chrome hung on the box); everything else keeps its original Chrome render.
+CAIRO={"atlas/batch1a_parts@2x.png","atlas/batch1b_parts@2x.png","atlas/batch2_parts@2x.png","atlas/batch3_parts@2x.png",
+ "batch1/composite_scene_1080.png","batch1/composite_scene_360.png","batch1/contact_sheet.png","batch2/contact_sheet.png","batch3/contact_sheet.png",
+ "fx/wkA_fall_strip@2x.png","fx/wkB_fall_strip@2x.png","styleframe/styleframe_bag_ui.png","styleframe/styleframe_bag_ui_360.png",
+ "styleframe/styleframe_street.png","styleframe/styleframe_street_360.png"}|{f"backgrounds/{n}.png" for n in "bg_candy_sort bg_costume_fixup bg_dog_stop challenge_carving_trace challenge_clue_board challenge_paw_prints challenge_porch_decor fx_night_tint home_interior_dark home_interior_lit store_interior".split()}
+def tool(p):
+    if p in ("fx/wkA_fall_preview_1x.gif","fx/wkB_fall_preview_1x.gif"): return "Pillow GIF from our CairoSVG-rendered strip"
+    if p.startswith("batch3/final_pass_"): return "Pillow composite of our CairoSVG-rendered atlas"
+    if p in CAIRO: return ("CairoSVG render + Pillow downscale" if "_360" in p else "CairoSVG render of our SVG")
+    if p.endswith(".gif"): return "Pillow (fx/make_fx_previews.py) from our Chrome-rendered strip"
+    if p.endswith(".glb") or "batch4/preview_" in p: return "Blender (batch4/make_3d.py)"
+    if p.endswith((".py",".sh",".css",".md")): return "hand-written by the studio crew"
+    if p.endswith(".svg"): return "our Python/SVG scripts"
+    if p.endswith(".png"):
+        if p.startswith("batch4/") or "batch4_previews" in p: return "Blender render + Python (Pillow) layout"
+        if "_360" in p: return "headless Chrome render + Pillow downscale"
+        return "headless Chrome render of our SVG"
+    return "our Python scripts"
+files=sorted(set(p for p in glob.glob("**/*",recursive=True) if os.path.isfile(p) and "__pycache__" not in p and p not in INTERNAL)|{INV})
+rows=[]
+for i,p in enumerate(files,1):
+    if p==INV: size,h="(this file)","n/a (self)"
+    else: size=os.path.getsize(p); h=hashlib.sha256(open(p,"rb").read()).hexdigest()
+    rows.append(f"| {i} | `{p}` | {kind(p)} | {size} | `{h}` | original, made by the studio crew | CC0 | {tool(p)} |")
+c=Counter(kind(p) for p in files)
+out=["# Open Kit inventory: 'Halloween / Cozy Spooky 2D' (+ 3D pieces)","",
+"For Intake. Every file below is **original, made by the studio crew** (no downloads, no third-party art or fonts, no trademarks, no real people, no religious symbols), licensed **CC0 1.0**.",
+f"{len(files)} files, including this inventory. Paths are relative to `halloween-walk/art/`. Hash = SHA-256. Contact sheets use the viewer's system sans-serif only for review labels; no font is embedded in any sprite.","Internal working notes are not shipped and not listed.","",
+"| # | file | type | bytes | sha256 | source | license | tool |","|---|---|---|---|---|---|---|---|"]+rows
+out+=["","## Totals by type"]+[f"- {k}: {v}" for k,v in sorted(c.items())]
+out+=["","## Notes for Intake","- Signs and banners are blank panels; any text is drawn in code by the game, not baked into the art.",
+"- The palette lives in `styleframe/palette.css` inside the pack; the builds read nothing outside `art/`.",
+"- 3D: metres, ≤3 colour slots per mesh, ≤1500 tris, collider child per piece (see `batch4/batch4_3d.json`).",
+"- Rebuild: `python3 styleframe/build.py && python3 styleframe/make_batch1.py && python3 styleframe/make_sheets.py && python3 styleframe/make_challenges.py && styleframe/render_all.sh && python3 styleframe/make_inventory.py`; 3D: `blender -b --python batch4/make_3d.py`."]
+open(INV,"w").write("\n".join(out)+"\n"); print(len(files),dict(c))

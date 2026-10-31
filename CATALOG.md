@@ -1283,3 +1283,4 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-sprites-props-mine-b1/` — 16 mine / quarry / dig-site prop sprites
 - `packs/openkit-sprites-props-harbor-b1/` — 16 harbor / dock / pier prop sprites
 - `packs/openkit-sprites-characters-b1/` — 16 generic class character sprites
+- `packs/halloween-walk-home/` — 360 files, Halloween Walk Home art pack (CC0; game in development)

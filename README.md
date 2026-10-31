@@ -8,6 +8,8 @@ Made with Grok / Grok Imagine. License: CC0 1.0 Universal (public domain). No cr
 
 v0.3.1 expands the classic fantasy tabletop pack under `2d/dnd` (tiles, props, tokens, monsters) to 963 screened images. Total screened images in this release: 1214. This release is CC0 1.0 Universal (public domain); no credit required.
 
+Halloween Walk Home art pack (CC0) is in `packs/halloween-walk-home/`. Its game is still in development.
+
 File list: `CATALOG.md`
 
 ## Back the studio
