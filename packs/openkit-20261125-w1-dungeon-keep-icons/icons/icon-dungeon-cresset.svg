@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-cresset">
+  <!-- Open Kit CC0 original geometry: standing iron fire-basket on a post with a few coals. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-cresset</title>
+  <path d="M128 196 L58 228 L78 228 L128 208 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M128 196 L198 228 L178 228 L128 208 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M118 200 H138 V226 H118 Z" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M116 108 H140 V206 H116 Z" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="9"/>
+  <path d="M122 112 H134 V200 H122 Z" fill="#8a9098"/>
+  <path d="M96 108 H160 V122 H96 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M78 44 H178 L156 114 H100 Z" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="9"/>
+  <path d="M90 54 H166 L150 106 H106 Z" fill="#8a9098"/>
+  <path d="M94 48 L108 114 M128 44 L128 114 M162 48 L148 114" fill="none" stroke="#5a6068" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M82 68 H174 M92 90 H164" fill="none" stroke="#5a6068" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M70 40 H186 V58 H70 Z" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M78 44 H178 V54 H78 Z" fill="#d8dde2"/>
+  <circle cx="108" cy="86" r="9" fill="#8a4030" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="132" cy="78" r="10" fill="#d08040" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="148" cy="92" r="8" fill="#8a4030" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M126 42 L138 74 L116 72 Z" fill="#e8c070" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+</svg>

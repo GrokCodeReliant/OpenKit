@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-grappling-hook">
+  <!-- Open Kit CC0 original geometry: three-prong iron grapnel with a short rope eye. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-grappling-hook</title>
+  <path d="M58 46 L86 70 L76 82 L48 58 Z" fill="#c4a06a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M60 52 L80 70 L74 76 L54 58 Z" fill="#a88858"/>
+  <path d="M56 58 L76 76 M52 64 L72 82" fill="none" stroke="#5a4438" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M52 48 Q36 28 28 56 L40 58 Q44 40 54 52 Z" fill="#c4a06a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <circle cx="92" cy="86" r="20" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="92" cy="86" r="8" fill="none" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M100 96 L118 84 L186 168 L164 182 Z" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M108 96 L116 90 L176 166 L166 174 Z" fill="#d8dde2"/>
+  <path d="M170 160 C210 148 214 108 186 96 L174 110 C190 116 190 140 166 150 Z" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M164 172 C148 210 104 206 96 170 L112 166 C116 188 144 190 162 164 Z" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M176 176 C210 198 230 170 214 136 L198 142 C206 162 196 176 176 166 Z" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="168" cy="168" r="12" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+</svg>

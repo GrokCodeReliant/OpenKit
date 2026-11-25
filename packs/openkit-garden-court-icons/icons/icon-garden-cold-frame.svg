@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-garden-cold-frame">
+  <!-- Open Kit CC0 original geometry: timber cold-frame with a sloped glazed lid slightly open. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-garden-cold-frame</title>
+  <g transform="translate(0,-16)">
+  <path d="M40 158 H176 V214 H40 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M176 158 L224 128 L224 184 L176 214 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M40 158 L88 128 L224 128 L176 158 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M56 158 L92 136 L204 136 L168 158 Z" fill="#5a3a28" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M56 80 L176 80 L230 126 L110 126 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M56 80 L110 126 L110 158 L40 158 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M64 110 L96 136 L96 150 L56 150 Z" fill="#c4a07a"/>
+  <path d="M76 90 L128 90 L148 120 L96 120 Z" fill="#c8d0d4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M140 90 L192 90 L214 120 L160 120 Z" fill="#c8d0d4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M126 84 H146 L166 126 H146 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M100 118 H214 L230 126 H110 Z" fill="#c4a07a"/>
+  <path d="M70 126 L84 126 L96 158 L80 158 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  </g>
+</svg>

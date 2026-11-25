@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-garden-trellis">
+  <!-- Open Kit CC0 original geometry: tall rectangular timber trellis with an open diamond lattice and a climbing vine. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-garden-trellis</title>
+  <path d="M79 135 L89 125 L153 61 L143 71 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M83 195 L93 185 L177 101 L167 111 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M147 195 L157 185 L177 165 L167 175 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M89 131 L79 121 L143 185 L153 195 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M93 71 L83 61 L167 145 L177 155 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M157 71 L147 61 L167 81 L177 91 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M60 28 H84 V228 H60 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M66 38 H76 V218 H66 Z" fill="#c4a07a"/>
+  <path d="M172 28 H196 V228 H172 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M178 38 H188 V218 H178 Z" fill="#c4a07a"/>
+  <path d="M84 48 H172 V66 H84 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M92 54 H164 V62 H92 Z" fill="#c4a07a"/>
+  <path d="M84 190 H172 V208 H84 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M92 196 H164 V204 H92 Z" fill="#c4a07a"/>
+  <path d="M72 214 Q118 168 102 128 Q148 104 174 46" fill="none" stroke="#3a5a38" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M112 150 Q134 136 112 120 Q98 136 112 150 Z" fill="#5a7a48" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M150 100 Q172 86 150 70 Q136 86 150 100 Z" fill="#8a9a60" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+</svg>

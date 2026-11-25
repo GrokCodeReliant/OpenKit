@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-cloister-trough">
+  <!-- Open Kit CC0 original geometry: long low stone washing trough with shallow water. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-cloister-trough</title>
+  <g transform="translate(0,-10)">
+  <path d="M28 132 H188 V200 H28 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M188 132 L228 104 L228 172 L188 200 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M28 132 L68 104 L228 104 L188 132 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M44 126 L76 110 L208 110 L180 126 Z" fill="#c4bfb6"/>
+  <path d="M44 132 L72 114 L208 114 L180 132 Z" fill="#3a5a68" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M60 126 L84 116 L190 116 L170 126 Z" fill="#6a8a92"/>
+  <path d="M100 100 H114 V118 H100 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M168 100 H182 V118 H168 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-cloister-bench">
+  <!-- Open Kit CC0 original geometry: backless stone cloister bench on two solid ends. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-cloister-bench</title>
+  <path d="M48 128 H88 V204 H48 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M88 128 L104 116 L104 192 L88 204 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M56 136 H80 V196 H56 Z" fill="#c4bfb6"/>
+  <path d="M160 128 H200 V204 H160 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M200 128 L216 116 L216 192 L200 204 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M168 136 H192 V196 H168 Z" fill="#8a8480"/>
+  <path d="M40 100 H196 V132 H40 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M196 100 L224 80 L224 112 L196 132 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M40 100 L68 80 L224 80 L196 100 Z" fill="#c4bfb6" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M56 92 L80 84 L200 84 L180 92 Z" fill="#c4bfb6"/>
+  <circle cx="80" cy="96" r="5" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="168" cy="88" r="5" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+</svg>

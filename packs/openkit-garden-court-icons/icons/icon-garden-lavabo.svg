@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-garden-lavabo">
+  <!-- Open Kit CC0 original geometry: cloister lavabo with a deeper basin and a bronze spout. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-garden-lavabo</title>
+  <path d="M90 198 H166 V220 H90 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M166 198 L188 184 L188 206 L166 220 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M90 198 L112 184 L188 184 L166 198 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M104 192 L120 186 L170 186 L156 192 Z" fill="#c4bfb6"/>
+  <path d="M112 116 H144 V198 H112 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M144 116 L156 108 L156 184 L144 198 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M118 124 H132 V188 H118 Z" fill="#c4bfb6"/>
+  <ellipse cx="128" cy="128" rx="58" ry="18" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M68 80 L68 116 L128 140 L188 116 L188 80 L128 104 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="128" cy="76" rx="68" ry="22" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M80 80 L80 110 L128 130 L176 110 L176 80 L128 98 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="128" cy="80" rx="54" ry="16" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="128" cy="108" rx="42" ry="14" fill="#3a5a68" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="116" cy="104" rx="12" ry="5" fill="#6a8a92" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <path d="M150 44 H164 V80 H150 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M124 44 H164 V58 H124 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M124 58 L124 70 L136 70 L136 58 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M154 48 H160 V76 H154 Z" fill="#c4a05a"/>
+  <path d="M130 48 H160 V54 H130 Z" fill="#c4a05a"/>
+</svg>

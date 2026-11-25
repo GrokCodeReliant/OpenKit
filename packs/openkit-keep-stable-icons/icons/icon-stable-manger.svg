@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-stable-manger">
+  <!-- Open Kit CC0 original geometry: clean V-shaped timber hay rack with even slats and a tidy hay tuft on top. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-stable-manger</title>
+  <g transform="translate(128,128) scale(0.9) translate(-128,-128) translate(0,-4)">
+  <path d="M168 90 H196 V200 H168 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M158 200 H206 V222 H158 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M44 98 H74 V210 H44 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M34 210 H84 V230 H34 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M50 112 H68 V200 H50 Z" fill="#c4a07a"/>
+  <path d="M84 78 Q88 56 108 54 Q122 40 136 54 Q154 42 170 62 Q178 82 156 96 L100 102 Q76 94 84 78 Z" fill="#c4a05a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M104 70 Q120 56 140 64 Q148 80 128 88 Q108 84 104 70 Z" fill="#d8b46a"/>
+  <path d="M44 104 L74 90 L202 100 L172 118 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M202 100 L214 92 L214 112 L172 118 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M58 108 L80 98 L190 106 L168 116 Z" fill="#c4a07a"/>
+  <path d="M60 142 L80 128 L178 138 L158 156 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M178 138 L190 130 L190 150 L158 156 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M72 146 L88 136 L168 144 L154 154 Z" fill="#c4a07a"/>
+  <path d="M76 180 L88 168 L160 178 L146 196 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M160 178 L170 170 L170 190 L146 196 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  </g>
+</svg>

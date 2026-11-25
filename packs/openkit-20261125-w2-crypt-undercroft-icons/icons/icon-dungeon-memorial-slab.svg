@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-memorial-slab">
+  <!-- Open Kit CC0 original geometry: memorial floor slab with an incised eight-petal rosette. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-memorial-slab</title>
+  <path d="M24 200 L56 40 H200 L232 200 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M40 188 L68 54 H188 L216 188 Z" fill="#c4bfb6"/>
+  <path d="M52 176 L76 68 H180 L204 176 Z" fill="none" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M64 168 L84 80 H172 L192 168 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="152.02" cy="135.95" r="20" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="137.95" cy="150.02" r="20" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="118.05" cy="150.02" r="20" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="103.98" cy="135.95" r="20" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="103.98" cy="116.05" r="20" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="118.05" cy="101.98" r="20" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="137.95" cy="101.98" r="20" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="152.02" cy="116.05" r="20" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="152.02" cy="135.95" r="14" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="137.95" cy="150.02" r="14" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="118.05" cy="150.02" r="14" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="103.98" cy="135.95" r="14" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="103.98" cy="116.05" r="14" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="118.05" cy="101.98" r="14" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="137.95" cy="101.98" r="14" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="152.02" cy="116.05" r="14" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="128" cy="126" r="16" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="128" cy="126" r="11" fill="#c4a05a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+</svg>

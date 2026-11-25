@@ -1,0 +1,218 @@
+{
+  "pack": "openkit-cloister-walk-icons",
+  "family": "cloister-walk-icons",
+  "license": "CC0-1.0",
+  "export_resolution_px": 256,
+  "alignment_convention": "inventory icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; INVENTORY.md; HONEST_LOOK.md; MANIFEST.json; SHA256SUMS and VALIDATOR_RESULTS.json sit beside the manifest and are not listed in files[]",
+  "items": [
+    {
+      "id": "icon-cloister-arcade",
+      "kind": "icon",
+      "function": "intact stone walk bay with a pointed arch, keystone, and wall face around it",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-cloister-arcade.svg",
+      "png": "icons/icon-cloister-arcade.png",
+      "sha256_svg": "7fbb2ad048505e69c00154284286721879701a12c97a328ba22ffc19cd0a9f4d",
+      "bytes_svg": 3406,
+      "sha256_png": "024391abd32d0f1a1a0b66a07f76e7468f50e34f233e2b5006f01c83b6ef6555",
+      "bytes_png": 6585
+    },
+    {
+      "id": "icon-cloister-bench",
+      "kind": "icon",
+      "function": "backless stone bench on two solid ends",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-cloister-bench.svg",
+      "png": "icons/icon-cloister-bench.png",
+      "sha256_svg": "52e17ae27da8c664131045e31c8bf3ffc999d87693d6df1ae6bd2d60c6d90fee",
+      "bytes_svg": 1847,
+      "sha256_png": "c1bc76939acb57f884f401ea54a1635a731c256031583957b92ac99b3a19598c",
+      "bytes_png": 2934
+    },
+    {
+      "id": "icon-cloister-hopper",
+      "kind": "icon",
+      "function": "wall-mounted lead rain hopper with a downpipe and shoe",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-cloister-hopper.svg",
+      "png": "icons/icon-cloister-hopper.png",
+      "sha256_svg": "efce78c0fa0d9d0cc6aa1767fed197e2a70b7cf64fd102ea93fe8ef924c98d7b",
+      "bytes_svg": 2593,
+      "sha256_png": "b92d7218c9752303570b007b87b771d7980ae9935e6bcbab95c892e21843a026",
+      "bytes_png": 5172
+    },
+    {
+      "id": "icon-cloister-alms-box",
+      "kind": "icon",
+      "function": "plain strapped alms box with a coin slot, on a short post",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-cloister-alms-box.svg",
+      "png": "icons/icon-cloister-alms-box.png",
+      "sha256_svg": "5668ccd0301eb168853c9f03fbe3ac4258b0eb9ac13c4655e4ab0c302171a21e",
+      "bytes_svg": 2696,
+      "sha256_png": "39ad58ae2786b26caa90712994b55973619076c5f16c58fd74c5c95f31777e12",
+      "bytes_png": 4463
+    },
+    {
+      "id": "icon-cloister-trough",
+      "kind": "icon",
+      "function": "long low stone washing trough with shallow water",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-cloister-trough.svg",
+      "png": "icons/icon-cloister-trough.png",
+      "sha256_svg": "292a35513c87529444d48761c34a4f3ff0ba96ff44c02ed6b12e426d97338957",
+      "bytes_svg": 1447,
+      "sha256_png": "a981baade0c85b863418aa6cd1b958fcae00ef744170e2e3d613f5bd644c5a96",
+      "bytes_png": 3049
+    },
+    {
+      "id": "icon-cloister-grille",
+      "kind": "icon",
+      "function": "iron gate filling a stone arch, including the head",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-cloister-grille.svg",
+      "png": "icons/icon-cloister-grille.png",
+      "sha256_svg": "b33a1095061c484205cc2c012de7b705179bb8ae5bb73d84969b6b32387e93a8",
+      "bytes_svg": 2834,
+      "sha256_png": "0828b90e743de8654025ee143c412e5ba3d319e807de6b2d8159e81d9af3ea39",
+      "bytes_png": 5788
+    },
+    {
+      "id": "icon-cloister-capital",
+      "kind": "icon",
+      "function": "stone column capital on a short shaft stub",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-cloister-capital.svg",
+      "png": "icons/icon-cloister-capital.png",
+      "sha256_svg": "0078de593284ca69f9d0ea752df11a93adf3eec320e06cdac111106c14dc460f",
+      "bytes_svg": 1895,
+      "sha256_png": "0111eb373e64eec0446c86d95f6e5219aa1d22f52bc6d2c5d9a65289d33358f5",
+      "bytes_png": 4602
+    },
+    {
+      "id": "icon-cloister-lantern",
+      "kind": "icon",
+      "function": "short walk lantern with a glazed box",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-cloister-lantern.svg",
+      "png": "icons/icon-cloister-lantern.png",
+      "sha256_svg": "0f27177dd124935129afc1fa4e86f237edcb8f4c44ebec72ef02e6b53f81f90e",
+      "bytes_svg": 2485,
+      "sha256_png": "5d6cb2babda970769a5047b6769fd7ce192622a2cd916574e466065b7f3e16df",
+      "bytes_png": 3166
+    }
+  ],
+  "files": [
+    {
+      "path": "CREDITS.md",
+      "sha256": "b086239517fd48f5fcaa2302643f8768a0d636f5bc89cc18e5d7b12416911d5e",
+      "bytes": 78
+    },
+    {
+      "path": "HONEST_LOOK.md",
+      "sha256": "bc214b493978c042bad69e5b41d395813723453eb0374231230f2f9e34b6f157",
+      "bytes": 2512
+    },
+    {
+      "path": "INVENTORY.md",
+      "sha256": "2a49cee18d5957b11eb0a693889d57b324729c22fa3317b81189f0c60d7ebd8f",
+      "bytes": 1224
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    },
+    {
+      "path": "README.md",
+      "sha256": "51bae5d7967955e04e2699bc062107f86910468ebcb0af639ab4e5d3d1aa62aa",
+      "bytes": 2769
+    },
+    {
+      "path": "icons/icon-cloister-alms-box.png",
+      "sha256": "39ad58ae2786b26caa90712994b55973619076c5f16c58fd74c5c95f31777e12",
+      "bytes": 4463
+    },
+    {
+      "path": "icons/icon-cloister-alms-box.svg",
+      "sha256": "5668ccd0301eb168853c9f03fbe3ac4258b0eb9ac13c4655e4ab0c302171a21e",
+      "bytes": 2696
+    },
+    {
+      "path": "icons/icon-cloister-arcade.png",
+      "sha256": "024391abd32d0f1a1a0b66a07f76e7468f50e34f233e2b5006f01c83b6ef6555",
+      "bytes": 6585
+    },
+    {
+      "path": "icons/icon-cloister-arcade.svg",
+      "sha256": "7fbb2ad048505e69c00154284286721879701a12c97a328ba22ffc19cd0a9f4d",
+      "bytes": 3406
+    },
+    {
+      "path": "icons/icon-cloister-bench.png",
+      "sha256": "c1bc76939acb57f884f401ea54a1635a731c256031583957b92ac99b3a19598c",
+      "bytes": 2934
+    },
+    {
+      "path": "icons/icon-cloister-bench.svg",
+      "sha256": "52e17ae27da8c664131045e31c8bf3ffc999d87693d6df1ae6bd2d60c6d90fee",
+      "bytes": 1847
+    },
+    {
+      "path": "icons/icon-cloister-capital.png",
+      "sha256": "0111eb373e64eec0446c86d95f6e5219aa1d22f52bc6d2c5d9a65289d33358f5",
+      "bytes": 4602
+    },
+    {
+      "path": "icons/icon-cloister-capital.svg",
+      "sha256": "0078de593284ca69f9d0ea752df11a93adf3eec320e06cdac111106c14dc460f",
+      "bytes": 1895
+    },
+    {
+      "path": "icons/icon-cloister-grille.png",
+      "sha256": "0828b90e743de8654025ee143c412e5ba3d319e807de6b2d8159e81d9af3ea39",
+      "bytes": 5788
+    },
+    {
+      "path": "icons/icon-cloister-grille.svg",
+      "sha256": "b33a1095061c484205cc2c012de7b705179bb8ae5bb73d84969b6b32387e93a8",
+      "bytes": 2834
+    },
+    {
+      "path": "icons/icon-cloister-hopper.png",
+      "sha256": "b92d7218c9752303570b007b87b771d7980ae9935e6bcbab95c892e21843a026",
+      "bytes": 5172
+    },
+    {
+      "path": "icons/icon-cloister-hopper.svg",
+      "sha256": "efce78c0fa0d9d0cc6aa1767fed197e2a70b7cf64fd102ea93fe8ef924c98d7b",
+      "bytes": 2593
+    },
+    {
+      "path": "icons/icon-cloister-lantern.png",
+      "sha256": "5d6cb2babda970769a5047b6769fd7ce192622a2cd916574e466065b7f3e16df",
+      "bytes": 3166
+    },
+    {
+      "path": "icons/icon-cloister-lantern.svg",
+      "sha256": "0f27177dd124935129afc1fa4e86f237edcb8f4c44ebec72ef02e6b53f81f90e",
+      "bytes": 2485
+    },
+    {
+      "path": "icons/icon-cloister-trough.png",
+      "sha256": "a981baade0c85b863418aa6cd1b958fcae00ef744170e2e3d613f5bd644c5a96",
+      "bytes": 3049
+    },
+    {
+      "path": "icons/icon-cloister-trough.svg",
+      "sha256": "292a35513c87529444d48761c34a4f3ff0ba96ff44c02ed6b12e426d97338957",
+      "bytes": 1447
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "sha256": "3d41abb91caf1b3ab7ba1fb7ffe4e9cd8b53ac5a4bcaf7e2669cffc4247564fe",
+      "bytes": 71482
+    }
+  ]
+}

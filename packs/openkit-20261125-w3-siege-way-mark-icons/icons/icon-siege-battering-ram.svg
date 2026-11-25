@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-siege-battering-ram">
+  <!-- Open Kit CC0 original geometry: battering ram on two trestles. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-siege-battering-ram</title>
+  <path d="M58 188 L76 108 L88 108 L74 188 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M102 188 L88 108 L100 108 L118 188 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M66 176 L80 120 L84 120 L72 176 Z" fill="#c4a07a"/>
+  <path d="M108 176 L92 120 L96 120 L112 176 Z" fill="#c4a07a"/>
+  <path d="M74 108 H102 V118 H74 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M150 188 L168 108 L180 108 L166 188 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M194 188 L180 108 L192 108 L210 188 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M158 176 L172 120 L176 120 L164 176 Z" fill="#c4a07a"/>
+  <path d="M200 176 L184 120 L188 120 L204 176 Z" fill="#c4a07a"/>
+  <path d="M166 108 H194 V118 H166 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M52 82 H184 V138 H52 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M60 92 H176 V110 H60 Z" fill="#c4a07a"/>
+  <ellipse cx="52" cy="110" rx="20" ry="28" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M88 82 H102 V138 H88 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M144 82 H158 V138 H144 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M184 82 H204 V138 H184 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="204" cy="110" rx="20" ry="28" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="196" cy="102" rx="6" ry="8" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+</svg>

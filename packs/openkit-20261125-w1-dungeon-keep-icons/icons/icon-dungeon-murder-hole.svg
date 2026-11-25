@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-murder-hole">
+  <!-- Open Kit CC0 original geometry: ceiling slab with a central opening, seen from below. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-murder-hole</title>
+  <path d="M24 208 L60 48 L196 48 L232 208 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M40 198 L70 60 L186 60 L216 198 Z" fill="#c4bfb6"/>
+  <path d="M64 48 L40 208 M192 48 L216 208 M96 48 L88 80 M160 48 L168 80" fill="none" stroke="#6a6560" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M96 86 L160 86 L172 160 L84 160 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M104 96 L152 96 L162 150 L94 150 Z" fill="#8a8480"/>
+  <path d="M110 104 L146 104 L154 144 L102 144 Z" fill="#1a1410" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M128 48 L128 86 M60 48 L96 86 M196 48 L160 86" fill="none" stroke="#6a6560" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M24 208 L84 160 M232 208 L172 160" fill="none" stroke="#6a6560" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

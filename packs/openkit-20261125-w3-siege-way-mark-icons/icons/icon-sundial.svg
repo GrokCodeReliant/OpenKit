@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-sundial">
+  <!-- Open Kit CC0 original geometry: horizontal sundial on a short plinth. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-sundial</title>
+  <path d="M72 148 L184 148 L200 200 L56 200 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M84 156 L172 156 L184 192 L72 192 Z" fill="#c4bfb6"/>
+  <ellipse cx="128" cy="120" rx="96" ry="40" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="128" cy="120" rx="78" ry="28" fill="#c4a05a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <path d="M224 120 L210 120" fill="none" stroke="#1c161e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 160 L128 146" fill="none" stroke="#1c161e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M80 154.6 L87 142.5" fill="none" stroke="#1c161e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M44.9 140 L57 133" fill="none" stroke="#1c161e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M32 120 L46 120" fill="none" stroke="#1c161e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M44.9 100 L57 107" fill="none" stroke="#1c161e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M80 85.4 L87 97.5" fill="none" stroke="#1c161e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 80 L128 94" fill="none" stroke="#1c161e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M176 85.4 L169 97.5" fill="none" stroke="#1c161e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M211.1 100 L199 107" fill="none" stroke="#1c161e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M120 64 L120 128 L176 140 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M120 64 L132 70 L132 122 L176 140 L120 128 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M126 78 L126 124 L160 132 Z" fill="#c4a05a"/>
+</svg>

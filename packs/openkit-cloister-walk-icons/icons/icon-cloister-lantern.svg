@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-cloister-lantern">
+  <!-- Open Kit CC0 original geometry: short cloister walk lantern with a glazed box. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-cloister-lantern</title>
+  <path d="M100 204 H156 V228 H100 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M156 204 L172 194 L172 218 L156 228 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M100 204 L116 194 L172 194 L156 204 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M114 148 H142 V204 H114 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M142 148 L152 140 L152 196 L142 204 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M120 156 H132 V196 H120 Z" fill="#c4bfb6"/>
+  <path d="M80 60 H168 V148 H80 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M168 60 L190 46 L190 134 L168 148 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M92 72 H120 V136 H92 Z" fill="#c8d0d4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M128 72 H156 V136 H128 Z" fill="#c8d0d4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M96 78 H116 V128 H96 Z" fill="#c4a05a"/>
+  <path d="M132 78 H152 V128 H132 Z" fill="#c4a05a"/>
+  <path d="M168 70 L182 60 L182 126 L168 136 Z" fill="#c4a05a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M72 44 H176 V64 H72 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M176 44 L200 32 L200 52 L176 64 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M72 44 L96 32 L200 32 L176 44 Z" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M88 38 L108 34 L184 34 L168 38 Z" fill="#d8dde2"/>
+</svg>

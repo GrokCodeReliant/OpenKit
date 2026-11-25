@@ -1,0 +1,218 @@
+{
+  "pack": "openkit-20261125-w1-dungeon-keep-icons",
+  "family": "dungeon-keep-icons",
+  "license": "CC0-1.0",
+  "export_resolution_px": 256,
+  "alignment_convention": "inventory icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; INVENTORY.md; HONEST_LOOK.md; MANIFEST.json; SHA256SUMS and VALIDATOR_RESULTS.json sit beside the manifest and are not listed in files[]",
+  "items": [
+    {
+      "id": "icon-dungeon-portcullis",
+      "kind": "icon",
+      "function": "closed iron portcullis in a short stone arch",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-portcullis.svg",
+      "png": "icons/icon-dungeon-portcullis.png",
+      "sha256_svg": "0eb1b9a309dcf8de95399305d38f56f179372a0249dd0d2cc156ffdc06d61d92",
+      "sha256_png": "17a38b614af5fb5383f72692be64c767bca3e8fadf7c7226467ed6ddafcd451d",
+      "bytes_svg": 2844,
+      "bytes_png": 3135
+    },
+    {
+      "id": "icon-dungeon-arrow-slit",
+      "kind": "icon",
+      "function": "stone wall face with a tall narrow arrow slit",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-arrow-slit.svg",
+      "png": "icons/icon-dungeon-arrow-slit.png",
+      "sha256_svg": "f8bdcd0a8d6d24e2ca995f65567771381b40cd24c891ff1702d4696ed7bbc254",
+      "sha256_png": "133a549c5a12ce2e5cbb0e0d438146b756ace7486a224eddcf6bb65be863119a",
+      "bytes_svg": 1421,
+      "bytes_png": 2795
+    },
+    {
+      "id": "icon-dungeon-cresset",
+      "kind": "icon",
+      "function": "standing iron fire-basket on a post",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-cresset.svg",
+      "png": "icons/icon-dungeon-cresset.png",
+      "sha256_svg": "000405f705286a7d7f6cd0ee1fae2a8506a4e9dcc0d649f2936fbf814e439df1",
+      "sha256_png": "89d60471c8999df734e285a9f416900112739512610b48aff8089f5359eeb407",
+      "bytes_svg": 2381,
+      "bytes_png": 7597
+    },
+    {
+      "id": "icon-dungeon-manacles",
+      "kind": "icon",
+      "function": "empty open iron cuffs linked by a short chain",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-manacles.svg",
+      "png": "icons/icon-dungeon-manacles.png",
+      "sha256_svg": "4a3a604dd0f009a8e356df55e9ece109e44e662f7d80c3bbb0d6592009fa33a5",
+      "sha256_png": "87db94c6582e2faf3161cd547d01f6913890f6bf3f868e0d27fcd0c2628df21b",
+      "bytes_svg": 3038,
+      "bytes_png": 10894
+    },
+    {
+      "id": "icon-dungeon-key-ring",
+      "kind": "icon",
+      "function": "split iron ring with four different antique keys",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-key-ring.svg",
+      "png": "icons/icon-dungeon-key-ring.png",
+      "sha256_svg": "32cee528b5f25c7a26c71bfc68060e7fc8954692df5d83633fa60a51e8c986f4",
+      "sha256_png": "115279e6dafadc0e21eb150d349e340b46ae3a79e1c1df1bc1357012a147792f",
+      "bytes_svg": 3470,
+      "bytes_png": 10076
+    },
+    {
+      "id": "icon-dungeon-grappling-hook",
+      "kind": "icon",
+      "function": "three-prong iron grapnel with a short rope eye",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-grappling-hook.svg",
+      "png": "icons/icon-dungeon-grappling-hook.png",
+      "sha256_svg": "e31cfd557fdc7d05920f840f731e39b08ce83243fe787452e654d416a2afaee0",
+      "sha256_png": "988446a32cec2409ec8eb31ac9e31d094043560849c1457707882c9bda0def24",
+      "bytes_svg": 2064,
+      "bytes_png": 15067
+    },
+    {
+      "id": "icon-dungeon-piton",
+      "kind": "icon",
+      "function": "climbing piton with a spiked blade and an eye",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-piton.svg",
+      "png": "icons/icon-dungeon-piton.png",
+      "sha256_svg": "144d2e04b47d9304f723010a744ea433dc40618085cd50028c3ba873bd5d3bd2",
+      "sha256_png": "c7a6fb5fab2c4f4f7c818421101e728a76b3b9442e6ecc2585952434922dfead",
+      "bytes_svg": 1080,
+      "bytes_png": 10436
+    },
+    {
+      "id": "icon-dungeon-murder-hole",
+      "kind": "icon",
+      "function": "ceiling slab with a central opening, seen from below",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-murder-hole.svg",
+      "png": "icons/icon-dungeon-murder-hole.png",
+      "sha256_svg": "f964328184697bf1fe7fe509721da6d46fa21e718c8eca47437b05591371e3ba",
+      "sha256_png": "fbb2a945e5016b3a69612a38c30341b525bb41dcbf610c21cb5571f55c959964",
+      "bytes_svg": 1465,
+      "bytes_png": 11841
+    }
+  ],
+  "files": [
+    {
+      "path": "CREDITS.md",
+      "bytes": 78,
+      "sha256": "b086239517fd48f5fcaa2302643f8768a0d636f5bc89cc18e5d7b12416911d5e"
+    },
+    {
+      "path": "HONEST_LOOK.md",
+      "bytes": 1549,
+      "sha256": "4272a4783aa6dd1c695fa058bcbc5fff266c1283a17cfa847838c70550d23828"
+    },
+    {
+      "path": "INVENTORY.md",
+      "bytes": 954,
+      "sha256": "97220c3bfaaf112284f026ec8a1a25f52f5872b000d48b8c5057ff0dc352492e"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 7048,
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2772,
+      "sha256": "f3a68ee92b875186874e568a37cd43a939b56b006d04ba08e92ebda886fdd787"
+    },
+    {
+      "path": "icons/icon-dungeon-arrow-slit.png",
+      "bytes": 2795,
+      "sha256": "133a549c5a12ce2e5cbb0e0d438146b756ace7486a224eddcf6bb65be863119a"
+    },
+    {
+      "path": "icons/icon-dungeon-arrow-slit.svg",
+      "bytes": 1421,
+      "sha256": "f8bdcd0a8d6d24e2ca995f65567771381b40cd24c891ff1702d4696ed7bbc254"
+    },
+    {
+      "path": "icons/icon-dungeon-cresset.png",
+      "bytes": 7597,
+      "sha256": "89d60471c8999df734e285a9f416900112739512610b48aff8089f5359eeb407"
+    },
+    {
+      "path": "icons/icon-dungeon-cresset.svg",
+      "bytes": 2381,
+      "sha256": "000405f705286a7d7f6cd0ee1fae2a8506a4e9dcc0d649f2936fbf814e439df1"
+    },
+    {
+      "path": "icons/icon-dungeon-grappling-hook.png",
+      "bytes": 15067,
+      "sha256": "988446a32cec2409ec8eb31ac9e31d094043560849c1457707882c9bda0def24"
+    },
+    {
+      "path": "icons/icon-dungeon-grappling-hook.svg",
+      "bytes": 2064,
+      "sha256": "e31cfd557fdc7d05920f840f731e39b08ce83243fe787452e654d416a2afaee0"
+    },
+    {
+      "path": "icons/icon-dungeon-key-ring.png",
+      "bytes": 10076,
+      "sha256": "115279e6dafadc0e21eb150d349e340b46ae3a79e1c1df1bc1357012a147792f"
+    },
+    {
+      "path": "icons/icon-dungeon-key-ring.svg",
+      "bytes": 3470,
+      "sha256": "32cee528b5f25c7a26c71bfc68060e7fc8954692df5d83633fa60a51e8c986f4"
+    },
+    {
+      "path": "icons/icon-dungeon-manacles.png",
+      "bytes": 10894,
+      "sha256": "87db94c6582e2faf3161cd547d01f6913890f6bf3f868e0d27fcd0c2628df21b"
+    },
+    {
+      "path": "icons/icon-dungeon-manacles.svg",
+      "bytes": 3038,
+      "sha256": "4a3a604dd0f009a8e356df55e9ece109e44e662f7d80c3bbb0d6592009fa33a5"
+    },
+    {
+      "path": "icons/icon-dungeon-murder-hole.png",
+      "bytes": 11841,
+      "sha256": "fbb2a945e5016b3a69612a38c30341b525bb41dcbf610c21cb5571f55c959964"
+    },
+    {
+      "path": "icons/icon-dungeon-murder-hole.svg",
+      "bytes": 1465,
+      "sha256": "f964328184697bf1fe7fe509721da6d46fa21e718c8eca47437b05591371e3ba"
+    },
+    {
+      "path": "icons/icon-dungeon-piton.png",
+      "bytes": 10436,
+      "sha256": "c7a6fb5fab2c4f4f7c818421101e728a76b3b9442e6ecc2585952434922dfead"
+    },
+    {
+      "path": "icons/icon-dungeon-piton.svg",
+      "bytes": 1080,
+      "sha256": "144d2e04b47d9304f723010a744ea433dc40618085cd50028c3ba873bd5d3bd2"
+    },
+    {
+      "path": "icons/icon-dungeon-portcullis.png",
+      "bytes": 3135,
+      "sha256": "17a38b614af5fb5383f72692be64c767bca3e8fadf7c7226467ed6ddafcd451d"
+    },
+    {
+      "path": "icons/icon-dungeon-portcullis.svg",
+      "bytes": 2844,
+      "sha256": "0eb1b9a309dcf8de95399305d38f56f179372a0249dd0d2cc156ffdc06d61d92"
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "bytes": 125774,
+      "sha256": "09432ecf2e458600aadbc44bc78d4e07a757fb950e894503b65d5d495589d87c"
+    }
+  ]
+}

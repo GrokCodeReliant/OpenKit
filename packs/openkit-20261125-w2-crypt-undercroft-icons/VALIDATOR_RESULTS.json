@@ -1,0 +1,386 @@
+{
+ "item_counts": {
+  "PASS": 8,
+  "FAIL": 0,
+  "denominator_items": 8
+ },
+ "atomic_checks": {
+  "per_item": 13,
+  "total": 104,
+  "global": {
+   "unique_png_hashes": true,
+   "unique_svg_hashes": true,
+   "item_count_8": true,
+   "credits_exact_line": true,
+   "manifest_lists_every_asset_and_doc_file": true,
+   "manifest_hashes_and_sizes_match": true
+  }
+ },
+ "results": [
+  {
+   "name": "icon-dungeon-cistern",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    27,
+    59,
+    228,
+    220
+   ],
+   "margin_min": 27,
+   "bbox_centre": [
+    127.5,
+    139.5
+   ],
+   "coverage": {
+    "32": 0.477,
+    "48": 0.47,
+    "64": 0.468
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "11b4187f7b6cb74f53cc34004e2f5746170bcddf9b60bbb361766cbe079bc4ca",
+   "sha256_png": "1fb0f2fb2098c6ebfe20a1ad07621550c25c94ec6732e5d5e4ee9810649cc6c6"
+  },
+  {
+   "name": "icon-dungeon-memorial-slab",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    19,
+    35,
+    236,
+    204
+   ],
+   "margin_min": 19,
+   "bbox_centre": [
+    127.5,
+    119.5
+   ],
+   "coverage": {
+    "32": 0.512,
+    "48": 0.509,
+    "64": 0.503
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "16196fe4ffacb8a3ba2d790e07864b4b0424c1c721d5db7c9bbe81dd239d9c60",
+   "sha256_png": "83a20d558f75dffe4053682b99b6a75471c14f788642e2b0bb7b356025154682"
+  },
+  {
+   "name": "icon-dungeon-ossuary-cist",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    23,
+    71,
+    232,
+    219
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    127.5,
+    145.0
+   ],
+   "coverage": {
+    "32": 0.424,
+    "48": 0.442,
+    "64": 0.448
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "08be965577aeef4401371aa19dba1167be7d685d42b5c8022be9cc1d6770d9c5",
+   "sha256_png": "b8f0d8e532ecc519599e01eb517a27cd9a7c7c78022b9c0dbe0df285b5dbd7cc"
+  },
+  {
+   "name": "icon-dungeon-secret-door",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    51,
+    31,
+    204,
+    224
+   ],
+   "margin_min": 31,
+   "bbox_centre": [
+    127.5,
+    127.5
+   ],
+   "coverage": {
+    "32": 0.469,
+    "48": 0.469,
+    "64": 0.484
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "1dfdf8cefc4b341760181e50cf1718f5a56c06f5cfb462ada7885ba867bc146f",
+   "sha256_png": "fd48106aa09f5e02c3d640ff595e0f4fc1d5f3109ac6a892cd96ebf4faa33184"
+  },
+  {
+   "name": "icon-dungeon-sluice",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    31,
+    31,
+    224,
+    228
+   ],
+   "margin_min": 27,
+   "bbox_centre": [
+    127.5,
+    129.5
+   ],
+   "coverage": {
+    "32": 0.549,
+    "48": 0.549,
+    "64": 0.574
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "22caa726bbe05c6a219c47e7b80ac641fe96f29b9c85208dd1c904d46e627e0e",
+   "sha256_png": "e8d43cad167e5c8527248a03233fd51c234711d7876b4932115ef570b3cb84d4"
+  },
+  {
+   "name": "icon-dungeon-spiral-stair",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    60,
+    19,
+    195,
+    236
+   ],
+   "margin_min": 19,
+   "bbox_centre": [
+    127.5,
+    127.5
+   ],
+   "coverage": {
+    "32": 0.342,
+    "48": 0.336,
+    "64": 0.329
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "21814b8fcac4c898f0628ffc173acd1f987b00cabe2d89da68c203fb652f11f2",
+   "sha256_png": "fbae60454b5bb6500d444cbb068493449a1fd2b4ce251f9f5da4fed14ae9212a"
+  },
+  {
+   "name": "icon-dungeon-urn",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    55,
+    31,
+    200,
+    232
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    127.5,
+    131.5
+   ],
+   "coverage": {
+    "32": 0.35,
+    "48": 0.352,
+    "64": 0.351
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "38e649ae1911aaa53a9fc1c898c403b0bb6e7d3badc5f9b94e6adb1d0f8bfdbd",
+   "sha256_png": "086ba2f861674f929dc5e3ec7cf60be07f0f98ae7c2d111a6f6e1d2f40a2a03e"
+  },
+  {
+   "name": "icon-dungeon-wall-fountain",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    43,
+    23,
+    212,
+    220
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    127.5,
+    121.5
+   ],
+   "coverage": {
+    "32": 0.529,
+    "48": 0.518,
+    "64": 0.534
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "267f9c8dd4f9aca47749325844cefda154c173919ee4a3fa432c08fd492865a5",
+   "sha256_png": "c6459b42426d065cecfead0b4025580916bb2ecf72916c1b40d1fb9379525e52"
+  }
+ ],
+ "manifest_sha256": "a9abfad30192b95088666cf427e748d8e24915c2b308be93afabeaa6c3cabbc9"
+}

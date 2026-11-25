@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-wall-fountain">
+  <!-- Open Kit CC0 original geometry: wall fountain with a spout and projecting basin. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-wall-fountain</title>
+  <path d="M48 28 H208 V200 H48 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M60 40 H196 V188 H60 Z" fill="#c4bfb6"/>
+  <path d="M60 88 H196 M60 140 H196" fill="none" stroke="#6a6560" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M108 72 H148 V120 H108 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M116 80 H140 V112 H116 Z" fill="#8a8480"/>
+  <path d="M118 100 H138 V128 H118 Z" fill="#2a3a48" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M112 120 H144 V136 H112 Z" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M64 148 H192 V216 H64 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M76 160 H180 V204 H76 Z" fill="#c4bfb6"/>
+  <ellipse cx="128" cy="176" rx="44" ry="16" fill="#2a3a48" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="128" cy="172" rx="24" ry="8" fill="#3a5060" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+</svg>

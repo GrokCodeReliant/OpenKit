@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-cloister-alms-box">
+  <!-- Open Kit CC0 original geometry: plain strapped alms box with a coin slot, on a short post. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-cloister-alms-box</title>
+  <path d="M80 196 H176 V228 H80 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M176 196 L196 184 L196 216 L176 228 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M80 196 L100 184 L196 184 L176 196 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M96 190 L114 184 L180 184 L166 190 Z" fill="#c4a07a"/>
+  <path d="M112 148 H148 V196 H112 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M148 148 L160 140 L160 188 L148 196 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M118 156 H134 V188 H118 Z" fill="#c4a07a"/>
+  <path d="M72 80 H176 V148 H72 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M176 80 L198 66 L198 134 L176 148 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M82 90 H166 V140 H82 Z" fill="#c4a07a"/>
+  <path d="M72 80 L94 62 L198 62 L176 80 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M86 74 L106 66 L184 66 L168 74 Z" fill="#c4a07a"/>
+  <path d="M104 54 H160 V74 H104 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M160 54 L172 46 L172 66 L160 74 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M114 62 H150 V68 H114 Z" fill="#1c161e"/>
+  <path d="M72 108 H176 V126 H72 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M176 108 L198 94 L198 112 L176 126 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M116 118 H140 V142 H116 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="128" cy="136" r="6" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+</svg>

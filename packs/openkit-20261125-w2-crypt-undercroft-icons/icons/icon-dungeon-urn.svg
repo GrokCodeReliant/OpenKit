@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-urn">
+  <!-- Open Kit CC0 original geometry: lidded burial urn on a short plinth. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-urn</title>
+  <path d="M72 188 H184 V228 H72 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M84 196 H172 V220 H84 Z" fill="#c4bfb6"/>
+  <path d="M80 92 C80 48 176 48 176 92 L196 188 H60 Z" fill="#8a6a50" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M96 92 C96 64 160 64 160 92 L176 176 H80 Z" fill="#c4a07a"/>
+  <path d="M84 92 H172 V112 H84 Z" fill="#8a6a50" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M88 60 H168 L176 96 H80 Z" fill="#8a6a50" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M100 68 H156 L160 88 H96 Z" fill="#c4a07a"/>
+  <circle cx="128" cy="52" r="16" fill="#8a6a50" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <circle cx="128" cy="52" r="6" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+</svg>

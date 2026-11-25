@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-cloister-grille">
+  <!-- Open Kit CC0 original geometry: iron cloister gate filling a stone arch. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-cloister-grille</title>
+  <g transform="translate(128,128) scale(0.92) translate(-128,-128) translate(0,2)">
+  <path d="M84 128 H172 V140 H84 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M84 168 H172 V180 H84 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M84 208 H172 V220 H84 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M88.5 112.0 H99.5 V220 H88.5 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M91.0 120.0 H96.0 V212 H91.0 Z" fill="#8a9098"/>
+  <path d="M106.5 112.2 H117.5 V220 H106.5 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M109.0 120.2 H114.0 V212 H109.0 Z" fill="#8a9098"/>
+  <path d="M122.5 70.8 H133.5 V220 H122.5 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M125.0 78.8 H130.0 V212 H125.0 Z" fill="#8a9098"/>
+  <path d="M138.5 112.2 H149.5 V220 H138.5 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M141.0 120.2 H146.0 V212 H141.0 Z" fill="#8a9098"/>
+  <path d="M156.5 112.0 H167.5 V220 H156.5 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M159.0 120.0 H164.0 V212 H159.0 Z" fill="#8a9098"/>
+  <path d="M48 44 H82 V224 H48 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M54 56 H74 V214 H54 Z" fill="#c4bfb6"/>
+  <path d="M174 44 H208 V224 H174 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M182 56 H202 V214 H182 Z" fill="#8a8480"/>
+  <path d="M82.0 112.0 L82.8 99.7 L85.1 87.5 L89.0 75.8 L94.3 64.6 L100.9 54.2 L108.9 44.8 L117.9 36.4 L128.0 29.2 L138.1 36.4 L147.1 44.8 L155.1 54.2 L161.7 64.6 L167.0 75.8 L170.9 87.5 L173.2 99.7 L174.0 112.0 L152.0 112.0 L151.4 102.5 L149.6 93.1 L146.6 84.0 L142.5 75.3 L137.3 67.3 L131.2 59.9 L124.2 53.4 L139.6 47.9 L131.8 53.4 L124.8 59.9 L118.7 67.3 L113.5 75.3 L109.4 84.0 L106.4 93.1 L104.6 102.5 L104.0 112.0 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-siege-stone-shot">
+  <!-- Open Kit CC0 original geometry: cluster of siege stone shot. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-siege-stone-shot</title>
+  <circle cx="166" cy="96" r="36" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="156" cy="86" rx="8" ry="6" fill="#c4bfb6" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="184" cy="152" r="44" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="172" cy="140" rx="10" ry="7" fill="#c4bfb6" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="96" cy="140" r="56" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="80" cy="124" rx="12" ry="9" fill="#c4bfb6" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+</svg>

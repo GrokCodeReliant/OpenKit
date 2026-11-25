@@ -1,0 +1,218 @@
+{
+  "pack": "openkit-20261125-w3-siege-way-mark-icons",
+  "family": "siege-and-way-mark-icons",
+  "license": "CC0-1.0",
+  "export_resolution_px": 256,
+  "alignment_convention": "inventory icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; INVENTORY.md; HONEST_LOOK.md; MANIFEST.json; SHA256SUMS and VALIDATOR_RESULTS.json sit beside the manifest and are not listed in files[]",
+  "items": [
+    {
+      "id": "icon-siege-battering-ram",
+      "kind": "icon",
+      "function": "heavy timber ram with a blunt dark iron cap, on two A-frame trestles",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-siege-battering-ram.svg",
+      "png": "icons/icon-siege-battering-ram.png",
+      "sha256_svg": "71ebbd742266554b749d82740f6a5fc87554636312f3226c7231fd231ecb09a0",
+      "sha256_png": "4f0480afb9d7129efba33e4683a1e556f347d66f5aedd443ab0e535e73e27ae2",
+      "bytes_svg": 2556,
+      "bytes_png": 6364
+    },
+    {
+      "id": "icon-siege-ballista",
+      "kind": "icon",
+      "function": "stand-mounted ballista with bow arms, string, and a bolt",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-siege-ballista.svg",
+      "png": "icons/icon-siege-ballista.png",
+      "sha256_svg": "819296266f87ad0363b3a5ee25039f121dd0b3b5e0700b74641c35c23281bcea",
+      "sha256_png": "fd08e3630a30b23e932c03e1e719a6d9f91064d3df876910bb28d15b5b66cbf1",
+      "bytes_svg": 2091,
+      "bytes_png": 10297
+    },
+    {
+      "id": "icon-siege-pavise",
+      "kind": "icon",
+      "function": "tall standing shield with a rear prop and a plain face",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-siege-pavise.svg",
+      "png": "icons/icon-siege-pavise.png",
+      "sha256_svg": "eb4cb6f6d7f025af141b337b3f9875694f7a04abbcca00a7f735170d3b7b13f0",
+      "sha256_png": "cd31a1753db0360fd418310da697dd79449c725c864d67ffd6a91787e234acf5",
+      "bytes_svg": 1124,
+      "bytes_png": 3684
+    },
+    {
+      "id": "icon-siege-mantlet",
+      "kind": "icon",
+      "function": "wide wheeled screen with a viewing slit and a plain face",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-siege-mantlet.svg",
+      "png": "icons/icon-siege-mantlet.png",
+      "sha256_svg": "1050857354c5350da4c143365a2381800c323adc440deca9777f5cb529ea5052",
+      "sha256_png": "0efb6d6c9ddb012a07b8ede15f56a2c41077fd19ab89897f12aecef7931dba89",
+      "bytes_svg": 2060,
+      "bytes_png": 5018
+    },
+    {
+      "id": "icon-siege-stone-shot",
+      "kind": "icon",
+      "function": "cluster of three siege stone balls",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-siege-stone-shot.svg",
+      "png": "icons/icon-siege-stone-shot.png",
+      "sha256_svg": "04c440acccaca176607fb32ed5456a2e9c8a4fc2ab028f15a65a290164c6b437",
+      "sha256_png": "9092c5bc9fa16a3a5a5051241b0b38cdd746cb0d900dec88a13c8dca040d41ed",
+      "bytes_svg": 1230,
+      "bytes_png": 10383
+    },
+    {
+      "id": "icon-siege-bolt-rack",
+      "kind": "icon",
+      "function": "low rack holding four heavy ballista bolts",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-siege-bolt-rack.svg",
+      "png": "icons/icon-siege-bolt-rack.png",
+      "sha256_svg": "778791ebce8c36d45bdf8b006e6ca552bad7b96ab474b21d1933fa53d82f8666",
+      "sha256_png": "90c1cac044a7b09ce8511582aca5c353880232c620650de41cbf25f7d93a1d8b",
+      "bytes_svg": 2548,
+      "bytes_png": 7930
+    },
+    {
+      "id": "icon-sundial",
+      "kind": "icon",
+      "function": "horizontal sundial on a short plinth, with a right-triangle gnomon blade",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-sundial.svg",
+      "png": "icons/icon-sundial.png",
+      "sha256_svg": "47ac92611d1d53364b5ca838a5ee0ff5333e1316eb2d9a597f33f4c13943873b",
+      "sha256_png": "835826620525398a26d10603ab27b17632297d6e23bbb3edc0d9ebbb8563dc8e",
+      "bytes_svg": 2500,
+      "bytes_png": 11469
+    },
+    {
+      "id": "icon-waystone",
+      "kind": "icon",
+      "function": "rough-hewn standing marker with an incised ring",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-waystone.svg",
+      "png": "icons/icon-waystone.png",
+      "sha256_svg": "31367ded47cfe8559455a720fc821654c4ed6259115d9d50580516a8470ed2d5",
+      "sha256_png": "c08ec28183e6b9cd4c6bc93631f8be3055c2e17e6404d8c3d2393948b520519d",
+      "bytes_svg": 957,
+      "bytes_png": 9286
+    }
+  ],
+  "files": [
+    {
+      "path": "CREDITS.md",
+      "bytes": 78,
+      "sha256": "b086239517fd48f5fcaa2302643f8768a0d636f5bc89cc18e5d7b12416911d5e"
+    },
+    {
+      "path": "HONEST_LOOK.md",
+      "bytes": 1900,
+      "sha256": "c6da70d6f8f9e14d2feb2253c664bd223fe660dcda7407fff9ec4eec8b740f97"
+    },
+    {
+      "path": "INVENTORY.md",
+      "bytes": 1169,
+      "sha256": "a8909a8c29203a83a409da1a72133874bdd3412eab2fc4f6bb4c5ffaa7c30a5c"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 7048,
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2873,
+      "sha256": "4a293add9c91ec87ef155d82d9351ef4644d73604b00e2931de55719cc50dee0"
+    },
+    {
+      "path": "icons/icon-siege-ballista.png",
+      "bytes": 10297,
+      "sha256": "fd08e3630a30b23e932c03e1e719a6d9f91064d3df876910bb28d15b5b66cbf1"
+    },
+    {
+      "path": "icons/icon-siege-ballista.svg",
+      "bytes": 2091,
+      "sha256": "819296266f87ad0363b3a5ee25039f121dd0b3b5e0700b74641c35c23281bcea"
+    },
+    {
+      "path": "icons/icon-siege-battering-ram.png",
+      "bytes": 6364,
+      "sha256": "4f0480afb9d7129efba33e4683a1e556f347d66f5aedd443ab0e535e73e27ae2"
+    },
+    {
+      "path": "icons/icon-siege-battering-ram.svg",
+      "bytes": 2556,
+      "sha256": "71ebbd742266554b749d82740f6a5fc87554636312f3226c7231fd231ecb09a0"
+    },
+    {
+      "path": "icons/icon-siege-bolt-rack.png",
+      "bytes": 7930,
+      "sha256": "90c1cac044a7b09ce8511582aca5c353880232c620650de41cbf25f7d93a1d8b"
+    },
+    {
+      "path": "icons/icon-siege-bolt-rack.svg",
+      "bytes": 2548,
+      "sha256": "778791ebce8c36d45bdf8b006e6ca552bad7b96ab474b21d1933fa53d82f8666"
+    },
+    {
+      "path": "icons/icon-siege-mantlet.png",
+      "bytes": 5018,
+      "sha256": "0efb6d6c9ddb012a07b8ede15f56a2c41077fd19ab89897f12aecef7931dba89"
+    },
+    {
+      "path": "icons/icon-siege-mantlet.svg",
+      "bytes": 2060,
+      "sha256": "1050857354c5350da4c143365a2381800c323adc440deca9777f5cb529ea5052"
+    },
+    {
+      "path": "icons/icon-siege-pavise.png",
+      "bytes": 3684,
+      "sha256": "cd31a1753db0360fd418310da697dd79449c725c864d67ffd6a91787e234acf5"
+    },
+    {
+      "path": "icons/icon-siege-pavise.svg",
+      "bytes": 1124,
+      "sha256": "eb4cb6f6d7f025af141b337b3f9875694f7a04abbcca00a7f735170d3b7b13f0"
+    },
+    {
+      "path": "icons/icon-siege-stone-shot.png",
+      "bytes": 10383,
+      "sha256": "9092c5bc9fa16a3a5a5051241b0b38cdd746cb0d900dec88a13c8dca040d41ed"
+    },
+    {
+      "path": "icons/icon-siege-stone-shot.svg",
+      "bytes": 1230,
+      "sha256": "04c440acccaca176607fb32ed5456a2e9c8a4fc2ab028f15a65a290164c6b437"
+    },
+    {
+      "path": "icons/icon-sundial.png",
+      "bytes": 11469,
+      "sha256": "835826620525398a26d10603ab27b17632297d6e23bbb3edc0d9ebbb8563dc8e"
+    },
+    {
+      "path": "icons/icon-sundial.svg",
+      "bytes": 2500,
+      "sha256": "47ac92611d1d53364b5ca838a5ee0ff5333e1316eb2d9a597f33f4c13943873b"
+    },
+    {
+      "path": "icons/icon-waystone.png",
+      "bytes": 9286,
+      "sha256": "c08ec28183e6b9cd4c6bc93631f8be3055c2e17e6404d8c3d2393948b520519d"
+    },
+    {
+      "path": "icons/icon-waystone.svg",
+      "bytes": 957,
+      "sha256": "31367ded47cfe8559455a720fc821654c4ed6259115d9d50580516a8470ed2d5"
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "bytes": 128782,
+      "sha256": "ba5b2616e1379b65dd9a9e8563f7e63eb58b2e6dc8b53265dd557f3c98cb05b6"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-stable-hay-hatch">
+  <!-- Open Kit CC0 original geometry: small square hay hatch high on a stone wall, with hay spilling out and a shutter swung open to the side. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-stable-hay-hatch</title>
+  <g transform="translate(128,128) scale(0.9) translate(-128,-128)">
+  <path d="M158 64 L190 48 L190 186 L158 200 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M66 64 H158 V200 H66 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M74 72 H150 V86 H74 Z" fill="#c4bfb6"/>
+  <path d="M74 168 H150" fill="none" stroke="#6a6560" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M74 190 H150" fill="none" stroke="#6a6560" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M80 78 H132 V142 H80 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M132 78 L142 70 L142 134 L132 142 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M80 78 L90 70 L142 70 L132 78 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M90 88 H122 V130 H90 Z" fill="#4a5058"/>
+  <path d="M88 110 Q74 130 78 158 Q96 176 124 168 Q146 150 140 124 Q132 100 110 100 Q96 102 88 110 Z" fill="#c4a05a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M80 148 Q78 168 96 170 Q108 160 100 146 Z" fill="#c4a05a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M100 112 Q92 136 106 154 Q124 160 132 138 Q128 114 110 108 Z" fill="#d8b46a"/>
+  <path d="M118 108 Q130 118 138 136 Q134 112 120 104 Z" fill="#d8b46a"/>
+  <path d="M142 74 H192 V140 H142 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M192 74 L206 64 L206 130 L192 140 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M142 74 L156 64 L206 64 L192 74 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M150 94 H184" fill="none" stroke="#5a4438" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M150 114 H184" fill="none" stroke="#5a4438" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M126 84 H156 V98 H126 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M126 112 H156 V126 H126 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  </g>
+</svg>

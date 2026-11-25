@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-stable-saddle-rack">
+  <!-- Open Kit CC0 original geometry: timber saddle stand with a rounded ridge rest on a sturdy post, empty. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-stable-saddle-rack</title>
+  <g transform="translate(128,128) scale(0.9) translate(-128,-128) translate(0,-12)">
+  <path d="M108 118 H148 V208 H108 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M148 118 L166 104 L166 194 L148 208 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M116 130 H140 V198 H116 Z" fill="#c4a07a"/>
+  <path d="M82 208 H174 V230 H82 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M174 208 L192 196 L192 218 L174 230 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M82 208 L100 196 L192 196 L174 208 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M70 132 Q128 40 214 118 L200 142 Q128 72 84 152 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M46 148 Q128 52 200 136 L186 164 Q128 88 62 172 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M80 128 Q128 68 176 122 Q128 88 80 128 Z" fill="#c4a07a"/>
+  </g>
+</svg>

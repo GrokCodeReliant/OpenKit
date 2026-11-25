@@ -1,0 +1,385 @@
+{
+ "item_counts": {
+  "PASS": 8,
+  "FAIL": 0,
+  "denominator_items": 8
+ },
+ "atomic_checks": {
+  "per_item": 13,
+  "total": 104,
+  "global": {
+   "unique_png_hashes": true,
+   "unique_svg_hashes": true,
+   "item_count_8": true,
+   "credits_exact_line": true,
+   "manifest_lists_every_asset_and_doc_file": true,
+   "manifest_hashes_and_sizes_match": true
+  }
+ },
+ "results": [
+  {
+   "name": "icon-stable-blanket-rail",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    40,
+    18,
+    209,
+    227
+   ],
+   "margin_min": 18,
+   "bbox_centre": [
+    124.5,
+    122.5
+   ],
+   "coverage": {
+    "32": 0.428,
+    "48": 0.418,
+    "64": 0.399
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "f3a3a6120edfc71e893d5ffa8951b419a8234b9ac1455cc871ec306c6f12e51d",
+   "sha256_png": "b450ca1435b73fdb94fe860102644d391f84f3c82f18195a84fb9eb4b446b3f5"
+  },
+  {
+   "name": "icon-stable-door",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    63,
+    30,
+    223,
+    222
+   ],
+   "margin_min": 30,
+   "bbox_centre": [
+    143.0,
+    126.0
+   ],
+   "coverage": {
+    "32": 0.4,
+    "48": 0.402,
+    "64": 0.404
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "0d02961cc191c098220734eafffe962b78c9a68d5c2ff91622b54e450ccfeb6b",
+   "sha256_png": "9b24b6c0bb89485e920e9ab147b2dc35bb12cb35b8d3da7f9396e8f0b8208098"
+  },
+  {
+   "name": "icon-stable-hay-hatch",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    67,
+    51,
+    202,
+    197
+   ],
+   "margin_min": 51,
+   "bbox_centre": [
+    134.5,
+    124.0
+   ],
+   "coverage": {
+    "32": 0.282,
+    "48": 0.272,
+    "64": 0.266
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "6afa07f5177edf277cac20733324d33ca710c9df2a8f9b6de056d58599eb9b20",
+   "sha256_png": "1f9dc6aa09cabdfd33cbec353ad68e39a8fcbee78f4e7e9e075ae08f75cfec8a"
+  },
+  {
+   "name": "icon-stable-manger",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    38,
+    47,
+    209,
+    220
+   ],
+   "margin_min": 35,
+   "bbox_centre": [
+    123.5,
+    133.5
+   ],
+   "coverage": {
+    "32": 0.318,
+    "48": 0.313,
+    "64": 0.308
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "2be208db4247f482f2dd8f10cc7cb2f5bff01532fa3346ac96a89ad43c8bab49",
+   "sha256_png": "133b027dac86f19f5a61f3293e9bae9bc1119a4d7dd39222d666f4d3d19900df"
+  },
+  {
+   "name": "icon-stable-peg-rail",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    29,
+    87,
+    220,
+    169
+   ],
+   "margin_min": 29,
+   "bbox_centre": [
+    124.5,
+    128.0
+   ],
+   "coverage": {
+    "32": 0.188,
+    "48": 0.188,
+    "64": 0.177
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "2f317650145d88192db8b79f9df2f3ebebde23cdef36c7edb4e7e964935958c3",
+   "sha256_png": "0c1250342eee6554f6d334e59bd068405ac8699a7f1efd7386a54f6abea441f6"
+  },
+  {
+   "name": "icon-stable-saddle-rack",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    49,
+    71,
+    209,
+    213
+   ],
+   "margin_min": 42,
+   "bbox_centre": [
+    129.0,
+    142.0
+   ],
+   "coverage": {
+    "32": 0.239,
+    "48": 0.23,
+    "64": 0.233
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "82a9933289134eb6228142f7cbb735b470de100117a93be738ef785d63ba922c",
+   "sha256_png": "26573ba5a7bba00d6bc20f833f6dc9ff30a1fb093b004517aa7f173729532204"
+  },
+  {
+   "name": "icon-stable-stall",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    33,
+    26,
+    215,
+    227
+   ],
+   "margin_min": 26,
+   "bbox_centre": [
+    124.0,
+    126.5
+   ],
+   "coverage": {
+    "32": 0.404,
+    "48": 0.381,
+    "64": 0.379
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "7975edb3560a142634b854fdd5b32b89928e3d320a550af31e10b9c769f37a0d",
+   "sha256_png": "aa177ca23975df6278f271586a19e7eb57779a3505e3251d7ad29c284673e06d"
+  },
+  {
+   "name": "icon-stable-watering-tub",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    42,
+    73,
+    213,
+    194
+   ],
+   "margin_min": 42,
+   "bbox_centre": [
+    127.5,
+    133.5
+   ],
+   "coverage": {
+    "32": 0.295,
+    "48": 0.296,
+    "64": 0.292
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "13bf91629d4db03f6c53b364c4d7d949f2dd341ef49a57e8b18bbe8727b09297",
+   "sha256_png": "ff7c3541c29a213227295eacfa417fd6a29c452205e659f1794927e8444fa47e"
+  }
+ ],
+ "manifest_sha256": "5c60cb87c1be18a4236af49d1a3775bf99667daf75b9298c063d8b55938836fd"
+}

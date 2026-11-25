@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-siege-bolt-rack">
+  <!-- Open Kit CC0 original geometry: low rack of heavy ballista bolts. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-siege-bolt-rack</title>
+  <path d="M44 72 H68 V196 H44 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M188 72 H212 V196 H188 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M50 80 H62 V188 H50 Z" fill="#c4a07a"/>
+  <path d="M194 80 H206 V188 H194 Z" fill="#c4a07a"/>
+  <path d="M40 92 H216 V112 H40 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M40 156 H216 V176 H40 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M52 98 H204 V106 H52 Z" fill="#c4a07a"/>
+  <path d="M52 162 H204 V170 H52 Z" fill="#c4a07a"/>
+  <path d="M56 76 L176 70 L176 94 L56 100 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M168 66 L228 82 L168 98 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M64 82 L168 76 L168 86 L64 92 Z" fill="#c4bfb6"/>
+  <path d="M56 108 L176 108 L176 132 L56 132 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M168 104 L230 120 L168 136 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M64 114 L168 114 L168 122 L64 122 Z" fill="#c4bfb6"/>
+  <path d="M56 140 L176 146 L176 170 L56 164 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M168 142 L228 160 L168 174 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M64 146 L168 152 L168 160 L64 154 Z" fill="#c4bfb6"/>
+  <path d="M56 172 L176 184 L176 208 L56 196 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M168 180 L226 200 L168 212 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M64 178 L168 190 L168 198 L64 186 Z" fill="#c4bfb6"/>
+</svg>

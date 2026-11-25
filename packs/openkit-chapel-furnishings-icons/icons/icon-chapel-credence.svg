@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-chapel-credence">
+  <!-- Open Kit CC0 original geometry: small timber credence table with a lower shelf and two plain cruets. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-chapel-credence</title>
+  <g transform="translate(128,128) scale(0.92) translate(-128,-128) translate(0,-2)">
+  <path d="M56 96 H80 V220 H56 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M80 96 L90 88 L90 212 L80 220 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M168 96 H192 V220 H168 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M192 96 L210 80 L210 204 L192 220 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M60 160 H196 V184 H60 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M196 160 L216 146 L216 170 L196 184 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M60 160 L80 146 L216 146 L196 160 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M40 88 H200 V116 H40 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M200 88 L228 68 L228 96 L200 116 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M40 88 L68 68 L228 68 L200 88 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M56 80 L80 72 L208 72 L188 80 Z" fill="#c4a07a"/>
+  <path d="M84 48 H116 V88 H84 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M116 48 L126 42 L126 82 L116 88 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M90 54 H110 V80 H90 Z" fill="#c4a05a"/>
+  <path d="M88 36 H112 V52 H88 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="100" cy="34" r="6" fill="#c4a05a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M148 52 H176 V88 H148 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M176 52 L186 46 L186 82 L176 88 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M154 58 H170 V80 H154 Z" fill="#c4a05a"/>
+  <path d="M152 40 H172 V54 H152 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="162" cy="38" r="5" fill="#c4a05a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-piton">
+  <!-- Open Kit CC0 original geometry: climbing piton with a spiked blade and an eye. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-piton</title>
+  <circle cx="82" cy="78" r="22" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="9"/>
+  <circle cx="82" cy="78" r="10" fill="none" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M92 64 L116 88 L150 108 L214 186 L198 200 L140 124 L108 106 L70 86 Z" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="9"/>
+  <path d="M100 78 L120 94 L152 114 L204 186 L196 192 L146 122 L116 102 L96 86 Z" fill="#d8dde2"/>
+  <path d="M108 90 L190 184" fill="none" stroke="#5a6068" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

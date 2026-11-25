@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-siege-mantlet">
+  <!-- Open Kit CC0 original geometry: wheeled mantlet with a viewing slit. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-siege-mantlet</title>
+  <path d="M72 200 L184 200" fill="none" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="72" cy="200" r="18" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <circle cx="72" cy="200" r="7" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="184" cy="200" r="18" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <circle cx="184" cy="200" r="7" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <path d="M88 160 L72 200 L88 200 L100 160 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M168 160 L184 200 L168 200 L156 160 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M32 48 H208 V160 H32 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M48 64 H196 V144 H48 Z" fill="#c4a07a"/>
+  <path d="M208 48 L218 58 L218 170 L208 160 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M48 90 H196" fill="none" stroke="#5a4438" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M48 118 H196" fill="none" stroke="#5a4438" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M96 70 H160 V84 H96 Z" fill="#1c161e" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-cloister-capital">
+  <!-- Open Kit CC0 original geometry: plain stone cloister capital on a short shaft stub. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-cloister-capital</title>
+  <path d="M100 148 H156 V220 H100 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M156 148 L172 136 L172 208 L156 220 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M108 156 H140 V208 H108 Z" fill="#c4bfb6"/>
+  <path d="M92 136 H164 V156 H92 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M164 136 L180 124 L180 144 L164 156 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="128" cy="112" rx="62" ry="28" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M68 100 H188 L188 124 L128 140 L68 124 Z" fill="#8a8480"/>
+  <ellipse cx="120" cy="104" rx="28" ry="12" fill="#c4bfb6" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <path d="M60 64 H180 V92 H60 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M180 64 L208 48 L208 76 L180 92 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M60 64 L88 48 L208 48 L180 64 Z" fill="#c4bfb6" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M76 58 L100 52 L188 52 L168 58 Z" fill="#c4bfb6"/>
+</svg>

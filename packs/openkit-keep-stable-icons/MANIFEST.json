@@ -1,0 +1,218 @@
+{
+  "pack": "openkit-keep-stable-icons",
+  "family": "keep-stable-icons",
+  "license": "CC0-1.0",
+  "export_resolution_px": 256,
+  "alignment_convention": "inventory icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; INVENTORY.md; HONEST_LOOK.md; MANIFEST.json; SHA256SUMS and VALIDATOR_RESULTS.json sit beside the manifest and are not listed in files[]",
+  "items": [
+    {
+      "id": "icon-stable-stall",
+      "kind": "icon",
+      "function": "timber stall front with a low slatted breast between two posts and an open bay above",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-stable-stall.svg",
+      "png": "icons/icon-stable-stall.png",
+      "sha256_svg": "7975edb3560a142634b854fdd5b32b89928e3d320a550af31e10b9c769f37a0d",
+      "bytes_svg": 2487,
+      "sha256_png": "aa177ca23975df6278f271586a19e7eb57779a3505e3251d7ad29c284673e06d",
+      "bytes_png": 3763
+    },
+    {
+      "id": "icon-stable-door",
+      "kind": "icon",
+      "function": "timber split stable door with the upper leaf swung open and the lower leaf closed, strap hinges, and a thin stone surround",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-stable-door.svg",
+      "png": "icons/icon-stable-door.png",
+      "sha256_svg": "0d02961cc191c098220734eafffe962b78c9a68d5c2ff91622b54e450ccfeb6b",
+      "bytes_svg": 4416,
+      "sha256_png": "9b24b6c0bb89485e920e9ab147b2dc35bb12cb35b8d3da7f9396e8f0b8208098",
+      "bytes_png": 5349
+    },
+    {
+      "id": "icon-stable-hay-hatch",
+      "kind": "icon",
+      "function": "small square hay hatch high on a stone wall, with hay spilling out and a shutter swung open to the side",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-stable-hay-hatch.svg",
+      "png": "icons/icon-stable-hay-hatch.png",
+      "sha256_svg": "6afa07f5177edf277cac20733324d33ca710c9df2a8f9b6de056d58599eb9b20",
+      "bytes_svg": 3062,
+      "sha256_png": "1f9dc6aa09cabdfd33cbec353ad68e39a8fcbee78f4e7e9e075ae08f75cfec8a",
+      "bytes_png": 5954
+    },
+    {
+      "id": "icon-stable-manger",
+      "kind": "icon",
+      "function": "timber hay rack on legs with sloping slats and a hay tuft on top",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-stable-manger.svg",
+      "png": "icons/icon-stable-manger.png",
+      "sha256_svg": "2be208db4247f482f2dd8f10cc7cb2f5bff01532fa3346ac96a89ad43c8bab49",
+      "bytes_svg": 2430,
+      "sha256_png": "133b027dac86f19f5a61f3293e9bae9bc1119a4d7dd39222d666f4d3d19900df",
+      "bytes_png": 9701
+    },
+    {
+      "id": "icon-stable-saddle-rack",
+      "kind": "icon",
+      "function": "timber saddle stand with a rounded ridge rest on a sturdy post, empty",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-stable-saddle-rack.svg",
+      "png": "icons/icon-stable-saddle-rack.png",
+      "sha256_svg": "82a9933289134eb6228142f7cbb735b470de100117a93be738ef785d63ba922c",
+      "bytes_svg": 1711,
+      "sha256_png": "26573ba5a7bba00d6bc20f833f6dc9ff30a1fb093b004517aa7f173729532204",
+      "bytes_png": 8106
+    },
+    {
+      "id": "icon-stable-peg-rail",
+      "kind": "icon",
+      "function": "wall-mounted timber board with five pegs angled up and a rope loop on one peg",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-stable-peg-rail.svg",
+      "png": "icons/icon-stable-peg-rail.png",
+      "sha256_svg": "2f317650145d88192db8b79f9df2f3ebebde23cdef36c7edb4e7e964935958c3",
+      "bytes_svg": 2898,
+      "sha256_png": "0c1250342eee6554f6d334e59bd068405ac8699a7f1efd7386a54f6abea441f6",
+      "bytes_png": 8629
+    },
+    {
+      "id": "icon-stable-watering-tub",
+      "kind": "icon",
+      "function": "low round coopered timber tub with two iron hoops and a water disc below the rim",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-stable-watering-tub.svg",
+      "png": "icons/icon-stable-watering-tub.png",
+      "sha256_svg": "13bf91629d4db03f6c53b364c4d7d949f2dd341ef49a57e8b18bbe8727b09297",
+      "bytes_svg": 2380,
+      "sha256_png": "ff7c3541c29a213227295eacfa417fd6a29c452205e659f1794927e8444fa47e",
+      "bytes_png": 12540
+    },
+    {
+      "id": "icon-stable-blanket-rail",
+      "kind": "icon",
+      "function": "tall two-post timber blanket rail with a high bar, a lower bar, iron caps, and a plain blanket over the top bar",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-stable-blanket-rail.svg",
+      "png": "icons/icon-stable-blanket-rail.png",
+      "sha256_svg": "f3a3a6120edfc71e893d5ffa8951b419a8234b9ac1455cc871ec306c6f12e51d",
+      "bytes_svg": 3463,
+      "sha256_png": "b450ca1435b73fdb94fe860102644d391f84f3c82f18195a84fb9eb4b446b3f5",
+      "bytes_png": 5985
+    }
+  ],
+  "files": [
+    {
+      "path": "CREDITS.md",
+      "sha256": "b086239517fd48f5fcaa2302643f8768a0d636f5bc89cc18e5d7b12416911d5e",
+      "bytes": 78
+    },
+    {
+      "path": "HONEST_LOOK.md",
+      "sha256": "c808050d4ac3b265b1d247a8fc40ce2b3769c51780c3e407d28b33ef789a4e65",
+      "bytes": 2551
+    },
+    {
+      "path": "INVENTORY.md",
+      "sha256": "4dc9ef2a66fa03a3091230d5ce0f3d764dd65e3171bed16f7c88ea20ab5f61b7",
+      "bytes": 1186
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    },
+    {
+      "path": "README.md",
+      "sha256": "f509256bad16e585a3bfdea8cdb3634ebbc3c99790e1a2a1a0f7485f606066f9",
+      "bytes": 2908
+    },
+    {
+      "path": "icons/icon-stable-blanket-rail.png",
+      "sha256": "b450ca1435b73fdb94fe860102644d391f84f3c82f18195a84fb9eb4b446b3f5",
+      "bytes": 5985
+    },
+    {
+      "path": "icons/icon-stable-blanket-rail.svg",
+      "sha256": "f3a3a6120edfc71e893d5ffa8951b419a8234b9ac1455cc871ec306c6f12e51d",
+      "bytes": 3463
+    },
+    {
+      "path": "icons/icon-stable-door.png",
+      "sha256": "9b24b6c0bb89485e920e9ab147b2dc35bb12cb35b8d3da7f9396e8f0b8208098",
+      "bytes": 5349
+    },
+    {
+      "path": "icons/icon-stable-door.svg",
+      "sha256": "0d02961cc191c098220734eafffe962b78c9a68d5c2ff91622b54e450ccfeb6b",
+      "bytes": 4416
+    },
+    {
+      "path": "icons/icon-stable-hay-hatch.png",
+      "sha256": "1f9dc6aa09cabdfd33cbec353ad68e39a8fcbee78f4e7e9e075ae08f75cfec8a",
+      "bytes": 5954
+    },
+    {
+      "path": "icons/icon-stable-hay-hatch.svg",
+      "sha256": "6afa07f5177edf277cac20733324d33ca710c9df2a8f9b6de056d58599eb9b20",
+      "bytes": 3062
+    },
+    {
+      "path": "icons/icon-stable-manger.png",
+      "sha256": "133b027dac86f19f5a61f3293e9bae9bc1119a4d7dd39222d666f4d3d19900df",
+      "bytes": 9701
+    },
+    {
+      "path": "icons/icon-stable-manger.svg",
+      "sha256": "2be208db4247f482f2dd8f10cc7cb2f5bff01532fa3346ac96a89ad43c8bab49",
+      "bytes": 2430
+    },
+    {
+      "path": "icons/icon-stable-peg-rail.png",
+      "sha256": "0c1250342eee6554f6d334e59bd068405ac8699a7f1efd7386a54f6abea441f6",
+      "bytes": 8629
+    },
+    {
+      "path": "icons/icon-stable-peg-rail.svg",
+      "sha256": "2f317650145d88192db8b79f9df2f3ebebde23cdef36c7edb4e7e964935958c3",
+      "bytes": 2898
+    },
+    {
+      "path": "icons/icon-stable-saddle-rack.png",
+      "sha256": "26573ba5a7bba00d6bc20f833f6dc9ff30a1fb093b004517aa7f173729532204",
+      "bytes": 8106
+    },
+    {
+      "path": "icons/icon-stable-saddle-rack.svg",
+      "sha256": "82a9933289134eb6228142f7cbb735b470de100117a93be738ef785d63ba922c",
+      "bytes": 1711
+    },
+    {
+      "path": "icons/icon-stable-stall.png",
+      "sha256": "aa177ca23975df6278f271586a19e7eb57779a3505e3251d7ad29c284673e06d",
+      "bytes": 3763
+    },
+    {
+      "path": "icons/icon-stable-stall.svg",
+      "sha256": "7975edb3560a142634b854fdd5b32b89928e3d320a550af31e10b9c769f37a0d",
+      "bytes": 2487
+    },
+    {
+      "path": "icons/icon-stable-watering-tub.png",
+      "sha256": "ff7c3541c29a213227295eacfa417fd6a29c452205e659f1794927e8444fa47e",
+      "bytes": 12540
+    },
+    {
+      "path": "icons/icon-stable-watering-tub.svg",
+      "sha256": "13bf91629d4db03f6c53b364c4d7d949f2dd341ef49a57e8b18bbe8727b09297",
+      "bytes": 2380
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "sha256": "782c5f01fa44337e4e69aebc47b233a8df6a847e3dce715eed0784d9f4fe953e",
+      "bytes": 105377
+    }
+  ]
+}

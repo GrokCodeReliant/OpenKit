@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-chapel-sanctus-bell">
+  <!-- Open Kit CC0 original geometry: classic hand bell with a short timber handle and a rounded flared bronze cup. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-chapel-sanctus-bell</title>
+  <g transform="translate(128,128) scale(0.9) translate(-128,-128) translate(0,4)">
+  <path d="M110 28 H146 V96 H110 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M146 28 L160 18 L160 86 L146 96 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M110 28 L124 18 L160 18 L146 28 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M118 36 H138 V84 H118 Z" fill="#c4a07a"/>
+  <path d="M100 88 H156 V112 H100 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M156 88 L168 80 L168 104 L156 112 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M92 112 C92 92 108 84 128 84 C148 84 164 92 164 112 C164 148 188 178 204 200 C128 228 52 200 52 200 C68 178 92 148 92 112 Z" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="150" cy="124" rx="16" ry="28" fill="#c4a05a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <ellipse cx="128" cy="200" rx="78" ry="22" fill="#8a6a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="128" cy="198" rx="58" ry="14" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <ellipse cx="128" cy="204" rx="70" ry="12" fill="#c4a05a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <path d="M120 150 H136 V196 H120 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="128" cy="202" r="9" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  </g>
+</svg>

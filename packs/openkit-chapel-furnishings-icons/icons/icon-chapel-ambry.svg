@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-chapel-ambry">
+  <!-- Open Kit CC0 original geometry: stone wall face with a small recessed timber cupboard door. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-chapel-ambry</title>
+  <g transform="translate(128,128) scale(0.9) translate(-128,-128)">
+  <path d="M176 32 L212 12 L212 216 L176 232 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M44 32 H176 V232 H44 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M52 40 H168 V56 H52 Z" fill="#c4bfb6"/>
+  <path d="M52 70 H168" fill="none" stroke="#6a6560" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M52 206 H168" fill="none" stroke="#6a6560" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M74 88 H154 V172 H74 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M82 96 H146 V164 H82 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M146 96 L156 88 L156 156 L146 164 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M90 106 H138 V156 H90 Z" fill="#c4a07a"/>
+  <path d="M82 112 H118 V126 H82 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M82 136 H118 V150 H82 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="82" cy="119" r="5" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="82" cy="143" r="5" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M132 124 H152 V144 H132 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="142" cy="139" r="4" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  </g>
+</svg>

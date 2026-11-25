@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-stable-watering-tub">
+  <!-- Open Kit CC0 original geometry: low round coopered timber tub with two iron hoops and a water disc below the rim. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-stable-watering-tub</title>
+  <g transform="translate(128,128) scale(0.9) translate(-128,-128) translate(0,-8)">
+  <path d="M44 116 C34 148 36 178 58 204 L198 204 C220 178 222 148 212 116 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M60 140 Q54 166 70 196 L92 192 Q74 166 80 140 Z" fill="#c4a07a"/>
+  <path d="M84 122 Q76 156 88 202" fill="none" stroke="#5a4438" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M116 118 Q110 156 118 204" fill="none" stroke="#5a4438" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M148 118 Q154 156 146 204" fill="none" stroke="#5a4438" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M180 122 Q188 156 176 202" fill="none" stroke="#5a4438" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M48 152 Q128 176 208 152 L208 166 Q128 192 48 166 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M54 180 Q128 204 202 180 L202 194 Q128 218 54 194 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="128" cy="114" rx="88" ry="34" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="128" cy="114" rx="72" ry="24" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <ellipse cx="128" cy="110" rx="80" ry="26" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <ellipse cx="128" cy="122" rx="64" ry="20" fill="#3a5a68" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <ellipse cx="116" cy="116" rx="24" ry="8" fill="#6a8a92" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  </g>
+</svg>
