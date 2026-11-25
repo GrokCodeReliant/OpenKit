@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-ingredient-flour-sack">
+  <!-- Open Kit CC0 original geometry: flour sack ingredient. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-ingredient-flour-sack</title>
+  <g transform="translate(128 128) scale(0.88) translate(-128 -128)">
+
+  <!-- solid continuous cloth silhouette -->
+  <path fill="#e8e0c8" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" d="
+    M 106 78
+    C 96 64 108 46 128 44
+    C 148 46 160 64 150 78
+    C 162 88 174 104 180 122
+    C 200 136 208 168 200 200
+    C 194 222 168 238 128 242
+    C 88 238 62 222 56 200
+    C 48 168 56 136 76 122
+    C 82 104 94 88 106 78
+    Z"/>
+  <!-- rumpled mouth fold (drawn ON the cloth, not a separate lid) -->
+  <path d="M112 56 C120 50 136 50 144 56" fill="none" stroke="#1c161e" stroke-width="6" stroke-linecap="round"/>
+  <path d="M116 66 C124 62 132 62 140 66" fill="none" stroke="#c8c0a0" stroke-width="4" stroke-linecap="round"/>
+  <!-- cord cinch around gathered neck -->
+  <ellipse cx="128" cy="92" rx="30" ry="12" fill="#8a5030" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M158 92 C172 86 180 100 170 112 C162 118 154 102 158 92 Z" fill="#8a5030" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- cloth shoulder sag + body folds -->
+  <path d="M84 140 Q128 126 172 140" fill="none" stroke="#c8c0a0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M78 176 Q128 160 178 176" fill="none" stroke="#c8c0a0" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-creature-claw">
+  <!-- Open Kit CC0 original geometry: hooked creature claw. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-creature-claw</title>
+  <path d="M96 72 C164 50 224 104 206 222 C192 168 162 138 108 146 Z" fill="#6e5e5a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M124 90 C168 90 194 128 200 176" fill="none" stroke="#a8968c" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M44 92 Q54 54 96 62 Q126 72 122 112 Q118 152 84 158 Q46 156 40 126 Q36 108 44 92 Z" fill="#c0884e" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M60 92 L74 104 M58 122 L76 126 M86 80 L92 96" fill="none" stroke="#8a5a34" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

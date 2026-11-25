@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-trap-tripwire">
+  <!-- Open Kit CC0 original geometry: tripwire between two stakes. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-trap-tripwire</title>
+  <path d="M40 200 H216 V214 H40 Z" fill="#6a6054" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M52 200 L62 46 L86 50 L76 200 Z" fill="#8a5a34" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="9"/>
+  <path d="M60 190 L68 58 L78 60 L70 190 Z" fill="#c4884a"/>
+  <path d="M62 46 L74 28 L86 50 Z" fill="#6a4428" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M170 200 L180 50 L204 54 L194 200 Z" fill="#8a5a34" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="9"/>
+  <path d="M178 190 L186 62 L196 64 L188 190 Z" fill="#c4884a"/>
+  <path d="M180 50 L192 32 L204 54 Z" fill="#6a4428" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M74 118 L192 108" fill="none" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M74 118 L192 108" fill="none" stroke="#d8d0c4" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="74" cy="118" r="8" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="192" cy="108" r="8" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+</svg>

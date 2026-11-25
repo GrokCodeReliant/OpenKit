@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-poi-inn">
+  <!-- Open Kit CC0 original geometry: inn landmark: timber building with tankard sign. No fonts, scripts, or external refs. -->
+  <title>icon-poi-inn</title>
+  <rect x="36" y="108" width="120" height="96" rx="6" fill="#c4a06a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="28,116 96,52 164,116" fill="#8b3a2a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="74" y="140" width="40" height="64" rx="4" fill="#5a3a22" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="48" y="128" width="24" height="24" rx="3" fill="#7ec8e8" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="120" y="128" width="24" height="24" rx="3" fill="#7ec8e8" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- bracket -->
+  <line x1="168" y1="100" x2="168" y2="128" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <!-- tankard body -->
+  <path d="M152 132 h40 v56 q0 12 -20 12 q-20 0 -20 -12 z" fill="#d4a03a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- foam -->
+  <ellipse cx="172" cy="132" rx="22" ry="10" fill="#f5efe0" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- handle C -->
+  <path d="M192 148 q28 0 28 20 q0 20 -28 20" fill="none" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+
+</svg>

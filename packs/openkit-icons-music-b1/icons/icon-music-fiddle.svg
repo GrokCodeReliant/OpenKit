@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-music-fiddle">
+  <!-- Open Kit CC0 original geometry: music: violin-waist fiddle. No fonts, scripts, or external refs. -->
+  <title>icon-music-fiddle</title>
+  <g transform="translate(128 128) scale(0.92) translate(-128 -128)">
+  <path d="
+    M128 96
+    C156 96 172 112 168 132
+    C164 148 148 152 148 160
+    C148 168 164 172 168 188
+    C174 212 152 228 128 228
+    C104 228 82 212 88 188
+    C92 172 108 168 108 160
+    C108 152 92 148 88 132
+    C84 112 100 96 128 96
+    Z" fill="#8b3a2a" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="118" y="100" width="20" height="88" rx="3" fill="#3a2818" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="118" y="48" width="20" height="56" rx="3" fill="#966034" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="110" y="28" width="36" height="24" rx="4" fill="#966034" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="118" cy="36" r="3.5" fill="#1c161e" stroke="none"/>
+  <circle cx="128" cy="40" r="3.5" fill="#1c161e" stroke="none"/>
+  <circle cx="138" cy="36" r="3.5" fill="#1c161e" stroke="none"/>
+  <rect x="116" y="178" width="24" height="8" rx="2" fill="#e8dcc8" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M96 148 Q100 160 96 172" fill="none" stroke="#1c161e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M160 148 Q156 160 160 172" fill="none" stroke="#1c161e" stroke-width="7" stroke-linecap="round"/>
+  <line x1="200" y1="48" x2="200" y2="208" stroke="#1c161e" stroke-width="12" stroke-linecap="round"/>
+  <line x1="200" y1="48" x2="200" y2="208" stroke="#c4a06a" stroke-width="6" stroke-linecap="round"/>
+  <rect x="192" y="40" width="16" height="14" rx="3" fill="#966034" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+
+</svg>

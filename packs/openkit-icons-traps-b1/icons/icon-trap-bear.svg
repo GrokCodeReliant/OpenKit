@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-trap-bear">
+  <!-- Open Kit CC0 original geometry: open-jaw bear trap. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-trap-bear</title>
+  <path d="M48 118 H208 V138 H48 Z" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M56 118 C56 70 86 48 128 48 C170 48 200 70 200 118 L56 118 Z" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M78 86 L85 54 L92 86 ZM96 86 L103 54 L110 86 ZM114 86 L121 54 L128 86 ZM132 86 L139 54 L146 86 ZM150 86 L157 54 L164 86 Z" fill="#d8dde2" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M56 138 C56 186 86 208 128 208 C170 208 200 186 200 138 L56 138 Z" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M78 170 L85 202 L92 170 ZM96 170 L103 202 L110 170 ZM114 170 L121 202 L128 170 ZM132 170 L139 202 L146 170 ZM150 170 L157 202 L164 170 Z" fill="#d8dde2" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <circle cx="52" cy="128" r="16" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="204" cy="128" r="16" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="128" cy="128" r="22" fill="#c4a06a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="128" cy="128" r="8" fill="#8a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M70 80 Q128 64 186 80" fill="none" stroke="#c8ced4" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

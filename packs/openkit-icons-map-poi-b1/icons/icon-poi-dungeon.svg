@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-poi-dungeon">
+  <!-- Open Kit CC0 original geometry: dungeon landmark: stone arch entrance. No fonts, scripts, or external refs. -->
+  <title>icon-poi-dungeon</title>
+  <path d="M48 208 V112 Q48 48 128 48 Q208 48 208 112 V208 Z" fill="#6d7380" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M80 208 V120 Q80 80 128 80 Q176 80 176 120 V208 Z" fill="#1c161e" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="96" y="168" width="20" height="40" rx="2" fill="#8a909a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="140" y="168" width="20" height="40" rx="2" fill="#8a909a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="128" r="10" fill="#3a3040" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="40" y="200" width="176" height="20" rx="3" fill="#5a6068" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+
+</svg>

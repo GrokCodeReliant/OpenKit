@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="sprite-mailbox">
+  <!-- Open Kit CC0 original geometry: civic: roadside mailbox. Ground-plane reference (untrimmed master): pixel (128,232) top-left origin = normalized (0.5, 0.90625). Transform scales about that point. No fonts/scripts/external refs. -->
+  <title>sprite-mailbox</title>
+  <g transform="translate(128 232) scale(0.82) translate(-128 -232)">
+
+  <ellipse cx="128" cy="232" rx="36" ry="10" fill="#5a6068" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="118" y="140" width="20" height="92" rx="3" fill="#966034" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="80" y="88" width="96" height="64" rx="8" fill="#3c6aac" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="88" y="100" width="64" height="12" rx="2" fill="#2a4a7a" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="168" y="96" width="12" height="36" rx="2" fill="#c43c3c" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="168" y="88" width="28" height="12" rx="2" fill="#c43c3c" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>

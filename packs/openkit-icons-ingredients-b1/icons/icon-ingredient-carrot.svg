@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-ingredient-carrot">
+  <!-- Open Kit CC0 original geometry: raw carrot ingredient. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-ingredient-carrot</title>
+
+  <!-- greens -->
+  <path d="M118 48 L108 96 L128 88 Z" fill="#4a9a3c" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 44 L128 96 L148 88 Z" fill="#5cb04a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M148 52 L138 96 L158 100 Z" fill="#3d7a32" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- tapered root -->
+  <path d="M108 96 Q100 140 118 200 Q128 232 138 200 Q156 140 148 96 Q138 88 128 88 Q118 88 108 96 Z" fill="#e07030" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- subtle rings -->
+  <path d="M112 130 Q128 138 144 130" fill="none" stroke="#c45820" stroke-width="4" stroke-linecap="round"/>
+  <path d="M116 160 Q128 166 140 160" fill="none" stroke="#c45820" stroke-width="4" stroke-linecap="round"/>
+</svg>

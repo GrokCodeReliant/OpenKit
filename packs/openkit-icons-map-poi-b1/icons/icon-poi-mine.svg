@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-poi-mine">
+  <!-- Open Kit CC0 original geometry: mine landmark: crossed pickaxes and ore. No fonts, scripts, or external refs. -->
+  <title>icon-poi-mine</title>
+  <ellipse cx="128" cy="198" rx="50" ry="28" fill="#6a7078" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="112" cy="192" rx="14" ry="10" fill="#c45a3a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="146" cy="202" rx="12" ry="9" fill="#3a8a5a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- LEFT pick -->
+  <g transform="translate(128 158) rotate(-48) scale(0.92) translate(-128 -158)">
+    <rect x="120" y="86" width="16" height="118" rx="4" fill="#966034" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- primary long tapered point (left) + short peen (right); thin vertical profile -->
+    <path d="M46 90 L120 84 L128 92 L120 100 Z" fill="#c4cedc" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M128 92 L168 86 L178 92 L168 98 L128 92 Z" fill="#c4cedc" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <!-- RIGHT pick -->
+  <g transform="translate(128 158) rotate(48) scale(0.92) translate(-128 -158)">
+    <rect x="120" y="86" width="16" height="118" rx="4" fill="#966034" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M46 90 L120 84 L128 92 L120 100 Z" fill="#c4cedc" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M128 92 L168 86 L178 92 L168 98 L128 92 Z" fill="#c4cedc" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+
+</svg>

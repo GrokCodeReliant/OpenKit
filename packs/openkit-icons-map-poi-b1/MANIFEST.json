@@ -1,0 +1,230 @@
+{
+  "pack": "openkit-icons-map-poi-b1",
+  "family": "map-poi-icons",
+  "license": "CC0-1.0",
+  "export_resolution": [
+    256,
+    256
+  ],
+  "recommended_min_display_px": 48,
+  "count_icons": 8,
+  "format": {
+    "svg": "viewBox 0 0 256 256, no fonts/scripts/external refs",
+    "png": "RGBA 256x256 transparent"
+  },
+  "alignment_convention": "inventory / map-icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; MANIFEST.json",
+  "items": [
+    {
+      "id": "icon-poi-dungeon",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-poi-dungeon.svg",
+      "png": "icons/icon-poi-dungeon.png",
+      "sha256_svg": "c71706a840f6842fbe3f9b8990496ef0835e16b8fc41f05e132a7b2c836f14ce",
+      "sha256_png": "bf98431639f5223fa51b3c826aa6bb07b1b058086f77a320502a158dbf7df213",
+      "bytes_svg": 1237,
+      "bytes_png": 8798
+    },
+    {
+      "id": "icon-poi-forge",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-poi-forge.svg",
+      "png": "icons/icon-poi-forge.png",
+      "sha256_svg": "32a93a0d45f9e819a1dee8477baa416fcda5fccae3d0eeb19fd75ae01c6a1adc",
+      "sha256_png": "8b16b91f3a5294785a498b1242f7453700ae85c0bbfc7f654c9cf16d5b2fa9f8",
+      "bytes_svg": 1218,
+      "bytes_png": 14540
+    },
+    {
+      "id": "icon-poi-harbor",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-poi-harbor.svg",
+      "png": "icons/icon-poi-harbor.png",
+      "sha256_svg": "90aa4530c0e2e277d5c0f7ed3d9a600b753a0b104ecbe486c4daf651d92b73d4",
+      "sha256_png": "f454a86934aaccd5b20ea88df27c4eed4cf4ffb519782780538b88b235078857",
+      "bytes_svg": 1008,
+      "bytes_png": 13667
+    },
+    {
+      "id": "icon-poi-inn",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-poi-inn.svg",
+      "png": "icons/icon-poi-inn.png",
+      "sha256_svg": "74ea54e12200f111a18f1f3b89fd7108ba7eb82e71c67d7498ec40d9b5d05e43",
+      "sha256_png": "98afa84937c953a02293e5e7964f48b19ec1a3ecf40834e825cf488d9d4b1455",
+      "bytes_svg": 1735,
+      "bytes_png": 10604
+    },
+    {
+      "id": "icon-poi-keep",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-poi-keep.svg",
+      "png": "icons/icon-poi-keep.png",
+      "sha256_svg": "33c48fb73ef434b6d05495a45aa501a76920ca4215a5746ff5c368f4b40b8757",
+      "sha256_png": "daa936d2ab90ec6a47649074878fcce2c67e4dc719342c6d0eb84168de64280e",
+      "bytes_svg": 1954,
+      "bytes_png": 5458
+    },
+    {
+      "id": "icon-poi-market",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-poi-market.svg",
+      "png": "icons/icon-poi-market.png",
+      "sha256_svg": "ec715ec7a2c1314ff84f278857fdc4489613f4262df9c247c8b155d96f9b8115",
+      "sha256_png": "3c996f1c3366219a8865a069bcc980a1f0c4131e62065cd18874a45a26502957",
+      "bytes_svg": 1754,
+      "bytes_png": 5952
+    },
+    {
+      "id": "icon-poi-mine",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-poi-mine.svg",
+      "png": "icons/icon-poi-mine.png",
+      "sha256_svg": "8f7aeeffc28aa13509df11235757432026a6ac5be345415e22b14141b9552a85",
+      "sha256_png": "be0125fa90f15c72a122123c25da6bed6c1b2300771ef3f94170a57607664dfe",
+      "bytes_svg": 1972,
+      "bytes_png": 21655
+    },
+    {
+      "id": "icon-poi-shrine",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-poi-shrine.svg",
+      "png": "icons/icon-poi-shrine.png",
+      "sha256_svg": "0826e21ac04399930a30510506b3ed23512e39c9b8577932a053a0bf701bc79b",
+      "sha256_png": "22de26b64d0d9980c5ed5fdb15d0ecb6509928198ba7957039bd0f26e5c209bd",
+      "bytes_svg": 1297,
+      "bytes_png": 9826
+    }
+  ],
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "files": [
+    {
+      "path": "icons/icon-poi-dungeon.svg",
+      "name": "icon-poi-dungeon.svg",
+      "sha256": "c71706a840f6842fbe3f9b8990496ef0835e16b8fc41f05e132a7b2c836f14ce",
+      "bytes": 1237
+    },
+    {
+      "path": "icons/icon-poi-dungeon.png",
+      "name": "icon-poi-dungeon",
+      "sha256": "bf98431639f5223fa51b3c826aa6bb07b1b058086f77a320502a158dbf7df213",
+      "bytes": 8798
+    },
+    {
+      "path": "icons/icon-poi-forge.svg",
+      "name": "icon-poi-forge.svg",
+      "sha256": "32a93a0d45f9e819a1dee8477baa416fcda5fccae3d0eeb19fd75ae01c6a1adc",
+      "bytes": 1218
+    },
+    {
+      "path": "icons/icon-poi-forge.png",
+      "name": "icon-poi-forge",
+      "sha256": "8b16b91f3a5294785a498b1242f7453700ae85c0bbfc7f654c9cf16d5b2fa9f8",
+      "bytes": 14540
+    },
+    {
+      "path": "icons/icon-poi-harbor.svg",
+      "name": "icon-poi-harbor.svg",
+      "sha256": "90aa4530c0e2e277d5c0f7ed3d9a600b753a0b104ecbe486c4daf651d92b73d4",
+      "bytes": 1008
+    },
+    {
+      "path": "icons/icon-poi-harbor.png",
+      "name": "icon-poi-harbor",
+      "sha256": "f454a86934aaccd5b20ea88df27c4eed4cf4ffb519782780538b88b235078857",
+      "bytes": 13667
+    },
+    {
+      "path": "icons/icon-poi-inn.svg",
+      "name": "icon-poi-inn.svg",
+      "sha256": "74ea54e12200f111a18f1f3b89fd7108ba7eb82e71c67d7498ec40d9b5d05e43",
+      "bytes": 1735
+    },
+    {
+      "path": "icons/icon-poi-inn.png",
+      "name": "icon-poi-inn",
+      "sha256": "98afa84937c953a02293e5e7964f48b19ec1a3ecf40834e825cf488d9d4b1455",
+      "bytes": 10604
+    },
+    {
+      "path": "icons/icon-poi-keep.svg",
+      "name": "icon-poi-keep.svg",
+      "sha256": "33c48fb73ef434b6d05495a45aa501a76920ca4215a5746ff5c368f4b40b8757",
+      "bytes": 1954
+    },
+    {
+      "path": "icons/icon-poi-keep.png",
+      "name": "icon-poi-keep",
+      "sha256": "daa936d2ab90ec6a47649074878fcce2c67e4dc719342c6d0eb84168de64280e",
+      "bytes": 5458
+    },
+    {
+      "path": "icons/icon-poi-market.svg",
+      "name": "icon-poi-market.svg",
+      "sha256": "ec715ec7a2c1314ff84f278857fdc4489613f4262df9c247c8b155d96f9b8115",
+      "bytes": 1754
+    },
+    {
+      "path": "icons/icon-poi-market.png",
+      "name": "icon-poi-market",
+      "sha256": "3c996f1c3366219a8865a069bcc980a1f0c4131e62065cd18874a45a26502957",
+      "bytes": 5952
+    },
+    {
+      "path": "icons/icon-poi-mine.svg",
+      "name": "icon-poi-mine.svg",
+      "sha256": "8f7aeeffc28aa13509df11235757432026a6ac5be345415e22b14141b9552a85",
+      "bytes": 1972
+    },
+    {
+      "path": "icons/icon-poi-mine.png",
+      "name": "icon-poi-mine",
+      "sha256": "be0125fa90f15c72a122123c25da6bed6c1b2300771ef3f94170a57607664dfe",
+      "bytes": 21655
+    },
+    {
+      "path": "icons/icon-poi-shrine.svg",
+      "name": "icon-poi-shrine.svg",
+      "sha256": "0826e21ac04399930a30510506b3ed23512e39c9b8577932a053a0bf701bc79b",
+      "bytes": 1297
+    },
+    {
+      "path": "icons/icon-poi-shrine.png",
+      "name": "icon-poi-shrine",
+      "sha256": "22de26b64d0d9980c5ed5fdb15d0ecb6509928198ba7957039bd0f26e5c209bd",
+      "bytes": 9826
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "name": "CONTACT_SHEET.png",
+      "sha256": "48d18d47f09a08bb725de98c87e5efbe33af03224cdd800f64d54c659d9f9427",
+      "bytes": 259771
+    },
+    {
+      "path": "README.md",
+      "name": "README.md",
+      "sha256": "9ebde975dddc2cf19cfc996386e72420e036a8fca5cb63a8e77becbbefa3ac56",
+      "bytes": 1585
+    },
+    {
+      "path": "CREDITS.md",
+      "name": "CREDITS.md",
+      "sha256": "6b6f2a25d4f00ff12769620a85e87f75f3e726d4271f0221e563d87bc8e74bd5",
+      "bytes": 89
+    },
+    {
+      "path": "LICENSE",
+      "name": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    }
+  ]
+}

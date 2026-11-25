@@ -1,0 +1,296 @@
+{
+  "pack": "openkit-sprites-civic-b1",
+  "family": "civic-world-props",
+  "license": "CC0-1.0",
+  "export_resolution_px": 256,
+  "anchor_convention": "top-left pixel origin on untrimmed 256x256 master; not bottom-trim; not engine-integrated",
+  "common_ground_plane_reference": {
+    "pixel_xy": [
+      128,
+      232
+    ],
+    "normalized_xy": [
+      0.5,
+      0.90625
+    ]
+  },
+  "note": "Ground shadow may extend below y=232. Set pivot to documented coordinates on untrimmed masters.",
+  "layout": "sprites/<name>.svg + sprites/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; MANIFEST.json",
+  "items": [
+    {
+      "id": "sprite-birdbath",
+      "kind": "sprite",
+      "function": "garden birdbath",
+      "anchor_point_px": [
+        128,
+        232
+      ],
+      "anchor_point_normalized": [
+        0.5,
+        0.90625
+      ],
+      "svg": "sprites/sprite-birdbath.svg",
+      "png": "sprites/sprite-birdbath.png",
+      "sha256_svg": "8ef04f8f2e60dd8b863e89af939a08a7bfcf127d38062a179338b9529327c697",
+      "sha256_png": "f52642856ffc2e5c238eac5b568d4e876cbf7b414a95cee903eee89474ee4f4b",
+      "bytes_svg": 1251,
+      "bytes_png": 9408
+    },
+    {
+      "id": "sprite-flagpole",
+      "kind": "sprite",
+      "function": "flagpole with flag",
+      "anchor_point_px": [
+        128,
+        232
+      ],
+      "anchor_point_normalized": [
+        0.5,
+        0.90625
+      ],
+      "svg": "sprites/sprite-flagpole.svg",
+      "png": "sprites/sprite-flagpole.png",
+      "sha256_svg": "8c9c7fed915c82b2b4c2e02d44196617e42f0f4c53a598ed1931d02ba01fdda7",
+      "sha256_png": "0b8082863c98fb5142dfe0b3d181e27932bd14b2c234de8ae0c60d0ddc63433a",
+      "bytes_svg": 1177,
+      "bytes_png": 6627
+    },
+    {
+      "id": "sprite-fountain-plaza",
+      "kind": "sprite",
+      "function": "tiered plaza fountain",
+      "anchor_point_px": [
+        128,
+        232
+      ],
+      "anchor_point_normalized": [
+        0.5,
+        0.90625
+      ],
+      "svg": "sprites/sprite-fountain-plaza.svg",
+      "png": "sprites/sprite-fountain-plaza.png",
+      "sha256_svg": "18f34c1a4555f755dddcb6568a40e1b0a4890e47e57f854dcb0fb9185c2227ff",
+      "sha256_png": "cc0374416ea9215096aa10a571919b59946c01fb23a85703f5fc64ebfcad2ff8",
+      "bytes_svg": 1987,
+      "bytes_png": 18806
+    },
+    {
+      "id": "sprite-mailbox",
+      "kind": "sprite",
+      "function": "roadside mailbox",
+      "anchor_point_px": [
+        128,
+        232
+      ],
+      "anchor_point_normalized": [
+        0.5,
+        0.90625
+      ],
+      "svg": "sprites/sprite-mailbox.svg",
+      "png": "sprites/sprite-mailbox.png",
+      "sha256_svg": "a4ef64a404964e0a090ebaa4d03f0d86ef2206a415da65313537aa1dbc61d0fd",
+      "sha256_png": "94117e263e23250f01dbfd52c4efcb939acb992c3543324b1e9089353ce3ec73",
+      "bytes_svg": 1426,
+      "bytes_png": 5215
+    },
+    {
+      "id": "sprite-milestone",
+      "kind": "sprite",
+      "function": "tall stone milestone with direction chevron",
+      "anchor_point_px": [
+        128,
+        232
+      ],
+      "anchor_point_normalized": [
+        0.5,
+        0.90625
+      ],
+      "svg": "sprites/sprite-milestone.svg",
+      "png": "sprites/sprite-milestone.png",
+      "sha256_svg": "9b6a4a18c6dea5ebccea1ea2e7cebe585e35d45040be409d2d6856562ac47bb2",
+      "sha256_png": "76fbc6132138691e1c2a6e391fb50c9b58f647605582cb73884981719798316c",
+      "bytes_svg": 1387,
+      "bytes_png": 8397
+    },
+    {
+      "id": "sprite-mounting-block",
+      "kind": "sprite",
+      "function": "horse mounting block",
+      "anchor_point_px": [
+        128,
+        232
+      ],
+      "anchor_point_normalized": [
+        0.5,
+        0.90625
+      ],
+      "svg": "sprites/sprite-mounting-block.svg",
+      "png": "sprites/sprite-mounting-block.png",
+      "sha256_svg": "603ef78cdb835e6dd10ed569533ad0e084b2baac917963ec5941dbe1470964ac",
+      "sha256_png": "ca79ecd8879dabc95a9c9bb81066c00e79c12d99886c10d8f685d8b1f607f66f",
+      "bytes_svg": 1143,
+      "bytes_png": 3945
+    },
+    {
+      "id": "sprite-pillory",
+      "kind": "sprite",
+      "function": "pillory with transparent head/hand cutouts",
+      "anchor_point_px": [
+        128,
+        232
+      ],
+      "anchor_point_normalized": [
+        0.5,
+        0.90625
+      ],
+      "svg": "sprites/sprite-pillory.svg",
+      "png": "sprites/sprite-pillory.png",
+      "sha256_svg": "3e622271fb6f70678ecede110faf9224f880c671eeedf84786dbf75487cc303e",
+      "sha256_png": "5f3b0181f5ba21266c64dfba72689147e33aad182c417cc9a28162e4a6add0a6",
+      "bytes_svg": 2759,
+      "bytes_png": 10526
+    },
+    {
+      "id": "sprite-stone-bollard",
+      "kind": "sprite",
+      "function": "short squat wide stone bollard",
+      "anchor_point_px": [
+        128,
+        232
+      ],
+      "anchor_point_normalized": [
+        0.5,
+        0.90625
+      ],
+      "svg": "sprites/sprite-stone-bollard.svg",
+      "png": "sprites/sprite-stone-bollard.png",
+      "sha256_svg": "8b65308d38a3355e4b894ae45b1ec3d3e5a99a6d7bf7480940cc0bb3d90fcc51",
+      "sha256_png": "1068cfe16bd468dd8586632d891df61474805b143091b73c973908b74aca38e6",
+      "bytes_svg": 1159,
+      "bytes_png": 9232
+    }
+  ],
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "files": [
+    {
+      "path": "sprites/sprite-birdbath.svg",
+      "name": "sprite-birdbath.svg",
+      "sha256": "8ef04f8f2e60dd8b863e89af939a08a7bfcf127d38062a179338b9529327c697",
+      "bytes": 1251
+    },
+    {
+      "path": "sprites/sprite-birdbath.png",
+      "name": "sprite-birdbath.png",
+      "sha256": "f52642856ffc2e5c238eac5b568d4e876cbf7b414a95cee903eee89474ee4f4b",
+      "bytes": 9408
+    },
+    {
+      "path": "sprites/sprite-flagpole.svg",
+      "name": "sprite-flagpole.svg",
+      "sha256": "8c9c7fed915c82b2b4c2e02d44196617e42f0f4c53a598ed1931d02ba01fdda7",
+      "bytes": 1177
+    },
+    {
+      "path": "sprites/sprite-flagpole.png",
+      "name": "sprite-flagpole.png",
+      "sha256": "0b8082863c98fb5142dfe0b3d181e27932bd14b2c234de8ae0c60d0ddc63433a",
+      "bytes": 6627
+    },
+    {
+      "path": "sprites/sprite-fountain-plaza.svg",
+      "name": "sprite-fountain-plaza.svg",
+      "sha256": "18f34c1a4555f755dddcb6568a40e1b0a4890e47e57f854dcb0fb9185c2227ff",
+      "bytes": 1987
+    },
+    {
+      "path": "sprites/sprite-fountain-plaza.png",
+      "name": "sprite-fountain-plaza.png",
+      "sha256": "cc0374416ea9215096aa10a571919b59946c01fb23a85703f5fc64ebfcad2ff8",
+      "bytes": 18806
+    },
+    {
+      "path": "sprites/sprite-mailbox.svg",
+      "name": "sprite-mailbox.svg",
+      "sha256": "a4ef64a404964e0a090ebaa4d03f0d86ef2206a415da65313537aa1dbc61d0fd",
+      "bytes": 1426
+    },
+    {
+      "path": "sprites/sprite-mailbox.png",
+      "name": "sprite-mailbox.png",
+      "sha256": "94117e263e23250f01dbfd52c4efcb939acb992c3543324b1e9089353ce3ec73",
+      "bytes": 5215
+    },
+    {
+      "path": "sprites/sprite-milestone.svg",
+      "name": "sprite-milestone.svg",
+      "sha256": "9b6a4a18c6dea5ebccea1ea2e7cebe585e35d45040be409d2d6856562ac47bb2",
+      "bytes": 1387
+    },
+    {
+      "path": "sprites/sprite-milestone.png",
+      "name": "sprite-milestone.png",
+      "sha256": "76fbc6132138691e1c2a6e391fb50c9b58f647605582cb73884981719798316c",
+      "bytes": 8397
+    },
+    {
+      "path": "sprites/sprite-mounting-block.svg",
+      "name": "sprite-mounting-block.svg",
+      "sha256": "603ef78cdb835e6dd10ed569533ad0e084b2baac917963ec5941dbe1470964ac",
+      "bytes": 1143
+    },
+    {
+      "path": "sprites/sprite-mounting-block.png",
+      "name": "sprite-mounting-block.png",
+      "sha256": "ca79ecd8879dabc95a9c9bb81066c00e79c12d99886c10d8f685d8b1f607f66f",
+      "bytes": 3945
+    },
+    {
+      "path": "sprites/sprite-pillory.svg",
+      "name": "sprite-pillory.svg",
+      "sha256": "3e622271fb6f70678ecede110faf9224f880c671eeedf84786dbf75487cc303e",
+      "bytes": 2759
+    },
+    {
+      "path": "sprites/sprite-pillory.png",
+      "name": "sprite-pillory.png",
+      "sha256": "5f3b0181f5ba21266c64dfba72689147e33aad182c417cc9a28162e4a6add0a6",
+      "bytes": 10526
+    },
+    {
+      "path": "sprites/sprite-stone-bollard.svg",
+      "name": "sprite-stone-bollard.svg",
+      "sha256": "8b65308d38a3355e4b894ae45b1ec3d3e5a99a6d7bf7480940cc0bb3d90fcc51",
+      "bytes": 1159
+    },
+    {
+      "path": "sprites/sprite-stone-bollard.png",
+      "name": "sprite-stone-bollard.png",
+      "sha256": "1068cfe16bd468dd8586632d891df61474805b143091b73c973908b74aca38e6",
+      "bytes": 9232
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "name": "CONTACT_SHEET.png",
+      "sha256": "ac376aab2e2cb529a1eaa8fdb1f033328fde90aa0b5aaa3a7d493feb5edce1e6",
+      "bytes": 72552
+    },
+    {
+      "path": "README.md",
+      "name": "README.md",
+      "sha256": "2f06daa237afb5d20b0ade4f7080c8d8abba88ec2991148f4ec2f2e5a659d923",
+      "bytes": 2728
+    },
+    {
+      "path": "CREDITS.md",
+      "name": "CREDITS.md",
+      "sha256": "6b6f2a25d4f00ff12769620a85e87f75f3e726d4271f0221e563d87bc8e74bd5",
+      "bytes": 89
+    },
+    {
+      "path": "LICENSE",
+      "name": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    }
+  ]
+}

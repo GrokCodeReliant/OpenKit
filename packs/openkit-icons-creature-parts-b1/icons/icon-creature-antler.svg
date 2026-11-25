@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-creature-antler">
+  <!-- Open Kit CC0 original geometry: branching antler. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-creature-antler</title>
+  <g transform="translate(15.4 18.8) scale(0.88)">
+  <path d="M76 210 C80 180 88 156 102 132" fill="none" stroke="#1c161e" stroke-width="52" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M102 132 C118 106 142 84 172 66" fill="none" stroke="#1c161e" stroke-width="47" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M172 66 C186 58 200 54 216 56" fill="none" stroke="#1c161e" stroke-width="41" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M96 144 C82 124 72 102 70 78" fill="none" stroke="#1c161e" stroke-width="42" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M134 94 C130 74 130 56 136 36" fill="none" stroke="#1c161e" stroke-width="41" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M170 68 C176 52 186 40 200 30" fill="none" stroke="#1c161e" stroke-width="38" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M76 210 C80 180 88 156 102 132" fill="none" stroke="#dcc69c" stroke-width="36" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M102 132 C118 106 142 84 172 66" fill="none" stroke="#dcc69c" stroke-width="31" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M172 66 C186 58 200 54 216 56" fill="none" stroke="#dcc69c" stroke-width="25" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M96 144 C82 124 72 102 70 78" fill="none" stroke="#dcc69c" stroke-width="26" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M134 94 C130 74 130 56 136 36" fill="none" stroke="#dcc69c" stroke-width="25" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M170 68 C176 52 186 40 200 30" fill="none" stroke="#dcc69c" stroke-width="22" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M86 196 C90 170 98 150 110 132" fill="none" stroke="#f4e8c8" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M112 130 C128 110 146 94 168 80" fill="none" stroke="#b89c70" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="76" cy="212" rx="32" ry="15" fill="#8a6a48" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="9" transform="rotate(-10 76 212)"/>
+  </g>
+</svg>

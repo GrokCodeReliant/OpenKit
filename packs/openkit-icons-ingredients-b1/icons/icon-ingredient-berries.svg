@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-ingredient-berries">
+  <!-- Open Kit CC0 original geometry: berry cluster ingredient. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-ingredient-berries</title>
+
+  <!-- stem -->
+  <path d="M150 48 L128 96 L110 88" fill="none" stroke="#5a3a22" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 96 L160 120" fill="none" stroke="#5a3a22" stroke-width="6" stroke-linecap="round"/>
+  <!-- leaf -->
+  <ellipse cx="168" cy="100" rx="22" ry="12" transform="rotate(-30 168 100)" fill="#4a9a3c" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- berry cluster -->
+  <circle cx="108" cy="140" r="22" fill="#a02848" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="140" cy="128" r="22" fill="#c03058" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="152" cy="160" r="22" fill="#a02848" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="118" cy="172" r="22" fill="#b02850" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="136" cy="152" r="18" fill="#d04068" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- tiny highlights -->
+  <circle cx="132" cy="120" r="5" fill="#f0a0b0" stroke="none"/>
+  <circle cx="102" cy="132" r="4" fill="#f0a0b0" stroke="none"/>
+</svg>

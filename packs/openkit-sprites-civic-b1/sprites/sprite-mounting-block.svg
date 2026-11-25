@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="sprite-mounting-block">
+  <!-- Open Kit CC0 original geometry: civic: horse mounting block. Ground-plane reference (untrimmed master): pixel (128,232) top-left origin = normalized (0.5, 0.90625). Transform scales about that point. No fonts/scripts/external refs. -->
+  <title>sprite-mounting-block</title>
+  <g transform="translate(128 232) scale(0.82) translate(-128 -232)">
+
+  <ellipse cx="128" cy="232" rx="80" ry="12" fill="#5a6068" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="48" y="176" width="160" height="56" rx="4" fill="#8a909a" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="80" y="136" width="128" height="44" rx="4" fill="#9aa3b0" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="112" y="100" width="96" height="40" rx="4" fill="#b0b8c4" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>

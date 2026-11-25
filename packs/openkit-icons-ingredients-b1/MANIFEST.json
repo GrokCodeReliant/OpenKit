@@ -1,0 +1,229 @@
+{
+  "pack": "openkit-icons-ingredients-b1",
+  "family": "culinary-ingredient-icons",
+  "license": "CC0-1.0",
+  "export_resolution_px": 256,
+  "alignment_convention": "inventory icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; MANIFEST.json",
+  "items": [
+    {
+      "id": "icon-ingredient-berries",
+      "kind": "icon",
+      "function": "berry cluster",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-ingredient-berries.svg",
+      "png": "icons/icon-ingredient-berries.png",
+      "sha256_svg": "739dd86212d693d15e9f6da79b8be7be7c1502a3f3d10bfd8528a20f06858c23",
+      "sha256_png": "00f134761754d7a21316b52dfa8003b4d95de8f5d7023b20e30daf9be0ba5ade",
+      "bytes_svg": 1694,
+      "bytes_png": 14401
+    },
+    {
+      "id": "icon-ingredient-cabbage",
+      "kind": "icon",
+      "function": "raw cabbage head",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-ingredient-cabbage.svg",
+      "png": "icons/icon-ingredient-cabbage.png",
+      "sha256_svg": "3357ec22e25a5d2e3672ef238bdd8240184a6e06c8063ed8ed65f4b529281da9",
+      "sha256_png": "8da2bc57bb3319997aca24327a4fca73fdee1a4cba7fd8480b7314aa19830d30",
+      "bytes_svg": 1908,
+      "bytes_png": 26031
+    },
+    {
+      "id": "icon-ingredient-carrot",
+      "kind": "icon",
+      "function": "raw carrot",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-ingredient-carrot.svg",
+      "png": "icons/icon-ingredient-carrot.png",
+      "sha256_svg": "ac7e96554274d2153ce833b666e26a46f18b3ad66cf4e5a26ccb880425151f6e",
+      "sha256_png": "5feee04778c23dfd70a314675a88df5db71300cb197650c5f299dfdb2974280d",
+      "bytes_svg": 1298,
+      "bytes_png": 9759
+    },
+    {
+      "id": "icon-ingredient-egg",
+      "kind": "icon",
+      "function": "raw egg",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-ingredient-egg.svg",
+      "png": "icons/icon-ingredient-egg.png",
+      "sha256_svg": "976bbb0edef7ec40507470350fae696028b5c28b8a94a254859fc47fb5fd89b5",
+      "sha256_png": "fe768e0b22cbe383df5177c4267eea25d914679afed9dc6d6da1688f1eae9ced",
+      "bytes_svg": 615,
+      "bytes_png": 11015
+    },
+    {
+      "id": "icon-ingredient-flour-sack",
+      "kind": "icon",
+      "function": "flour sack",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-ingredient-flour-sack.svg",
+      "png": "icons/icon-ingredient-flour-sack.png",
+      "sha256_svg": "c1859aeacd0f98d8639e2273287f6b6c7149a885b3cd8a50c2664ca213ba8179",
+      "sha256_png": "51647bf901447ef20b63bba8399a155ff233febf0445616ae1da6c6c6aa5b75e",
+      "bytes_svg": 1796,
+      "bytes_png": 17047
+    },
+    {
+      "id": "icon-ingredient-garlic",
+      "kind": "icon",
+      "function": "raw garlic bulb",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-ingredient-garlic.svg",
+      "png": "icons/icon-ingredient-garlic.png",
+      "sha256_svg": "81c7c8ae94db24a2acf7243534c4cd094579fbe5fcf6fc2db3b1c3c5dcab5b98",
+      "sha256_png": "2a41001824de92fb26b55125ee938ebe291ec2b07efd7c7119ac1b75c1546507",
+      "bytes_svg": 1411,
+      "bytes_png": 16119
+    },
+    {
+      "id": "icon-ingredient-honey-jar",
+      "kind": "icon",
+      "function": "honey jar",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-ingredient-honey-jar.svg",
+      "png": "icons/icon-ingredient-honey-jar.png",
+      "sha256_svg": "849b25f175a11ed6ebbd2c1f84c4515d0130db910a4e7969dde34ab2b5fa85d7",
+      "sha256_png": "b9784ac404728a1e1e86e92710e9e63ba374106b44834c414f7d5b424be3985a",
+      "bytes_svg": 1431,
+      "bytes_png": 10115
+    },
+    {
+      "id": "icon-ingredient-onion",
+      "kind": "icon",
+      "function": "raw onion bulb",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-ingredient-onion.svg",
+      "png": "icons/icon-ingredient-onion.png",
+      "sha256_svg": "f4307f91c461ab0c08f56a8a1656ce2ee0505cc29e6620cc39c8b7b6853b3f94",
+      "sha256_png": "595f3d122da89c257caa80fa31f19e369eff1f88a13af02b9a1f506f983a16c8",
+      "bytes_svg": 1319,
+      "bytes_png": 12835
+    }
+  ],
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "files": [
+    {
+      "path": "icons/icon-ingredient-berries.svg",
+      "name": "icon-ingredient-berries.svg",
+      "sha256": "739dd86212d693d15e9f6da79b8be7be7c1502a3f3d10bfd8528a20f06858c23",
+      "bytes": 1694
+    },
+    {
+      "path": "icons/icon-ingredient-berries.png",
+      "name": "icon-ingredient-berries",
+      "sha256": "00f134761754d7a21316b52dfa8003b4d95de8f5d7023b20e30daf9be0ba5ade",
+      "bytes": 14401
+    },
+    {
+      "path": "icons/icon-ingredient-cabbage.svg",
+      "name": "icon-ingredient-cabbage.svg",
+      "sha256": "3357ec22e25a5d2e3672ef238bdd8240184a6e06c8063ed8ed65f4b529281da9",
+      "bytes": 1908
+    },
+    {
+      "path": "icons/icon-ingredient-cabbage.png",
+      "name": "icon-ingredient-cabbage",
+      "sha256": "8da2bc57bb3319997aca24327a4fca73fdee1a4cba7fd8480b7314aa19830d30",
+      "bytes": 26031
+    },
+    {
+      "path": "icons/icon-ingredient-carrot.svg",
+      "name": "icon-ingredient-carrot.svg",
+      "sha256": "ac7e96554274d2153ce833b666e26a46f18b3ad66cf4e5a26ccb880425151f6e",
+      "bytes": 1298
+    },
+    {
+      "path": "icons/icon-ingredient-carrot.png",
+      "name": "icon-ingredient-carrot",
+      "sha256": "5feee04778c23dfd70a314675a88df5db71300cb197650c5f299dfdb2974280d",
+      "bytes": 9759
+    },
+    {
+      "path": "icons/icon-ingredient-egg.svg",
+      "name": "icon-ingredient-egg.svg",
+      "sha256": "976bbb0edef7ec40507470350fae696028b5c28b8a94a254859fc47fb5fd89b5",
+      "bytes": 615
+    },
+    {
+      "path": "icons/icon-ingredient-egg.png",
+      "name": "icon-ingredient-egg",
+      "sha256": "fe768e0b22cbe383df5177c4267eea25d914679afed9dc6d6da1688f1eae9ced",
+      "bytes": 11015
+    },
+    {
+      "path": "icons/icon-ingredient-flour-sack.svg",
+      "name": "icon-ingredient-flour-sack.svg",
+      "sha256": "c1859aeacd0f98d8639e2273287f6b6c7149a885b3cd8a50c2664ca213ba8179",
+      "bytes": 1796
+    },
+    {
+      "path": "icons/icon-ingredient-flour-sack.png",
+      "name": "icon-ingredient-flour-sack",
+      "sha256": "51647bf901447ef20b63bba8399a155ff233febf0445616ae1da6c6c6aa5b75e",
+      "bytes": 17047
+    },
+    {
+      "path": "icons/icon-ingredient-garlic.svg",
+      "name": "icon-ingredient-garlic.svg",
+      "sha256": "81c7c8ae94db24a2acf7243534c4cd094579fbe5fcf6fc2db3b1c3c5dcab5b98",
+      "bytes": 1411
+    },
+    {
+      "path": "icons/icon-ingredient-garlic.png",
+      "name": "icon-ingredient-garlic",
+      "sha256": "2a41001824de92fb26b55125ee938ebe291ec2b07efd7c7119ac1b75c1546507",
+      "bytes": 16119
+    },
+    {
+      "path": "icons/icon-ingredient-honey-jar.svg",
+      "name": "icon-ingredient-honey-jar.svg",
+      "sha256": "849b25f175a11ed6ebbd2c1f84c4515d0130db910a4e7969dde34ab2b5fa85d7",
+      "bytes": 1431
+    },
+    {
+      "path": "icons/icon-ingredient-honey-jar.png",
+      "name": "icon-ingredient-honey-jar",
+      "sha256": "b9784ac404728a1e1e86e92710e9e63ba374106b44834c414f7d5b424be3985a",
+      "bytes": 10115
+    },
+    {
+      "path": "icons/icon-ingredient-onion.svg",
+      "name": "icon-ingredient-onion.svg",
+      "sha256": "f4307f91c461ab0c08f56a8a1656ce2ee0505cc29e6620cc39c8b7b6853b3f94",
+      "bytes": 1319
+    },
+    {
+      "path": "icons/icon-ingredient-onion.png",
+      "name": "icon-ingredient-onion",
+      "sha256": "595f3d122da89c257caa80fa31f19e369eff1f88a13af02b9a1f506f983a16c8",
+      "bytes": 12835
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "name": "CONTACT_SHEET.png",
+      "sha256": "0b78246f96b6313f5a2f3bc1b8830a8cc12f61e16af8c876924bba99f0f1d4a3",
+      "bytes": 117985
+    },
+    {
+      "path": "README.md",
+      "name": "README.md",
+      "sha256": "885498cab6184f3a9be2e6d70dd23879416e2c1e78bd436d2e75e0a840708ff0",
+      "bytes": 1990
+    },
+    {
+      "path": "CREDITS.md",
+      "name": "CREDITS.md",
+      "sha256": "6b6f2a25d4f00ff12769620a85e87f75f3e726d4271f0221e563d87bc8e74bd5",
+      "bytes": 89
+    },
+    {
+      "path": "LICENSE",
+      "name": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    }
+  ]
+}

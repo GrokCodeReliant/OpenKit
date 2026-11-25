@@ -1,0 +1,230 @@
+{
+  "pack": "openkit-icons-music-b1",
+  "family": "music-instrument-icons",
+  "license": "CC0-1.0",
+  "export_resolution": [
+    256,
+    256
+  ],
+  "recommended_min_display_px": 48,
+  "count_icons": 8,
+  "format": {
+    "svg": "viewBox 0 0 256 256, no fonts/scripts/external refs",
+    "png": "RGBA 256x256 transparent"
+  },
+  "alignment_convention": "inventory icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; MANIFEST.json",
+  "items": [
+    {
+      "id": "icon-music-bagpipes",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-music-bagpipes.svg",
+      "png": "icons/icon-music-bagpipes.png",
+      "sha256_svg": "d30fe4894bf6c3d3491f8ed98bf14e25a7aae6d9f5c24c72661bd0a187ed96fc",
+      "sha256_png": "a57b3bb34b50d8906a63dfc57a3a3d7f3f418e2731f6d6a1b3d4b01abdea2e2d",
+      "bytes_svg": 1812,
+      "bytes_png": 12332
+    },
+    {
+      "id": "icon-music-bell",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-music-bell.svg",
+      "png": "icons/icon-music-bell.png",
+      "sha256_svg": "88e6bbcd7c13b553bf978a7f3e801d0a707f59591e2b58fac2f8537527b4ae52",
+      "sha256_png": "1bcfc5650718be53f74f1a42782bcaa55adc7039e232f7b56f795848854124fd",
+      "bytes_svg": 1346,
+      "bytes_png": 13970
+    },
+    {
+      "id": "icon-music-drum",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-music-drum.svg",
+      "png": "icons/icon-music-drum.png",
+      "sha256_svg": "bd6346bd76f21a41b5576448b37b96e306de2a0f920cac1aea5086fbf2da6aa7",
+      "sha256_png": "4dd933a99d4236306fd139925e14d47d70c7aae88b660bf133238e3e42e1fdb2",
+      "bytes_svg": 1393,
+      "bytes_png": 16072
+    },
+    {
+      "id": "icon-music-fiddle",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-music-fiddle.svg",
+      "png": "icons/icon-music-fiddle.png",
+      "sha256_svg": "796ced01112becea147926c05277cbb9422998b36b663b5723d3cdc3b7f4cf27",
+      "sha256_png": "0fc7bba7dca96c567db07127c054c05a9db2c295db3e57ecf830afdd3ce2b909",
+      "bytes_svg": 2130,
+      "bytes_png": 11278
+    },
+    {
+      "id": "icon-music-flute",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-music-flute.svg",
+      "png": "icons/icon-music-flute.png",
+      "sha256_svg": "ebba5278e321fcb974053bea351eb707ebb40ddc751b2f9e920e5a7ac94120be",
+      "sha256_png": "d48504ee3f6447d5aa3aa0ebc021ef90e259aa302d5e0f7017f1ae987dc87fbc",
+      "bytes_svg": 1386,
+      "bytes_png": 14769
+    },
+    {
+      "id": "icon-music-harp",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-music-harp.svg",
+      "png": "icons/icon-music-harp.png",
+      "sha256_svg": "60c35227781c444b60282d77029670782fdd8968dc3f826af0885bf76f56ffa6",
+      "sha256_png": "1d429599b0799a521dc01d4651373844c0d4ba4bc9bc61ebe76153299e145e8d",
+      "bytes_svg": 1388,
+      "bytes_png": 10405
+    },
+    {
+      "id": "icon-music-horn",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-music-horn.svg",
+      "png": "icons/icon-music-horn.png",
+      "sha256_svg": "c659939d2c8b3d3be18b45af98d5fbd4929b8c2365f89a8efb2237237eafd3a8",
+      "sha256_png": "a7c1d998a26395454fa8f518399b605f45551a193b8b558af26cfd7769408306",
+      "bytes_svg": 1001,
+      "bytes_png": 15772
+    },
+    {
+      "id": "icon-music-lute",
+      "kind": "icon",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-music-lute.svg",
+      "png": "icons/icon-music-lute.png",
+      "sha256_svg": "ce234c29c0ba00ea29d98dbac85b0a5fdf12c41e390a4160f0e16240185bbb55",
+      "sha256_png": "a10998e55ec705dc9e363492b5dd129a5c07b125c07145b88aa24653a0f51ae9",
+      "bytes_svg": 1666,
+      "bytes_png": 17859
+    }
+  ],
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "files": [
+    {
+      "path": "icons/icon-music-bagpipes.svg",
+      "name": "icon-music-bagpipes.svg",
+      "sha256": "d30fe4894bf6c3d3491f8ed98bf14e25a7aae6d9f5c24c72661bd0a187ed96fc",
+      "bytes": 1812
+    },
+    {
+      "path": "icons/icon-music-bagpipes.png",
+      "name": "icon-music-bagpipes",
+      "sha256": "a57b3bb34b50d8906a63dfc57a3a3d7f3f418e2731f6d6a1b3d4b01abdea2e2d",
+      "bytes": 12332
+    },
+    {
+      "path": "icons/icon-music-bell.svg",
+      "name": "icon-music-bell.svg",
+      "sha256": "88e6bbcd7c13b553bf978a7f3e801d0a707f59591e2b58fac2f8537527b4ae52",
+      "bytes": 1346
+    },
+    {
+      "path": "icons/icon-music-bell.png",
+      "name": "icon-music-bell",
+      "sha256": "1bcfc5650718be53f74f1a42782bcaa55adc7039e232f7b56f795848854124fd",
+      "bytes": 13970
+    },
+    {
+      "path": "icons/icon-music-drum.svg",
+      "name": "icon-music-drum.svg",
+      "sha256": "bd6346bd76f21a41b5576448b37b96e306de2a0f920cac1aea5086fbf2da6aa7",
+      "bytes": 1393
+    },
+    {
+      "path": "icons/icon-music-drum.png",
+      "name": "icon-music-drum",
+      "sha256": "4dd933a99d4236306fd139925e14d47d70c7aae88b660bf133238e3e42e1fdb2",
+      "bytes": 16072
+    },
+    {
+      "path": "icons/icon-music-fiddle.svg",
+      "name": "icon-music-fiddle.svg",
+      "sha256": "796ced01112becea147926c05277cbb9422998b36b663b5723d3cdc3b7f4cf27",
+      "bytes": 2130
+    },
+    {
+      "path": "icons/icon-music-fiddle.png",
+      "name": "icon-music-fiddle",
+      "sha256": "0fc7bba7dca96c567db07127c054c05a9db2c295db3e57ecf830afdd3ce2b909",
+      "bytes": 11278
+    },
+    {
+      "path": "icons/icon-music-flute.svg",
+      "name": "icon-music-flute.svg",
+      "sha256": "ebba5278e321fcb974053bea351eb707ebb40ddc751b2f9e920e5a7ac94120be",
+      "bytes": 1386
+    },
+    {
+      "path": "icons/icon-music-flute.png",
+      "name": "icon-music-flute",
+      "sha256": "d48504ee3f6447d5aa3aa0ebc021ef90e259aa302d5e0f7017f1ae987dc87fbc",
+      "bytes": 14769
+    },
+    {
+      "path": "icons/icon-music-harp.svg",
+      "name": "icon-music-harp.svg",
+      "sha256": "60c35227781c444b60282d77029670782fdd8968dc3f826af0885bf76f56ffa6",
+      "bytes": 1388
+    },
+    {
+      "path": "icons/icon-music-harp.png",
+      "name": "icon-music-harp",
+      "sha256": "1d429599b0799a521dc01d4651373844c0d4ba4bc9bc61ebe76153299e145e8d",
+      "bytes": 10405
+    },
+    {
+      "path": "icons/icon-music-horn.svg",
+      "name": "icon-music-horn.svg",
+      "sha256": "c659939d2c8b3d3be18b45af98d5fbd4929b8c2365f89a8efb2237237eafd3a8",
+      "bytes": 1001
+    },
+    {
+      "path": "icons/icon-music-horn.png",
+      "name": "icon-music-horn",
+      "sha256": "a7c1d998a26395454fa8f518399b605f45551a193b8b558af26cfd7769408306",
+      "bytes": 15772
+    },
+    {
+      "path": "icons/icon-music-lute.svg",
+      "name": "icon-music-lute.svg",
+      "sha256": "ce234c29c0ba00ea29d98dbac85b0a5fdf12c41e390a4160f0e16240185bbb55",
+      "bytes": 1666
+    },
+    {
+      "path": "icons/icon-music-lute.png",
+      "name": "icon-music-lute",
+      "sha256": "a10998e55ec705dc9e363492b5dd129a5c07b125c07145b88aa24653a0f51ae9",
+      "bytes": 17859
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "name": "CONTACT_SHEET.png",
+      "sha256": "7298f2a3f87f46a0d6c2137287a8e606366eefc6201bacdd73a5181f0e723f8e",
+      "bytes": 309396
+    },
+    {
+      "path": "README.md",
+      "name": "README.md",
+      "sha256": "3581664fd1539dd3dea8d5d517f135fca459de1a9be335a1eb7de333613f52f3",
+      "bytes": 1750
+    },
+    {
+      "path": "CREDITS.md",
+      "name": "CREDITS.md",
+      "sha256": "6b6f2a25d4f00ff12769620a85e87f75f3e726d4271f0221e563d87bc8e74bd5",
+      "bytes": 89
+    },
+    {
+      "path": "LICENSE",
+      "name": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-creature-wing">
+  <!-- Open Kit CC0 original geometry: leathery membrane wing. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-creature-wing</title>
+  <path d="M138 66 L132 34 L156 58 Z" fill="#e2d6b6" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M48 98 L140 64 L218 44 Q206 96 214 132 Q184 124 172 150 Q148 140 130 172 Q104 160 88 192 Q76 154 48 136 Z" fill="#7a5c86" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M60 110 L140 74 L204 58 Q196 94 200 120 Q180 116 168 134 Q148 128 132 152 Q110 144 94 168 Q82 142 60 128 Z" fill="#9a7aa6"/>
+  <path d="M48 102 L140 66 L218 46" fill="none" stroke="#1c161e" stroke-width="15" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M48 102 L140 66 L218 46" fill="none" stroke="#5a4466" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M140 66 L212 130 M140 66 L170 146 M140 66 L130 168 M140 66 L90 186" fill="none" stroke="#4e3a58" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-trap-blade">
+  <!-- Open Kit CC0 original geometry: swinging pendulum blade. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-trap-blade</title>
+  <circle cx="128" cy="40" r="10" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M128 48 L128 92" fill="none" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="70" r="7" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="128" cy="92" r="8" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M64 100 C64 168 92 214 148 226 C118 196 110 150 118 108 C160 124 198 164 210 210 C230 150 210 88 148 72 C110 64 64 72 64 100 Z" fill="#b8bec4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M84 108 C88 160 110 198 148 214 C128 188 124 150 128 114 C154 126 180 158 192 190 C198 150 184 104 148 90 C116 82 84 90 84 108 Z" fill="#e8ecee"/>
+  <path d="M148 86 C180 110 202 154 208 196" fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M100 120 C108 164 128 196 160 214" fill="none" stroke="#8a9098" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

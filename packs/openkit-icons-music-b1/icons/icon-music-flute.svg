@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-music-flute">
+  <!-- Open Kit CC0 original geometry: music: flute. No fonts, scripts, or external refs. -->
+  <title>icon-music-flute</title>
+  <g transform="rotate(-28 128 128)">
+    <rect x="28" y="112" width="200" height="32" rx="16" fill="#d8dde6" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- mouthpiece lip -->
+    <rect x="28" y="108" width="40" height="40" rx="12" fill="#b0b8c4" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="48" cy="128" r="7" fill="#1c161e" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- tone holes -->
+    <circle cx="108" cy="128" r="7" fill="#1c161e" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="140" cy="128" r="7" fill="#1c161e" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="172" cy="128" r="7" fill="#1c161e" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="204" cy="128" r="7" fill="#1c161e" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+
+</svg>

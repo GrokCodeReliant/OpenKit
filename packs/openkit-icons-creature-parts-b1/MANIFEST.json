@@ -1,0 +1,229 @@
+{
+  "pack": "openkit-icons-creature-parts-b1",
+  "family": "creature-part-icons",
+  "license": "CC0-1.0",
+  "export_resolution_px": 256,
+  "alignment_convention": "inventory icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; MANIFEST.json",
+  "items": [
+    {
+      "id": "icon-creature-antler",
+      "kind": "icon",
+      "function": "branching antler",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-creature-antler.svg",
+      "png": "icons/icon-creature-antler.png",
+      "sha256_svg": "5d1044b3470843182024eaad296e43b61ce14f1110ab705732ef5063cc1bc28a",
+      "sha256_png": "a03b27be03dcd5c3e480957401b7530d3eef83a3af2088a47b48d671ddeb171a",
+      "bytes_svg": 2562,
+      "bytes_png": 13064
+    },
+    {
+      "id": "icon-creature-bone",
+      "kind": "icon",
+      "function": "long bone",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-creature-bone.svg",
+      "png": "icons/icon-creature-bone.png",
+      "sha256_svg": "11dc00272fbf61a91b6a31a3278e2b801fc9fbacd6742ec8fcbc4a99c43090a4",
+      "sha256_png": "0f1acd49aaeee62073d978907e36f5b9e414df6b7b2f64a60e4004a9510a0ff2",
+      "bytes_svg": 1257,
+      "bytes_png": 7032
+    },
+    {
+      "id": "icon-creature-carapace",
+      "kind": "icon",
+      "function": "beetle wing-case shell",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-creature-carapace.svg",
+      "png": "icons/icon-creature-carapace.png",
+      "sha256_svg": "1b45659d45b72990463d41835a0d5ca406ff38e87db67dbe86822574887ee37e",
+      "sha256_png": "39e074da9beec0e8a5b074e5ef44b39ee4169f87ccfa96163d493f9848a69d91",
+      "bytes_svg": 1495,
+      "bytes_png": 11540
+    },
+    {
+      "id": "icon-creature-claw",
+      "kind": "icon",
+      "function": "hooked claw",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-creature-claw.svg",
+      "png": "icons/icon-creature-claw.png",
+      "sha256_svg": "7966684050fa9f4a640a29cdcd4a58b76ecb3ba1fceda9807aa81e3d6e39696d",
+      "sha256_png": "22bf08291549dcb67ad0c73ee5565433abb4f70245ffeeaf3e714796e7a4b6ff",
+      "bytes_svg": 1048,
+      "bytes_png": 11544
+    },
+    {
+      "id": "icon-creature-fang",
+      "kind": "icon",
+      "function": "curved fang",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-creature-fang.svg",
+      "png": "icons/icon-creature-fang.png",
+      "sha256_svg": "5407d4340042eb0369762aced7e9a377c0f6789b3a6182018c0a3de6ea4e8818",
+      "sha256_png": "9216fa663b042a820d5346c94072e16ae15116361173e58eeb10a9b3ccdee098",
+      "bytes_svg": 1255,
+      "bytes_png": 10459
+    },
+    {
+      "id": "icon-creature-feather",
+      "kind": "icon",
+      "function": "feather with quill",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-creature-feather.svg",
+      "png": "icons/icon-creature-feather.png",
+      "sha256_svg": "f31729f38dc1a83a6dd06c4c70900c632dd8d6b1e449b3c6d70289336e7418df",
+      "sha256_png": "0f423c2728c7438d4363100c0e52017615fd88ded5127bdac5284b0b09c42e69",
+      "bytes_svg": 961,
+      "bytes_png": 14181
+    },
+    {
+      "id": "icon-creature-shell",
+      "kind": "icon",
+      "function": "spiral sea shell",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-creature-shell.svg",
+      "png": "icons/icon-creature-shell.png",
+      "sha256_svg": "8a2118b9369285de3896152c16177552e8b6740ffa83d8f096de050c097646c3",
+      "sha256_png": "601aa07cc6b00ac5f6b896cecb4ac430bcde21c9a506114141a89a9bf8f0f962",
+      "bytes_svg": 2206,
+      "bytes_png": 18153
+    },
+    {
+      "id": "icon-creature-wing",
+      "kind": "icon",
+      "function": "leathery membrane wing",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-creature-wing.svg",
+      "png": "icons/icon-creature-wing.png",
+      "sha256_svg": "e06b11d7e300a77cdad70df2a82f12b0afc680caf2d41ddc35d22947d7061df7",
+      "sha256_png": "04f5ebcd7d4396246dea3939a72546971beabecfc5ecef039f2153174d5673e5",
+      "bytes_svg": 1322,
+      "bytes_png": 12692
+    }
+  ],
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "files": [
+    {
+      "path": "icons/icon-creature-antler.svg",
+      "name": "icon-creature-antler.svg",
+      "sha256": "5d1044b3470843182024eaad296e43b61ce14f1110ab705732ef5063cc1bc28a",
+      "bytes": 2562
+    },
+    {
+      "path": "icons/icon-creature-antler.png",
+      "name": "icon-creature-antler",
+      "sha256": "a03b27be03dcd5c3e480957401b7530d3eef83a3af2088a47b48d671ddeb171a",
+      "bytes": 13064
+    },
+    {
+      "path": "icons/icon-creature-bone.svg",
+      "name": "icon-creature-bone.svg",
+      "sha256": "11dc00272fbf61a91b6a31a3278e2b801fc9fbacd6742ec8fcbc4a99c43090a4",
+      "bytes": 1257
+    },
+    {
+      "path": "icons/icon-creature-bone.png",
+      "name": "icon-creature-bone",
+      "sha256": "0f1acd49aaeee62073d978907e36f5b9e414df6b7b2f64a60e4004a9510a0ff2",
+      "bytes": 7032
+    },
+    {
+      "path": "icons/icon-creature-carapace.svg",
+      "name": "icon-creature-carapace.svg",
+      "sha256": "1b45659d45b72990463d41835a0d5ca406ff38e87db67dbe86822574887ee37e",
+      "bytes": 1495
+    },
+    {
+      "path": "icons/icon-creature-carapace.png",
+      "name": "icon-creature-carapace",
+      "sha256": "39e074da9beec0e8a5b074e5ef44b39ee4169f87ccfa96163d493f9848a69d91",
+      "bytes": 11540
+    },
+    {
+      "path": "icons/icon-creature-claw.svg",
+      "name": "icon-creature-claw.svg",
+      "sha256": "7966684050fa9f4a640a29cdcd4a58b76ecb3ba1fceda9807aa81e3d6e39696d",
+      "bytes": 1048
+    },
+    {
+      "path": "icons/icon-creature-claw.png",
+      "name": "icon-creature-claw",
+      "sha256": "22bf08291549dcb67ad0c73ee5565433abb4f70245ffeeaf3e714796e7a4b6ff",
+      "bytes": 11544
+    },
+    {
+      "path": "icons/icon-creature-fang.svg",
+      "name": "icon-creature-fang.svg",
+      "sha256": "5407d4340042eb0369762aced7e9a377c0f6789b3a6182018c0a3de6ea4e8818",
+      "bytes": 1255
+    },
+    {
+      "path": "icons/icon-creature-fang.png",
+      "name": "icon-creature-fang",
+      "sha256": "9216fa663b042a820d5346c94072e16ae15116361173e58eeb10a9b3ccdee098",
+      "bytes": 10459
+    },
+    {
+      "path": "icons/icon-creature-feather.svg",
+      "name": "icon-creature-feather.svg",
+      "sha256": "f31729f38dc1a83a6dd06c4c70900c632dd8d6b1e449b3c6d70289336e7418df",
+      "bytes": 961
+    },
+    {
+      "path": "icons/icon-creature-feather.png",
+      "name": "icon-creature-feather",
+      "sha256": "0f423c2728c7438d4363100c0e52017615fd88ded5127bdac5284b0b09c42e69",
+      "bytes": 14181
+    },
+    {
+      "path": "icons/icon-creature-shell.svg",
+      "name": "icon-creature-shell.svg",
+      "sha256": "8a2118b9369285de3896152c16177552e8b6740ffa83d8f096de050c097646c3",
+      "bytes": 2206
+    },
+    {
+      "path": "icons/icon-creature-shell.png",
+      "name": "icon-creature-shell",
+      "sha256": "601aa07cc6b00ac5f6b896cecb4ac430bcde21c9a506114141a89a9bf8f0f962",
+      "bytes": 18153
+    },
+    {
+      "path": "icons/icon-creature-wing.svg",
+      "name": "icon-creature-wing.svg",
+      "sha256": "e06b11d7e300a77cdad70df2a82f12b0afc680caf2d41ddc35d22947d7061df7",
+      "bytes": 1322
+    },
+    {
+      "path": "icons/icon-creature-wing.png",
+      "name": "icon-creature-wing",
+      "sha256": "04f5ebcd7d4396246dea3939a72546971beabecfc5ecef039f2153174d5673e5",
+      "bytes": 12692
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "name": "CONTACT_SHEET.png",
+      "sha256": "dc096e852dbd7c99ad990567d3bff36ce0aa83f0a9a554040d0360d49dd97737",
+      "bytes": 167040
+    },
+    {
+      "path": "README.md",
+      "name": "README.md",
+      "sha256": "5d522cdcff109c3682fc67247832dcc5af75630cda76745781b8a0015454ac4d",
+      "bytes": 2085
+    },
+    {
+      "path": "CREDITS.md",
+      "name": "CREDITS.md",
+      "sha256": "6b6f2a25d4f00ff12769620a85e87f75f3e726d4271f0221e563d87bc8e74bd5",
+      "bytes": 89
+    },
+    {
+      "path": "LICENSE",
+      "name": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    }
+  ]
+}

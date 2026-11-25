@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-ingredient-honey-jar">
+  <!-- Open Kit CC0 original geometry: honey jar ingredient. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-ingredient-honey-jar</title>
+
+  <!-- lid -->
+  <rect x="88" y="56" width="80" height="24" rx="4" fill="#8a6040" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="96" y="44" width="64" height="16" rx="3" fill="#a87848" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- jar body -->
+  <path d="M84 80 L80 200 Q80 220 128 220 Q176 220 176 200 L172 80 Z" fill="#d8ecf4" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- honey fill -->
+  <path d="M88 120 L86 196 Q86 212 128 212 Q170 212 170 196 L168 120 Z" fill="#e8a020" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- honey surface -->
+  <ellipse cx="128" cy="120" rx="40" ry="10" fill="#f0c040" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- drip on lip -->
+  <path d="M160 80 Q168 100 162 118" fill="#e8a020" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

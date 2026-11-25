@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="sprite-milestone">
+  <!-- Open Kit CC0 original geometry: civic: tall stone milestone with direction chevron. Ground-plane reference (untrimmed master): pixel (128,232) top-left origin = normalized (0.5, 0.90625). Transform scales about that point. No fonts/scripts/external refs. -->
+  <title>sprite-milestone</title>
+  <g transform="translate(128 232) scale(0.82) translate(-128 -232)">
+
+  <ellipse cx="128" cy="232" rx="36" ry="10" fill="#5a6068" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M104 232 L108 80 Q108 52 128 48 Q148 52 148 80 L152 232 Z" fill="#8a909a" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="64" rx="26" ry="22" fill="#9aa3b0" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- clear direction chevron pointing RIGHT (carved) -->
+  <path d="M108 108 L148 128 L108 148 Z" fill="#6a7078" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- distance notch -->
+  <rect x="112" y="168" width="32" height="10" rx="2" fill="#6a7078" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>
