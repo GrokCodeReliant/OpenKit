@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-chapel-stall">
+  <!-- Open Kit CC0 original geometry: high-backed timber choir stall with side wings and a seat. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-chapel-stall</title>
+  <g transform="translate(128,128) scale(0.88) translate(-128,-128) translate(0,6)">
+  <path d="M64 188 H100 V224 H64 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M148 188 H184 V224 H148 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M184 188 L200 176 L200 212 L184 224 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M56 148 H188 V188 H56 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M188 148 L212 132 L212 172 L188 188 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M56 148 L80 132 L212 132 L188 148 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M72 140 L92 134 L192 134 L176 140 Z" fill="#c4a07a"/>
+  <path d="M56 28 H168 V156 H56 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M168 28 L188 14 L188 140 L168 156 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M68 44 H152 V132 H68 Z" fill="#c4a07a"/>
+  <path d="M48 20 H176 V48 H48 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M176 20 L204 6 L204 34 L176 48 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M48 20 L76 6 L204 6 L176 20 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M52 100 H84 V156 H52 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M160 92 L188 76 L188 148 L160 156 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M168 100 L184 90 L184 140 L168 148 Z" fill="#7a5a3a"/>
+  </g>
+</svg>

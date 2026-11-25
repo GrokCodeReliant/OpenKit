@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-siege-pavise">
+  <!-- Open Kit CC0 original geometry: standing pavise with a rear prop. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-siege-pavise</title>
+  <path d="M136 88 L210 196 L188 200 L124 96 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M138 100 L194 184 L184 186 L130 104 Z" fill="#c4a07a"/>
+  <path d="M62 52 L114 28 L166 52 L166 204 L62 204 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M78 64 L114 44 L150 64 L150 188 L78 188 Z" fill="#c4a07a"/>
+  <path d="M166 52 L182 64 L182 208 L166 204 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M58 204 H170 V216 H58 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+</svg>

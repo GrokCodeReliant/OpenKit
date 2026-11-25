@@ -1,0 +1,218 @@
+{
+  "pack": "openkit-chapel-furnishings-icons",
+  "family": "chapel-furnishings-icons",
+  "license": "CC0-1.0",
+  "export_resolution_px": 256,
+  "alignment_convention": "inventory icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; INVENTORY.md; HONEST_LOOK.md; MANIFEST.json; SHA256SUMS and VALIDATOR_RESULTS.json sit beside the manifest and are not listed in files[]",
+  "items": [
+    {
+      "id": "icon-chapel-piscina",
+      "kind": "icon",
+      "function": "stone wall face with an arched niche and a pale half-round stone basin on the sill",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-chapel-piscina.svg",
+      "png": "icons/icon-chapel-piscina.png",
+      "sha256_svg": "f54e33e736eb189443d8cbbcf73325d265032e79ea1dd0387c5026e3f0e19cc0",
+      "bytes_svg": 2376,
+      "sha256_png": "94854e6f91c46ebc1f946a68a2832aa17dd9312bc697072730da3204ac0b428a",
+      "bytes_png": 9314
+    },
+    {
+      "id": "icon-chapel-ambry",
+      "kind": "icon",
+      "function": "stone wall face with a small recessed timber cupboard door, iron straps and a hinge",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-chapel-ambry.svg",
+      "png": "icons/icon-chapel-ambry.png",
+      "sha256_svg": "0b583c9fb42837f6dcb7d9f8f91da9a97518c7cf682b3866337a0b0db9658f82",
+      "bytes_svg": 2343,
+      "sha256_png": "1462120ad6fa14c0d793437b1cdec5941787d5d461eecdcae77578827ee5b4b5",
+      "bytes_png": 3768
+    },
+    {
+      "id": "icon-chapel-pulpit",
+      "kind": "icon",
+      "function": "enclosed timber preaching box on a short stair, with a projecting book board",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-chapel-pulpit.svg",
+      "png": "icons/icon-chapel-pulpit.png",
+      "sha256_svg": "ce1a82b0d9c486d4f98ae5511bdca72fadfe0839dcd475d620965d1e25d5d6bc",
+      "bytes_svg": 2959,
+      "sha256_png": "6b985cc186150ea7a3873b8313ba346d28e801a9c0555cfcab499de97f615152",
+      "bytes_png": 4423
+    },
+    {
+      "id": "icon-chapel-stall",
+      "kind": "icon",
+      "function": "single high-backed timber choir stall with side wings and a seat",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-chapel-stall.svg",
+      "png": "icons/icon-chapel-stall.png",
+      "sha256_svg": "2d46d2f19e41cd3b794253161e8688e4c2f5fc47a5694772148e02af83e15c38",
+      "bytes_svg": 2536,
+      "sha256_png": "b014a5476c619d953f48fac19ba904d72b387ce6e8986ee859a578b2d15daa1b",
+      "bytes_png": 4109
+    },
+    {
+      "id": "icon-chapel-prie-dieu",
+      "kind": "icon",
+      "function": "open-front timber kneeler with a low step and a slanted book rest",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-chapel-prie-dieu.svg",
+      "png": "icons/icon-chapel-prie-dieu.png",
+      "sha256_svg": "43988bb809ba97979c69e3810165247da55c314fbadbeb758dd97d0a3ea3c2df",
+      "bytes_svg": 2179,
+      "sha256_png": "edcd190c68ef6a598da4c7388dfc54767cd43592a1045c3ade084f85586ebe7b",
+      "bytes_png": 4167
+    },
+    {
+      "id": "icon-chapel-credence",
+      "kind": "icon",
+      "function": "small timber side table with a lower shelf and two plain lidded bronze cruets",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-chapel-credence.svg",
+      "png": "icons/icon-chapel-credence.png",
+      "sha256_svg": "d8c2052841f13eef54b1e65ac2ddae420acfdda5da1f3644a20d635307279953",
+      "bytes_svg": 3198,
+      "sha256_png": "b1d6dc025438520b38d881236feb1aee7c8d406ed47434c283d894635e943ee5",
+      "bytes_png": 5862
+    },
+    {
+      "id": "icon-chapel-cruets",
+      "kind": "icon",
+      "function": "pair of plain lidded bronze flasks with simple handles, slightly set apart",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-chapel-cruets.svg",
+      "png": "icons/icon-chapel-cruets.png",
+      "sha256_svg": "c34e66bb06369fcb6e5add372bb9c6b1558f4b63c925badc60c19de4d30b70a6",
+      "bytes_svg": 3415,
+      "sha256_png": "ff8d82a93eb2fe9fad8ebb34fdea4f7df385918780671b27294be50cc11e764e",
+      "bytes_png": 5853
+    },
+    {
+      "id": "icon-chapel-sanctus-bell",
+      "kind": "icon",
+      "function": "classic hand bell with a short timber handle and a rounded flared bronze cup",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-chapel-sanctus-bell.svg",
+      "png": "icons/icon-chapel-sanctus-bell.png",
+      "sha256_svg": "c9a1d571cfd48baffc8195634c6a4e41d4e273b1636cd931401687e97f7b228f",
+      "bytes_svg": 2390,
+      "sha256_png": "890d02dabcad469b713af4339df3a33d266a664f444a80ebc7827abf47b9e16c",
+      "bytes_png": 9115
+    }
+  ],
+  "files": [
+    {
+      "path": "CREDITS.md",
+      "sha256": "b086239517fd48f5fcaa2302643f8768a0d636f5bc89cc18e5d7b12416911d5e",
+      "bytes": 78
+    },
+    {
+      "path": "HONEST_LOOK.md",
+      "sha256": "5f86ae00163f8755b6df74f9c0091eec22a2e4467a74128cd15a67fb98b28698",
+      "bytes": 2666
+    },
+    {
+      "path": "INVENTORY.md",
+      "sha256": "3fea7ff0bc5b80d2b7b29cdba144457c86b6b27a84f3ea3d2cbb1874751f2b4b",
+      "bytes": 1234
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    },
+    {
+      "path": "README.md",
+      "sha256": "5ffec2466f5c1de468d3287742d4597733bb705d69059fa8f4a254ccf96fc4f7",
+      "bytes": 2840
+    },
+    {
+      "path": "icons/icon-chapel-ambry.png",
+      "sha256": "1462120ad6fa14c0d793437b1cdec5941787d5d461eecdcae77578827ee5b4b5",
+      "bytes": 3768
+    },
+    {
+      "path": "icons/icon-chapel-ambry.svg",
+      "sha256": "0b583c9fb42837f6dcb7d9f8f91da9a97518c7cf682b3866337a0b0db9658f82",
+      "bytes": 2343
+    },
+    {
+      "path": "icons/icon-chapel-credence.png",
+      "sha256": "b1d6dc025438520b38d881236feb1aee7c8d406ed47434c283d894635e943ee5",
+      "bytes": 5862
+    },
+    {
+      "path": "icons/icon-chapel-credence.svg",
+      "sha256": "d8c2052841f13eef54b1e65ac2ddae420acfdda5da1f3644a20d635307279953",
+      "bytes": 3198
+    },
+    {
+      "path": "icons/icon-chapel-cruets.png",
+      "sha256": "ff8d82a93eb2fe9fad8ebb34fdea4f7df385918780671b27294be50cc11e764e",
+      "bytes": 5853
+    },
+    {
+      "path": "icons/icon-chapel-cruets.svg",
+      "sha256": "c34e66bb06369fcb6e5add372bb9c6b1558f4b63c925badc60c19de4d30b70a6",
+      "bytes": 3415
+    },
+    {
+      "path": "icons/icon-chapel-piscina.png",
+      "sha256": "94854e6f91c46ebc1f946a68a2832aa17dd9312bc697072730da3204ac0b428a",
+      "bytes": 9314
+    },
+    {
+      "path": "icons/icon-chapel-piscina.svg",
+      "sha256": "f54e33e736eb189443d8cbbcf73325d265032e79ea1dd0387c5026e3f0e19cc0",
+      "bytes": 2376
+    },
+    {
+      "path": "icons/icon-chapel-prie-dieu.png",
+      "sha256": "edcd190c68ef6a598da4c7388dfc54767cd43592a1045c3ade084f85586ebe7b",
+      "bytes": 4167
+    },
+    {
+      "path": "icons/icon-chapel-prie-dieu.svg",
+      "sha256": "43988bb809ba97979c69e3810165247da55c314fbadbeb758dd97d0a3ea3c2df",
+      "bytes": 2179
+    },
+    {
+      "path": "icons/icon-chapel-pulpit.png",
+      "sha256": "6b985cc186150ea7a3873b8313ba346d28e801a9c0555cfcab499de97f615152",
+      "bytes": 4423
+    },
+    {
+      "path": "icons/icon-chapel-pulpit.svg",
+      "sha256": "ce1a82b0d9c486d4f98ae5511bdca72fadfe0839dcd475d620965d1e25d5d6bc",
+      "bytes": 2959
+    },
+    {
+      "path": "icons/icon-chapel-sanctus-bell.png",
+      "sha256": "890d02dabcad469b713af4339df3a33d266a664f444a80ebc7827abf47b9e16c",
+      "bytes": 9115
+    },
+    {
+      "path": "icons/icon-chapel-sanctus-bell.svg",
+      "sha256": "c9a1d571cfd48baffc8195634c6a4e41d4e273b1636cd931401687e97f7b228f",
+      "bytes": 2390
+    },
+    {
+      "path": "icons/icon-chapel-stall.png",
+      "sha256": "b014a5476c619d953f48fac19ba904d72b387ce6e8986ee859a578b2d15daa1b",
+      "bytes": 4109
+    },
+    {
+      "path": "icons/icon-chapel-stall.svg",
+      "sha256": "2d46d2f19e41cd3b794253161e8688e4c2f5fc47a5694772148e02af83e15c38",
+      "bytes": 2536
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "sha256": "aff9bb38de95826fa8ee3d36edcade61b58794e933b253b503e6b5a5a504d8bd",
+      "bytes": 80540
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-garden-planter">
+  <!-- Open Kit CC0 original geometry: stone planter box with soil and a rounded shrub. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-garden-planter</title>
+  <path d="M48 148 H176 V208 H48 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M176 148 L216 122 L216 182 L176 208 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M48 148 L88 122 L216 122 L176 148 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M64 144 L96 126 L196 126 L168 144 Z" fill="#c4bfb6"/>
+  <path d="M64 148 L92 130 L200 130 L172 148 Z" fill="#5a3a28" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M80 142 L100 134 L180 134 L164 142 Z" fill="#5a4438"/>
+  <ellipse cx="136" cy="104" rx="40" ry="44" fill="#3a5a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="118" cy="96" rx="16" ry="18" fill="#3a5a38" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="132" cy="96" rx="28" ry="32" fill="#5a7a48" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <ellipse cx="122" cy="86" rx="10" ry="8" fill="#8a9a60" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+</svg>

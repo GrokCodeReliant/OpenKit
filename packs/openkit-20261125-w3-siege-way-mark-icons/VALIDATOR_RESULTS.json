@@ -1,0 +1,386 @@
+{
+ "item_counts": {
+  "PASS": 8,
+  "FAIL": 0,
+  "denominator_items": 8
+ },
+ "atomic_checks": {
+  "per_item": 13,
+  "total": 104,
+  "global": {
+   "unique_png_hashes": true,
+   "unique_svg_hashes": true,
+   "item_count_8": true,
+   "credits_exact_line": true,
+   "manifest_lists_every_asset_and_doc_file": true,
+   "manifest_hashes_and_sizes_match": true
+  }
+ },
+ "results": [
+  {
+   "name": "icon-siege-ballista",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    31,
+    55,
+    232,
+    208
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    131.5,
+    131.5
+   ],
+   "coverage": {
+    "32": 0.239,
+    "48": 0.229,
+    "64": 0.228
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "819296266f87ad0363b3a5ee25039f121dd0b3b5e0700b74641c35c23281bcea",
+   "sha256_png": "fd08e3630a30b23e932c03e1e719a6d9f91064d3df876910bb28d15b5b66cbf1"
+  },
+  {
+   "name": "icon-siege-battering-ram",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    27,
+    77,
+    228,
+    192
+   ],
+   "margin_min": 27,
+   "bbox_centre": [
+    127.5,
+    134.5
+   ],
+   "coverage": {
+    "32": 0.298,
+    "48": 0.286,
+    "64": 0.282
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "71ebbd742266554b749d82740f6a5fc87554636312f3226c7231fd231ecb09a0",
+   "sha256_png": "4f0480afb9d7129efba33e4683a1e556f347d66f5aedd443ab0e535e73e27ae2"
+  },
+  {
+   "name": "icon-siege-bolt-rack",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    35,
+    62,
+    233,
+    215
+   ],
+   "margin_min": 22,
+   "bbox_centre": [
+    134.0,
+    138.5
+   ],
+   "coverage": {
+    "32": 0.414,
+    "48": 0.409,
+    "64": 0.405
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "778791ebce8c36d45bdf8b006e6ca552bad7b96ab474b21d1933fa53d82f8666",
+   "sha256_png": "90c1cac044a7b09ce8511582aca5c353880232c620650de41cbf25f7d93a1d8b"
+  },
+  {
+   "name": "icon-siege-mantlet",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    27,
+    43,
+    221,
+    222
+   ],
+   "margin_min": 27,
+   "bbox_centre": [
+    124.0,
+    132.5
+   ],
+   "coverage": {
+    "32": 0.479,
+    "48": 0.457,
+    "64": 0.468
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "1050857354c5350da4c143365a2381800c323adc440deca9777f5cb529ea5052",
+   "sha256_png": "0efb6d6c9ddb012a07b8ede15f56a2c41077fd19ab89897f12aecef7931dba89"
+  },
+  {
+   "name": "icon-siege-pavise",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    53,
+    23,
+    214,
+    220
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    133.5,
+    121.5
+   ],
+   "coverage": {
+    "32": 0.398,
+    "48": 0.391,
+    "64": 0.387
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "eb4cb6f6d7f025af141b337b3f9875694f7a04abbcca00a7f735170d3b7b13f0",
+   "sha256_png": "cd31a1753db0360fd418310da697dd79449c725c864d67ffd6a91787e234acf5"
+  },
+  {
+   "name": "icon-siege-stone-shot",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    35,
+    55,
+    232,
+    200
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    133.5,
+    127.5
+   ],
+   "coverage": {
+    "32": 0.341,
+    "48": 0.339,
+    "64": 0.334
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "04c440acccaca176607fb32ed5456a2e9c8a4fc2ab028f15a65a290164c6b437",
+   "sha256_png": "9092c5bc9fa16a3a5a5051241b0b38cdd746cb0d900dec88a13c8dca040d41ed"
+  },
+  {
+   "name": "icon-sundial",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    27,
+    59,
+    228,
+    204
+   ],
+   "margin_min": 27,
+   "bbox_centre": [
+    127.5,
+    131.5
+   ],
+   "coverage": {
+    "32": 0.339,
+    "48": 0.336,
+    "64": 0.331
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "47ac92611d1d53364b5ca838a5ee0ff5333e1316eb2d9a597f33f4c13943873b",
+   "sha256_png": "835826620525398a26d10603ab27b17632297d6e23bbb3edc0d9ebbb8563dc8e"
+  },
+  {
+   "name": "icon-waystone",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    53,
+    31,
+    200,
+    220
+   ],
+   "margin_min": 31,
+   "bbox_centre": [
+    126.5,
+    125.5
+   ],
+   "coverage": {
+    "32": 0.385,
+    "48": 0.379,
+    "64": 0.375
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "31367ded47cfe8559455a720fc821654c4ed6259115d9d50580516a8470ed2d5",
+   "sha256_png": "c08ec28183e6b9cd4c6bc93631f8be3055c2e17e6404d8c3d2393948b520519d"
+  }
+ ],
+ "manifest_sha256": "25a2674dfbcb7bc737477125951eaedb786f8f3c9ec57d6dcbd4b83afb319629"
+}

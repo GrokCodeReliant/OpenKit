@@ -1,0 +1,385 @@
+{
+ "item_counts": {
+  "PASS": 8,
+  "FAIL": 0,
+  "denominator_items": 8
+ },
+ "atomic_checks": {
+  "per_item": 13,
+  "total": 104,
+  "global": {
+   "unique_png_hashes": true,
+   "unique_svg_hashes": true,
+   "item_count_8": true,
+   "credits_exact_line": true,
+   "manifest_lists_every_asset_and_doc_file": true,
+   "manifest_hashes_and_sizes_match": true
+  }
+ },
+ "results": [
+  {
+   "name": "icon-garden-birdbath",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    35,
+    59,
+    220,
+    214
+   ],
+   "margin_min": 35,
+   "bbox_centre": [
+    127.5,
+    136.5
+   ],
+   "coverage": {
+    "32": 0.312,
+    "48": 0.305,
+    "64": 0.298
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "7ceb4ce706e38cd6638e491b74bd4dc47c479bf2c9aa6b14a3f2d43bafce98d3",
+   "sha256_png": "d33837fa5bd5da341af02c8d34df0c284107c2dd4e7de35442a1f6e23887b32e"
+  },
+  {
+   "name": "icon-garden-cold-frame",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    35,
+    59,
+    234,
+    202
+   ],
+   "margin_min": 21,
+   "bbox_centre": [
+    134.5,
+    130.5
+   ],
+   "coverage": {
+    "32": 0.415,
+    "48": 0.394,
+    "64": 0.402
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "757a5861f01b260f7ec73fc661087cfe1b7c34aaf5b1d9779781668d22213f15",
+   "sha256_png": "94d28025c662134f4d8249cf349dacb18c7e5e257e1e61f906c20edacedfa897"
+  },
+  {
+   "name": "icon-garden-fountain",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    35,
+    34,
+    220,
+    208
+   ],
+   "margin_min": 34,
+   "bbox_centre": [
+    127.5,
+    121.0
+   ],
+   "coverage": {
+    "32": 0.29,
+    "48": 0.287,
+    "64": 0.289
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "19e64a2569e07ee89988ef0af10f27ec426641912d31255524e950fc5d7cb5e9",
+   "sha256_png": "4d0082a1582174138e123316ab9cf0bac334d3130ec20cdd5b728310a8880136"
+  },
+  {
+   "name": "icon-garden-herb-bed",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    31,
+    76,
+    232,
+    178
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    131.5,
+    127.0
+   ],
+   "coverage": {
+    "32": 0.229,
+    "48": 0.22,
+    "64": 0.216
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "6ad626e99e52b8a2133863f5f987cd5434197813c95019cd8fe4e3ed1c262676",
+   "sha256_png": "d830fa20e6255fc93f795cd52cdbea6ed50fa94298e7651262eb6894913f7cca"
+  },
+  {
+   "name": "icon-garden-lavabo",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    55,
+    40,
+    200,
+    224
+   ],
+   "margin_min": 31,
+   "bbox_centre": [
+    127.5,
+    132.0
+   ],
+   "coverage": {
+    "32": 0.298,
+    "48": 0.295,
+    "64": 0.301
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "d24901621d53faffb33a9567bd6f04dd4b03b12988f41e31e472c3bce3ffd715",
+   "sha256_png": "0d8ef89617cd4e1576c75bf9e89f05c44c4881a519ee3c0c92b9965f62fb9322"
+  },
+  {
+   "name": "icon-garden-planter",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    43,
+    55,
+    220,
+    212
+   ],
+   "margin_min": 35,
+   "bbox_centre": [
+    131.5,
+    133.5
+   ],
+   "coverage": {
+    "32": 0.334,
+    "48": 0.321,
+    "64": 0.325
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "f2d5b83b18b920d9d8969deb0dfaf1b87b8cf72bbc3a041f36ed3d2ed3a95097",
+   "sha256_png": "6b123a350d1ae1fd8c9d2677ab63b1d38c1abfcd572d1632ebd3577383f81552"
+  },
+  {
+   "name": "icon-garden-trellis",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    55,
+    23,
+    200,
+    232
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    127.5,
+    127.5
+   ],
+   "coverage": {
+    "32": 0.372,
+    "48": 0.395,
+    "64": 0.403
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "0cf6206c405849e27b46beb1c608c279fce3e96c76a6a136370d56bec18ed6e5",
+   "sha256_png": "09a876ca632f4cc87af90a88921c60b1420dcf1f36aa598335da1c205d56e330"
+  },
+  {
+   "name": "icon-garden-watering-can",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    35,
+    70,
+    222,
+    187
+   ],
+   "margin_min": 33,
+   "bbox_centre": [
+    128.5,
+    128.5
+   ],
+   "coverage": {
+    "32": 0.233,
+    "48": 0.232,
+    "64": 0.226
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "da985011f54ace8d096c5c69f6c518baac740310e9defb0fb19b34d7e603e941",
+   "sha256_png": "d141ee45460a95e1d0975b3f94aa4619d67737d7b3df55344295462a6fea6e66"
+  }
+ ],
+ "manifest_sha256": "824bd6ae855f13b9e01b51781faecb71f1053240a38956f782af22f83e0126ac"
+}

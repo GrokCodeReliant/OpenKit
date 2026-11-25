@@ -1,0 +1,382 @@
+{
+ "item_counts": {
+  "PASS": 8,
+  "FAIL": 0,
+  "denominator_items": 8
+ },
+ "atomic_checks": {
+  "per_item": 13,
+  "total": 104,
+  "global": {
+   "unique_png_hashes": true,
+   "unique_svg_hashes": true,
+   "item_count_8": true,
+   "credits_exact_line": true,
+   "manifest_lists_every_asset_and_doc_file": true,
+   "manifest_hashes_and_sizes_match": true
+  }
+ },
+ "results": [
+  {
+   "name": "icon-cloister-alms-box",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    67,
+    42,
+    202,
+    232
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    134.5,
+    137.0
+   ],
+   "coverage": {
+    "32": 0.342,
+    "48": 0.339,
+    "64": 0.341
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "5668ccd0301eb168853c9f03fbe3ac4258b0eb9ac13c4655e4ab0c302171a21e",
+   "sha256_png": "39ad58ae2786b26caa90712994b55973619076c5f16c58fd74c5c95f31777e12"
+  },
+  {
+   "name": "icon-cloister-arcade",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    47,
+    33,
+    215,
+    222
+   ],
+   "margin_min": 33,
+   "bbox_centre": [
+    131.0,
+    127.5
+   ],
+   "coverage": {
+    "32": 0.382,
+    "48": 0.387,
+    "64": 0.38
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "7fbb2ad048505e69c00154284286721879701a12c97a328ba22ffc19cd0a9f4d",
+   "sha256_png": "024391abd32d0f1a1a0b66a07f76e7468f50e34f233e2b5006f01c83b6ef6555"
+  },
+  {
+   "name": "icon-cloister-bench",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    35,
+    75,
+    228,
+    208
+   ],
+   "margin_min": 27,
+   "bbox_centre": [
+    131.5,
+    141.5
+   ],
+   "coverage": {
+    "32": 0.341,
+    "48": 0.326,
+    "64": 0.34
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "52e17ae27da8c664131045e31c8bf3ffc999d87693d6df1ae6bd2d60c6d90fee",
+   "sha256_png": "c1bc76939acb57f884f401ea54a1635a731c256031583957b92ac99b3a19598c"
+  },
+  {
+   "name": "icon-cloister-capital",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    55,
+    43,
+    212,
+    224
+   ],
+   "margin_min": 31,
+   "bbox_centre": [
+    133.5,
+    133.5
+   ],
+   "coverage": {
+    "32": 0.321,
+    "48": 0.314,
+    "64": 0.326
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "0078de593284ca69f9d0ea752df11a93adf3eec320e06cdac111106c14dc460f",
+   "sha256_png": "0111eb373e64eec0446c86d95f6e5219aa1d22f52bc6d2c5d9a65289d33358f5"
+  },
+  {
+   "name": "icon-cloister-grille",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    49,
+    34,
+    206,
+    222
+   ],
+   "margin_min": 33,
+   "bbox_centre": [
+    127.5,
+    128.0
+   ],
+   "coverage": {
+    "32": 0.426,
+    "48": 0.421,
+    "64": 0.419
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "b33a1095061c484205cc2c012de7b705179bb8ae5bb73d84969b6b32387e93a8",
+   "sha256_png": "0828b90e743de8654025ee143c412e5ba3d319e807de6b2d8159e81d9af3ea39"
+  },
+  {
+   "name": "icon-cloister-hopper",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    58,
+    31,
+    208,
+    224
+   ],
+   "margin_min": 31,
+   "bbox_centre": [
+    133.0,
+    127.5
+   ],
+   "coverage": {
+    "32": 0.35,
+    "48": 0.342,
+    "64": 0.344
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "efce78c0fa0d9d0cc6aa1767fed197e2a70b7cf64fd102ea93fe8ef924c98d7b",
+   "sha256_png": "b92d7218c9752303570b007b87b771d7980ae9935e6bcbab95c892e21843a026"
+  },
+  {
+   "name": "icon-cloister-lantern",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    67,
+    27,
+    204,
+    232
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    135.5,
+    129.5
+   ],
+   "coverage": {
+    "32": 0.337,
+    "48": 0.326,
+    "64": 0.33
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "0f27177dd124935129afc1fa4e86f237edcb8f4c44ebec72ef02e6b53f81f90e",
+   "sha256_png": "5d6cb2babda970769a5047b6769fd7ce192622a2cd916574e466065b7f3e16df"
+  },
+  {
+   "name": "icon-cloister-trough",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    23,
+    86,
+    232,
+    194
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    127.5,
+    140.0
+   ],
+   "coverage": {
+    "32": 0.337,
+    "48": 0.339,
+    "64": 0.334
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "292a35513c87529444d48761c34a4f3ff0ba96ff44c02ed6b12e426d97338957",
+   "sha256_png": "a981baade0c85b863418aa6cd1b958fcae00ef744170e2e3d613f5bd644c5a96"
+  }
+ ],
+ "manifest_sha256": "12308424f7ee8822b9a12ca5f5412c7917f041e5cef31abe96fcf45dc313cac7"
+}

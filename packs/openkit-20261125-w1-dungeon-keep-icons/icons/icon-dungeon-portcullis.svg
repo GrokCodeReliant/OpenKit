@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-portcullis">
+  <!-- Open Kit CC0 original geometry: closed iron portcullis in a short stone arch. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-portcullis</title>
+  <path d="M94 92 H102 V188 L98 204 L94 188 Z" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M108 92 H116 V188 L112 204 L108 188 Z" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M122 92 H130 V188 L126 204 L122 188 Z" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M136 92 H144 V188 L140 204 L136 188 Z" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M150 92 H158 V188 L154 204 L150 188 Z" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M164 92 H172 V188 L168 204 L164 188 Z" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M90 110 H170 V122 H90 Z" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M90 142 H170 V154 H90 Z" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M90 174 H170 V186 H90 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M44 82 H92 V212 H44 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M52 92 H84 V202 H52 Z" fill="#c4bfb6"/>
+  <path d="M164 82 H212 V212 H164 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M172 92 H204 V202 H172 Z" fill="#c4bfb6"/>
+  <path d="M44 40 H212 V104 H164 Q128 58 92 104 H44 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M56 50 H200 V90 H158 Q128 64 98 90 H56 Z" fill="#c4bfb6"/>
+  <path d="M96 50 V88 M160 50 V88" fill="none" stroke="#6a6560" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M84 92 H92 V202 H84 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M164 92 H172 V202 H164 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M92 202 H164 V216 H92 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+</svg>

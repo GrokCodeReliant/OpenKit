@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-waystone">
+  <!-- Open Kit CC0 original geometry: rough-hewn waystone with an incised ring. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-waystone</title>
+  <path d="M70 72 L100 36 L132 52 L176 44 L196 88 L180 212 L64 216 L58 110 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M176 44 L196 88 L188 208 L180 212 L168 64 Z" fill="#5a5650" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M82 84 L108 52 L132 64 L168 56 L176 196 L80 200 L72 114 Z" fill="#c4bfb6"/>
+  <circle cx="122" cy="118" r="26" fill="#c4bfb6" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-chapel-prie-dieu">
+  <!-- Open Kit CC0 original geometry: open-front timber kneeler with a slanted book rest. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-chapel-prie-dieu</title>
+  <g transform="translate(128,128) scale(0.92) translate(-128,-128) translate(0,-4)">
+  <path d="M48 176 H200 V224 H48 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M200 176 L224 160 L224 208 L200 224 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M48 176 L72 160 L224 160 L200 176 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M64 170 L84 162 L208 162 L192 170 Z" fill="#c4a07a"/>
+  <path d="M72 64 H100 V176 H72 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M100 64 L112 54 L112 164 L100 176 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M80 76 H92 V164 H80 Z" fill="#c4a07a"/>
+  <path d="M148 64 H176 V176 H148 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M176 64 L188 54 L188 164 L176 176 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M156 76 H168 V164 H156 Z" fill="#c4a07a"/>
+  <path d="M56 72 L84 40 H196 L168 72 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M196 40 L220 28 L192 60 L168 72 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M84 40 L108 28 L220 28 L196 40 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M96 48 L116 38 L200 38 L180 48 Z" fill="#c4a07a"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-sluice">
+  <!-- Open Kit CC0 original geometry: drainage sluice with a raised iron plate. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-sluice</title>
+  <path d="M48 176 H208 V224 H48 Z" fill="#2a3a48" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M60 186 H196 V214 H60 Z" fill="#3a5060"/>
+  <path d="M44 40 H84 V200 H44 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M172 40 H212 V200 H172 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M52 50 H76 V188 H52 Z" fill="#8a5a34"/>
+  <path d="M180 50 H204 V188 H204 50 H180 Z" fill="#8a5a34"/>
+  <path d="M36 36 H220 V72 H36 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M48 44 H208 V64 H48 Z" fill="#8a5a34"/>
+  <path d="M80 72 H176 V168 H80 Z" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M92 84 H164 V156 H92 Z" fill="#8a9098"/>
+  <path d="M112 52 H144 V84 H112 Z" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="128" cy="48" r="12" fill="#8a9098" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+</svg>

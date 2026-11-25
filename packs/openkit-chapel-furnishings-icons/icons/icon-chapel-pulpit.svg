@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-chapel-pulpit">
+  <!-- Open Kit CC0 original geometry: enclosed timber pulpit on a short stair, with a projecting book board. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-chapel-pulpit</title>
+  <g transform="translate(128,128) scale(0.9) translate(-128,-128) translate(-6,-6)">
+  <path d="M68 148 H92 V224 H68 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M92 148 L104 138 L104 214 L92 224 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M140 148 H164 V224 H140 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M164 148 L176 138 L176 214 L164 224 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M164 196 H232 V224 H164 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M184 168 H232 V196 H184 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M204 140 H232 V168 H204 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M192 176 L224 176 L224 188 L192 188 Z" fill="#c4a07a"/>
+  <path d="M212 148 L224 148 L224 160 L212 160 Z" fill="#c4a07a"/>
+  <path d="M172 204 L224 204 L224 216 L172 216 Z" fill="#c4a07a"/>
+  <path d="M56 80 H176 V156 H56 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M176 80 L200 64 L200 140 L176 156 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M68 92 H164 V144 H68 Z" fill="#c4a07a"/>
+  <path d="M52 68 H180 V92 H52 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M180 68 L204 52 L204 76 L180 92 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M52 68 L76 52 L204 52 L180 68 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M40 76 L68 52 H152 L124 76 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M152 52 L172 40 L144 64 L124 76 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M68 52 L88 40 L172 40 L152 52 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M80 58 L100 48 L156 48 L136 58 Z" fill="#c4a07a"/>
+  </g>
+</svg>

@@ -1,0 +1,384 @@
+{
+ "item_counts": {
+  "PASS": 8,
+  "FAIL": 0,
+  "denominator_items": 8
+ },
+ "atomic_checks": {
+  "per_item": 13,
+  "total": 104,
+  "global": {
+   "unique_png_hashes": true,
+   "unique_svg_hashes": true,
+   "item_count_8": true,
+   "credits_exact_line": true,
+   "manifest_lists_every_asset_and_doc_file": true,
+   "manifest_hashes_and_sizes_match": true
+  }
+ },
+ "results": [
+  {
+   "name": "icon-chapel-ambry",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    47,
+    19,
+    208,
+    226
+   ],
+   "margin_min": 19,
+   "bbox_centre": [
+    127.5,
+    122.5
+   ],
+   "coverage": {
+    "32": 0.484,
+    "48": 0.47,
+    "64": 0.47
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "0b583c9fb42837f6dcb7d9f8f91da9a97518c7cf682b3866337a0b0db9658f82",
+   "sha256_png": "1462120ad6fa14c0d793437b1cdec5941787d5d461eecdcae77578827ee5b4b5"
+  },
+  {
+   "name": "icon-chapel-credence",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    42,
+    31,
+    224,
+    215
+   ],
+   "margin_min": 31,
+   "bbox_centre": [
+    133.0,
+    123.0
+   ],
+   "coverage": {
+    "32": 0.364,
+    "48": 0.362,
+    "64": 0.36
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "d8c2052841f13eef54b1e65ac2ddae420acfdda5da1f3644a20d635307279953",
+   "sha256_png": "b1d6dc025438520b38d881236feb1aee7c8d406ed47434c283d894635e943ee5"
+  },
+  {
+   "name": "icon-chapel-cruets",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    38,
+    25,
+    232,
+    199
+   ],
+   "margin_min": 23,
+   "bbox_centre": [
+    135.0,
+    112.0
+   ],
+   "coverage": {
+    "32": 0.421,
+    "48": 0.421,
+    "64": 0.413
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "c34e66bb06369fcb6e5add372bb9c6b1558f4b63c925badc60c19de4d30b70a6",
+   "sha256_png": "ff8d82a93eb2fe9fad8ebb34fdea4f7df385918780671b27294be50cc11e764e"
+  },
+  {
+   "name": "icon-chapel-piscina",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    47,
+    19,
+    208,
+    226
+   ],
+   "margin_min": 19,
+   "bbox_centre": [
+    127.5,
+    122.5
+   ],
+   "coverage": {
+    "32": 0.484,
+    "48": 0.47,
+    "64": 0.47
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "f54e33e736eb189443d8cbbcf73325d265032e79ea1dd0387c5026e3f0e19cc0",
+   "sha256_png": "94854e6f91c46ebc1f946a68a2832aa17dd9312bc697072730da3204ac0b428a"
+  },
+  {
+   "name": "icon-chapel-prie-dieu",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    49,
+    27,
+    220,
+    217
+   ],
+   "margin_min": 27,
+   "bbox_centre": [
+    134.5,
+    122.0
+   ],
+   "coverage": {
+    "32": 0.395,
+    "48": 0.385,
+    "64": 0.383
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "43988bb809ba97979c69e3810165247da55c314fbadbeb758dd97d0a3ea3c2df",
+   "sha256_png": "edcd190c68ef6a598da4c7388dfc54767cd43592a1045c3ade084f85586ebe7b"
+  },
+  {
+   "name": "icon-chapel-pulpit",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    38,
+    38,
+    220,
+    213
+   ],
+   "margin_min": 35,
+   "bbox_centre": [
+    129.0,
+    125.5
+   ],
+   "coverage": {
+    "32": 0.387,
+    "48": 0.379,
+    "64": 0.381
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "ce1a82b0d9c486d4f98ae5511bdca72fadfe0839dcd475d620965d1e25d5d6bc",
+   "sha256_png": "6b985cc186150ea7a3873b8313ba346d28e801a9c0555cfcab499de97f615152"
+  },
+  {
+   "name": "icon-chapel-sanctus-bell",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    53,
+    28,
+    202,
+    220
+   ],
+   "margin_min": 28,
+   "bbox_centre": [
+    127.5,
+    124.0
+   ],
+   "coverage": {
+    "32": 0.264,
+    "48": 0.26,
+    "64": 0.253
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "c9a1d571cfd48baffc8195634c6a4e41d4e273b1636cd931401687e97f7b228f",
+   "sha256_png": "890d02dabcad469b713af4339df3a33d266a664f444a80ebc7827abf47b9e16c"
+  },
+  {
+   "name": "icon-chapel-stall",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    53,
+    21,
+    206,
+    222
+   ],
+   "margin_min": 21,
+   "bbox_centre": [
+    129.5,
+    121.5
+   ],
+   "coverage": {
+    "32": 0.425,
+    "48": 0.411,
+    "64": 0.409
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "2d46d2f19e41cd3b794253161e8688e4c2f5fc47a5694772148e02af83e15c38",
+   "sha256_png": "b014a5476c619d953f48fac19ba904d72b387ce6e8986ee859a578b2d15daa1b"
+  }
+ ],
+ "manifest_sha256": "0ff10c28be544a8efdec4fd35a5f1120492af2bc8f13e4da106eddad9de5d249"
+}

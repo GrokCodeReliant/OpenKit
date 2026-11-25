@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-stable-peg-rail">
+  <!-- Open Kit CC0 original geometry: wall-mounted timber board with five pegs angled up and a rope loop on one peg. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-stable-peg-rail</title>
+  <g transform="translate(128,128) scale(0.9) translate(-128,-128) translate(0,6)">
+  <path d="M24 100 H196 V140 H24 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M196 100 L226 82 L226 122 L196 140 Z" fill="#5a4438" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M24 100 L54 82 L226 82 L196 100 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M40 96 L68 88 L214 88 L186 96 Z" fill="#c4a07a"/>
+  <path d="M28 96 H48 V144 H28 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M188 96 L210 82 L210 126 L188 144 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M56 128 L74 100 L88 106 L68 136 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="82" cy="100" rx="12" ry="9" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M90 126 L108 98 L122 104 L102 134 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="116" cy="98" rx="12" ry="9" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M124 124 L142 96 L156 102 L136 132 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="150" cy="96" rx="12" ry="9" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M158 122 L176 94 L190 100 L170 130 Z" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="184" cy="94" rx="12" ry="9" fill="#c4a07a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M192 118 L208 90 L220 96 L204 124 Z" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="214" cy="90" rx="11" ry="8" fill="#7a5a3a" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M116 108 Q100 140 118 164 Q138 140 122 108" fill="none" stroke="#6a5040" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>

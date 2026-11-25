@@ -1,0 +1,387 @@
+{
+ "item_counts": {
+  "PASS": 8,
+  "FAIL": 0,
+  "denominator_items": 8
+ },
+ "atomic_checks": {
+  "per_item": 13,
+  "total": 104,
+  "global": {
+   "unique_png_hashes": true,
+   "unique_svg_hashes": true,
+   "item_count_8": true,
+   "credits_exact_line": true,
+   "manifest_lists_every_file_except_itself": true,
+   "manifest_hashes_and_sizes_match": true
+  }
+ },
+ "results": [
+  {
+   "name": "icon-dungeon-arrow-slit",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    43,
+    27,
+    212,
+    228
+   ],
+   "margin_min": 27,
+   "bbox_centre": [
+    127.5,
+    127.5
+   ],
+   "coverage": {
+    "32": 0.559,
+    "48": 0.528,
+    "64": 0.555
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "f8bdcd0a8d6d24e2ca995f65567771381b40cd24c891ff1702d4696ed7bbc254",
+   "sha256_png": "133a549c5a12ce2e5cbb0e0d438146b756ace7486a224eddcf6bb65be863119a"
+  },
+  {
+   "name": "icon-dungeon-cresset",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    54,
+    36,
+    201,
+    231
+   ],
+   "margin_min": 24,
+   "bbox_centre": [
+    127.5,
+    133.5
+   ],
+   "coverage": {
+    "32": 0.23,
+    "48": 0.226,
+    "64": 0.215
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "000405f705286a7d7f6cd0ee1fae2a8506a4e9dcc0d649f2936fbf814e439df1",
+   "sha256_png": "89d60471c8999df734e285a9f416900112739512610b48aff8089f5359eeb407"
+  },
+  {
+   "name": "icon-dungeon-grappling-hook",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    24,
+    36,
+    223,
+    202
+   ],
+   "margin_min": 24,
+   "bbox_centre": [
+    123.5,
+    119.0
+   ],
+   "coverage": {
+    "32": 0.2,
+    "48": 0.186,
+    "64": 0.185
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "e31cfd557fdc7d05920f840f731e39b08ce83243fe787452e654d416a2afaee0",
+   "sha256_png": "988446a32cec2409ec8eb31ac9e31d094043560849c1457707882c9bda0def24"
+  },
+  {
+   "name": "icon-dungeon-key-ring",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    50,
+    30,
+    218,
+    203
+   ],
+   "margin_min": 30,
+   "bbox_centre": [
+    134.0,
+    116.5
+   ],
+   "coverage": {
+    "32": 0.24,
+    "48": 0.238,
+    "64": 0.236
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "32cee528b5f25c7a26c71bfc68060e7fc8954692df5d83633fa60a51e8c986f4",
+   "sha256_png": "115279e6dafadc0e21eb150d349e340b46ae3a79e1c1df1bc1357012a147792f"
+  },
+  {
+   "name": "icon-dungeon-manacles",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    35,
+    76,
+    220,
+    185
+   ],
+   "margin_min": 35,
+   "bbox_centre": [
+    127.5,
+    130.5
+   ],
+   "coverage": {
+    "32": 0.186,
+    "48": 0.181,
+    "64": 0.174
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "4a3a604dd0f009a8e356df55e9ece109e44e662f7d80c3bbb0d6592009fa33a5",
+   "sha256_png": "87db94c6582e2faf3161cd547d01f6913890f6bf3f868e0d27fcd0c2628df21b"
+  },
+  {
+   "name": "icon-dungeon-murder-hole",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    19,
+    43,
+    236,
+    212
+   ],
+   "margin_min": 19,
+   "bbox_centre": [
+    127.5,
+    127.5
+   ],
+   "coverage": {
+    "32": 0.502,
+    "48": 0.482,
+    "64": 0.493
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "f964328184697bf1fe7fe509721da6d46fa21e718c8eca47437b05591371e3ba",
+   "sha256_png": "fbb2a945e5016b3a69612a38c30341b525bb41dcbf610c21cb5571f55c959964"
+  },
+  {
+   "name": "icon-dungeon-piton",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    55,
+    51,
+    218,
+    204
+   ],
+   "margin_min": 37,
+   "bbox_centre": [
+    136.5,
+    127.5
+   ],
+   "coverage": {
+    "32": 0.113,
+    "48": 0.109,
+    "64": 0.105
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "144d2e04b47d9304f723010a744ea433dc40618085cd50028c3ba873bd5d3bd2",
+   "sha256_png": "c7a6fb5fab2c4f4f7c818421101e728a76b3b9442e6ecc2585952434922dfead"
+  },
+  {
+   "name": "icon-dungeon-portcullis",
+   "status": "PASS",
+   "issues": [],
+   "checks": {
+    "svg_viewbox_0_0_256_256": true,
+    "svg_xmlns": true,
+    "svg_no_script_font_external": true,
+    "svg_dark_outline_1c161e": true,
+    "kebab_name": true,
+    "png_256x256": true,
+    "png_rgba": true,
+    "png_transparent_corners": true,
+    "png_margin_ge_16": true,
+    "png_coverage48_0.08_to_0.60": true,
+    "svg_rerender_matches_png_maxdiff_le_2": true,
+    "png_no_text_or_exif_chunks": true,
+    "visual_centre_within_24px": true
+   },
+   "bbox": [
+    39,
+    35,
+    216,
+    219
+   ],
+   "margin_min": 35,
+   "bbox_centre": [
+    127.5,
+    127.0
+   ],
+   "coverage": {
+    "32": 0.504,
+    "48": 0.521,
+    "64": 0.524
+   },
+   "rerender_maxdiff": 0,
+   "png_chunks": [
+    "IHDR",
+    "bKGD",
+    "IDAT",
+    "IEND"
+   ],
+   "sha256_svg": "0eb1b9a309dcf8de95399305d38f56f179372a0249dd0d2cc156ffdc06d61d92",
+   "sha256_png": "17a38b614af5fb5383f72692be64c767bca3e8fadf7c7226467ed6ddafcd451d"
+  }
+ ],
+ "manifest_sha256": "f52c455254407d6ed1ffaa0ae27b34098e7690a0fe95e74f37926018f5686a96"
+}

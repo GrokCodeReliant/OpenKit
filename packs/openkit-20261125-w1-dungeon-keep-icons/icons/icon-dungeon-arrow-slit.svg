@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-arrow-slit">
+  <!-- Open Kit CC0 original geometry: stone wall face with a tall narrow arrow slit. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-arrow-slit</title>
+  <path d="M48 32 H208 V224 H48 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M60 44 H196 V212 H60 Z" fill="#c4bfb6"/>
+  <path d="M60 80 H116 M140 80 H196 M60 128 H116 M140 128 H196 M60 176 H116 M140 176 H196" fill="none" stroke="#6a6560" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M100 44 V68 M156 44 V68 M100 188 V212 M156 188 V212" fill="none" stroke="#6a6560" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M118 48 L124 58 L124 198 L118 208 L112 198 L112 58 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M138 48 L144 58 L144 198 L138 208 L132 198 L132 58 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M122 52 H134 V204 H122 Z" fill="#1a1410" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+</svg>

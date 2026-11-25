@@ -1,0 +1,218 @@
+{
+  "pack": "openkit-20261125-w2-crypt-undercroft-icons",
+  "family": "crypt-undercroft-icons",
+  "license": "CC0-1.0",
+  "export_resolution_px": 256,
+  "alignment_convention": "inventory icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; INVENTORY.md; HONEST_LOOK.md; MANIFEST.json; SHA256SUMS and VALIDATOR_RESULTS.json sit beside the manifest and are not listed in files[]",
+  "items": [
+    {
+      "id": "icon-dungeon-cistern",
+      "kind": "icon",
+      "function": "short masonry water cistern with an iron band",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-cistern.svg",
+      "png": "icons/icon-dungeon-cistern.png",
+      "sha256_svg": "11b4187f7b6cb74f53cc34004e2f5746170bcddf9b60bbb361766cbe079bc4ca",
+      "sha256_png": "1fb0f2fb2098c6ebfe20a1ad07621550c25c94ec6732e5d5e4ee9810649cc6c6",
+      "bytes_svg": 1640,
+      "bytes_png": 10131
+    },
+    {
+      "id": "icon-dungeon-wall-fountain",
+      "kind": "icon",
+      "function": "wall fountain with a spout and projecting basin",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-wall-fountain.svg",
+      "png": "icons/icon-dungeon-wall-fountain.png",
+      "sha256_svg": "267f9c8dd4f9aca47749325844cefda154c173919ee4a3fa432c08fd492865a5",
+      "sha256_png": "c6459b42426d065cecfead0b4025580916bb2ecf72916c1b40d1fb9379525e52",
+      "bytes_svg": 1689,
+      "bytes_png": 5055
+    },
+    {
+      "id": "icon-dungeon-urn",
+      "kind": "icon",
+      "function": "lidded burial urn on a short plinth",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-urn.svg",
+      "png": "icons/icon-dungeon-urn.png",
+      "sha256_svg": "38e649ae1911aaa53a9fc1c898c403b0bb6e7d3badc5f9b94e6adb1d0f8bfdbd",
+      "sha256_png": "086ba2f861674f929dc5e3ec7cf60be07f0f98ae7c2d111a6f6e1d2f40a2a03e",
+      "bytes_svg": 1409,
+      "bytes_png": 5367
+    },
+    {
+      "id": "icon-dungeon-ossuary-cist",
+      "kind": "icon",
+      "function": "closed stone ossuary cist with iron straps",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-ossuary-cist.svg",
+      "png": "icons/icon-dungeon-ossuary-cist.png",
+      "sha256_svg": "08be965577aeef4401371aa19dba1167be7d685d42b5c8022be9cc1d6770d9c5",
+      "sha256_png": "b8f0d8e532ecc519599e01eb517a27cd9a7c7c78022b9c0dbe0df285b5dbd7cc",
+      "bytes_svg": 1447,
+      "bytes_png": 1346
+    },
+    {
+      "id": "icon-dungeon-memorial-slab",
+      "kind": "icon",
+      "function": "memorial floor slab with an incised eight-petal rosette",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-memorial-slab.svg",
+      "png": "icons/icon-dungeon-memorial-slab.png",
+      "sha256_svg": "16196fe4ffacb8a3ba2d790e07864b4b0424c1c721d5db7c9bbe81dd239d9c60",
+      "sha256_png": "83a20d558f75dffe4053682b99b6a75471c14f788642e2b0bb7b356025154682",
+      "bytes_svg": 3417,
+      "bytes_png": 11191
+    },
+    {
+      "id": "icon-dungeon-secret-door",
+      "kind": "icon",
+      "function": "hidden door in a stone wall with a ring pull",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-secret-door.svg",
+      "png": "icons/icon-dungeon-secret-door.png",
+      "sha256_svg": "1dfdf8cefc4b341760181e50cf1718f5a56c06f5cfb462ada7885ba867bc146f",
+      "sha256_png": "fd48106aa09f5e02c3d640ff595e0f4fc1d5f3109ac6a892cd96ebf4faa33184",
+      "bytes_svg": 1672,
+      "bytes_png": 3141
+    },
+    {
+      "id": "icon-dungeon-sluice",
+      "kind": "icon",
+      "function": "drainage sluice with a raised iron plate",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-sluice.svg",
+      "png": "icons/icon-dungeon-sluice.png",
+      "sha256_svg": "22caa726bbe05c6a219c47e7b80ac641fe96f29b9c85208dd1c904d46e627e0e",
+      "sha256_png": "e8d43cad167e5c8527248a03233fd51c234711d7876b4932115ef570b3cb84d4",
+      "bytes_svg": 1622,
+      "bytes_png": 2601
+    },
+    {
+      "id": "icon-dungeon-spiral-stair",
+      "kind": "icon",
+      "function": "spiral stair around a stone newel",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-dungeon-spiral-stair.svg",
+      "png": "icons/icon-dungeon-spiral-stair.png",
+      "sha256_svg": "21814b8fcac4c898f0628ffc173acd1f987b00cabe2d89da68c203fb652f11f2",
+      "sha256_png": "fbae60454b5bb6500d444cbb068493449a1fd2b4ce251f9f5da4fed14ae9212a",
+      "bytes_svg": 9437,
+      "bytes_png": 21229
+    }
+  ],
+  "files": [
+    {
+      "path": "CREDITS.md",
+      "bytes": 78,
+      "sha256": "b086239517fd48f5fcaa2302643f8768a0d636f5bc89cc18e5d7b12416911d5e"
+    },
+    {
+      "path": "HONEST_LOOK.md",
+      "bytes": 1563,
+      "sha256": "5ee5e1ccdaef12dcba7c4406b4a70b1a9edd698ded92a8b277c701fd434641bf"
+    },
+    {
+      "path": "INVENTORY.md",
+      "bytes": 1331,
+      "sha256": "a0cfb52c3c5c864006cc45b55f73c4af33ba7c9f705b4afa0ac42d89b612e620"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 7048,
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2712,
+      "sha256": "10ff136c119f79ac063e4dbeb24f41fb62382697a5579441ec4faff299c5ab44"
+    },
+    {
+      "path": "icons/icon-dungeon-cistern.png",
+      "bytes": 10131,
+      "sha256": "1fb0f2fb2098c6ebfe20a1ad07621550c25c94ec6732e5d5e4ee9810649cc6c6"
+    },
+    {
+      "path": "icons/icon-dungeon-cistern.svg",
+      "bytes": 1640,
+      "sha256": "11b4187f7b6cb74f53cc34004e2f5746170bcddf9b60bbb361766cbe079bc4ca"
+    },
+    {
+      "path": "icons/icon-dungeon-memorial-slab.png",
+      "bytes": 11191,
+      "sha256": "83a20d558f75dffe4053682b99b6a75471c14f788642e2b0bb7b356025154682"
+    },
+    {
+      "path": "icons/icon-dungeon-memorial-slab.svg",
+      "bytes": 3417,
+      "sha256": "16196fe4ffacb8a3ba2d790e07864b4b0424c1c721d5db7c9bbe81dd239d9c60"
+    },
+    {
+      "path": "icons/icon-dungeon-ossuary-cist.png",
+      "bytes": 1346,
+      "sha256": "b8f0d8e532ecc519599e01eb517a27cd9a7c7c78022b9c0dbe0df285b5dbd7cc"
+    },
+    {
+      "path": "icons/icon-dungeon-ossuary-cist.svg",
+      "bytes": 1447,
+      "sha256": "08be965577aeef4401371aa19dba1167be7d685d42b5c8022be9cc1d6770d9c5"
+    },
+    {
+      "path": "icons/icon-dungeon-secret-door.png",
+      "bytes": 3141,
+      "sha256": "fd48106aa09f5e02c3d640ff595e0f4fc1d5f3109ac6a892cd96ebf4faa33184"
+    },
+    {
+      "path": "icons/icon-dungeon-secret-door.svg",
+      "bytes": 1672,
+      "sha256": "1dfdf8cefc4b341760181e50cf1718f5a56c06f5cfb462ada7885ba867bc146f"
+    },
+    {
+      "path": "icons/icon-dungeon-sluice.png",
+      "bytes": 2601,
+      "sha256": "e8d43cad167e5c8527248a03233fd51c234711d7876b4932115ef570b3cb84d4"
+    },
+    {
+      "path": "icons/icon-dungeon-sluice.svg",
+      "bytes": 1622,
+      "sha256": "22caa726bbe05c6a219c47e7b80ac641fe96f29b9c85208dd1c904d46e627e0e"
+    },
+    {
+      "path": "icons/icon-dungeon-spiral-stair.png",
+      "bytes": 21229,
+      "sha256": "fbae60454b5bb6500d444cbb068493449a1fd2b4ce251f9f5da4fed14ae9212a"
+    },
+    {
+      "path": "icons/icon-dungeon-spiral-stair.svg",
+      "bytes": 9437,
+      "sha256": "21814b8fcac4c898f0628ffc173acd1f987b00cabe2d89da68c203fb652f11f2"
+    },
+    {
+      "path": "icons/icon-dungeon-urn.png",
+      "bytes": 5367,
+      "sha256": "086ba2f861674f929dc5e3ec7cf60be07f0f98ae7c2d111a6f6e1d2f40a2a03e"
+    },
+    {
+      "path": "icons/icon-dungeon-urn.svg",
+      "bytes": 1409,
+      "sha256": "38e649ae1911aaa53a9fc1c898c403b0bb6e7d3badc5f9b94e6adb1d0f8bfdbd"
+    },
+    {
+      "path": "icons/icon-dungeon-wall-fountain.png",
+      "bytes": 5055,
+      "sha256": "c6459b42426d065cecfead0b4025580916bb2ecf72916c1b40d1fb9379525e52"
+    },
+    {
+      "path": "icons/icon-dungeon-wall-fountain.svg",
+      "bytes": 1689,
+      "sha256": "267f9c8dd4f9aca47749325844cefda154c173919ee4a3fa432c08fd492865a5"
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "bytes": 118596,
+      "sha256": "1de5d1b9d1a165dc86eb0c3ad01c749c2215a7262f6c18cc891dad02a6879561"
+    }
+  ]
+}

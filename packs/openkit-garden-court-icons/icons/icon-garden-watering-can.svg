@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-garden-watering-can">
+  <!-- Open Kit CC0 original geometry: metal watering can with a handle and a rose spout. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-garden-watering-can</title>
+  <g transform="translate(128,128) scale(0.92) translate(-128,-128) translate(-10,-12)">
+  <path d="M42 100 L42 176 L68 176 L68 158 L60 158 L60 118 L68 118 L68 100 Z" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M48 108 H54 V150 H48 Z" fill="#8a9098"/>
+  <ellipse cx="118" cy="110" rx="46" ry="22" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M72 110 H164 V178 H72 Z" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="118" cy="178" rx="46" ry="22" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M80 118 H132 V164 H80 Z" fill="#8a9098"/>
+  <ellipse cx="96" cy="122" rx="10" ry="8" fill="#d8dde2" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <ellipse cx="118" cy="96" rx="30" ry="14" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <ellipse cx="118" cy="96" rx="20" ry="8" fill="#5a6068" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M154 128 L208 104 L220 122 L170 152 Z" fill="#7a8088" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M164 130 L206 110 L212 118 L172 140 Z" fill="#8a9098"/>
+  <ellipse cx="216" cy="118" rx="20" ry="18" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <circle cx="216" cy="118" r="3" fill="#1c161e" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="208" cy="114" r="2.5" fill="#1c161e" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="224" cy="114" r="2.5" fill="#1c161e" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  <circle cx="216" cy="126" r="2.5" fill="#1c161e" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="0"/>
+  </g>
+</svg>

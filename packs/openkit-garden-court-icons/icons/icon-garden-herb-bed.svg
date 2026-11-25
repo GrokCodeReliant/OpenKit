@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-garden-herb-bed">
+  <!-- Open Kit CC0 original geometry: low bordered herb bed with several small plants. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-garden-herb-bed</title>
+  <g transform="translate(0,-14)">
+  <path d="M36 160 H176 V188 H36 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M176 160 L228 128 L228 156 L176 188 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M36 160 L88 128 L228 128 L176 160 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M52 156 L96 134 L212 134 L172 156 Z" fill="#c4bfb6"/>
+  <path d="M52 160 L92 136 L212 136 L172 160 Z" fill="#5a3a28" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="80" cy="148" rx="18" ry="16" fill="#8a9a60" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="122" cy="152" rx="20" ry="16" fill="#8a9a60" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="166" cy="146" rx="18" ry="15" fill="#5a7a48" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="102" cy="128" rx="14" ry="12" fill="#5a7a48" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <ellipse cx="188" cy="126" rx="15" ry="12" fill="#8a9a60" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M140 140 L140 100 Q146 88 152 100 L152 140 Z" fill="#8a9a60" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  </g>
+</svg>

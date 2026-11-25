@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-dungeon-ossuary-cist">
+  <!-- Open Kit CC0 original geometry: closed stone ossuary cist with iron straps. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-dungeon-ossuary-cist</title>
+  <path d="M36 116 H220 V196 H36 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M48 128 H208 V184 H48 Z" fill="#c4bfb6"/>
+  <path d="M28 76 H228 V124 H28 Z" fill="#8a8480" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M40 86 H216 V114 H40 Z" fill="#c4bfb6"/>
+  <path d="M36 132 H220 V152 H36 Z" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M36 168 H220 V188 H36 Z" fill="#6a7078" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M48 138 H208 V146 H48 Z" fill="#8a9098"/>
+  <path d="M48 174 H208 V182 H48 Z" fill="#8a9098"/>
+  <path d="M44 188 H84 V216 H44 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M172 188 H212 V216 H172 Z" fill="#6a6560" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+</svg>
