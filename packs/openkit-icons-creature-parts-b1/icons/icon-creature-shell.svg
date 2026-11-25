@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-creature-shell">
+  <!-- Open Kit CC0 original geometry: spiral sea shell. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-creature-shell</title>
+  <path d="M150 56 Q218 76 218 138 Q216 196 152 212 Q194 172 194 134 Q192 92 150 56 Z" fill="#f8dcc4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <circle cx="120" cy="132" r="84" fill="#f2b88e" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M94 147 L52.5 171" fill="none" stroke="#d98a62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M91 124.2 L44.7 111.8" fill="none" stroke="#d98a62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M105 106 L81 64.5" fill="none" stroke="#d98a62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M127.8 103 L140.2 56.7" fill="none" stroke="#d98a62" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M120 56 L137.1 60.8 L152 69.2 L164.1 80.4 L172.9 93.6 L178.2 107.9 L179.9 122.5 L178.3 136.6 L173.5 149.4 L166.2 160.3 L156.9 168.9 L146.3 174.9 L135 178.1 L123.7 178.5 L113 176.4 L103.4 172 L95.5 165.7 L89.5 158.1 L85.5 149.6 L83.8 140.7 L84.1 132 L86.4 123.9 L90.3 116.9 L95.6 111.2 L101.8 107 L108.6 104.5 L115.5 103.7 L122.2 104.5 L128.2 106.7 L133.4 110.2 L137.4 114.6 L140.2 119.6 L141.8 124.9 L142 130.3 L141 135.3 L138.9 139.8 L135.9 143.6 L132.3 146.4 L128.3 148.3 L124.1 149.1 L120 148.9 L116.2 147.9 L112.9 146 L110.2 143.5 L108.2 140.6 L107 137.4 L106.6 134.1 L107 131 L108.1 128.1 L109.7 125.7 L111.8 123.8 L114.1 122.4 L116.7 121.7 L119.2 121.6 L121.6 122.1 L123.7 123.1 L125.5 124.5 L126.8 126.2 L127.7 128.1 L128.1 130.1 L128 132" fill="none" stroke="#1c161e" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="120" cy="132" r="9" fill="#d98a62" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+</svg>

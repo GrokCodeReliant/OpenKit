@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-trap-spikes">
+  <!-- Open Kit CC0 original geometry: floor spike plate. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-trap-spikes</title>
+  <path d="M36 176 H220 V216 H36 Z" fill="#5a5048" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M44 184 H212 V208 H44 Z" fill="#8a8070"/>
+  <path d="M56 196 L67 78 L78 196 Z" fill="#c8ced4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M82 196 L93 100 L104 196 Z" fill="#c8ced4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M108 196 L119 78 L130 196 Z" fill="#c8ced4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M134 196 L145 100 L156 196 Z" fill="#c8ced4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M160 196 L171 78 L182 196 Z" fill="#c8ced4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M186 196 L197 100 L208 196 Z" fill="#c8ced4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M52 200 H204" fill="none" stroke="#3a3630" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

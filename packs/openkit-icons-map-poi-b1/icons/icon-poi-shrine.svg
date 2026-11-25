@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-poi-shrine">
+  <!-- Open Kit CC0 original geometry: shrine landmark: pedestal with sacred flame. No fonts, scripts, or external refs. -->
+  <title>icon-poi-shrine</title>
+  <rect x="72" y="180" width="112" height="28" rx="4" fill="#7a7268" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="96" y="132" width="64" height="52" rx="4" fill="#9a9288" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="88,132 168,132 152,108 104,108" fill="#b0a898" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- flame layers -->
+  <path d="M128 40 Q160 84 148 120 Q128 108 108 120 Q96 84 128 40 Z" fill="#e85828" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 64 Q146 92 140 116 Q128 108 116 116 Q110 92 128 64 Z" fill="#f0c860" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 88 Q136 104 128 118 Q120 104 128 88 Z" fill="#fff2a8" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+
+</svg>

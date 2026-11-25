@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-poi-market">
+  <!-- Open Kit CC0 original geometry: market landmark: striped awning stall. No fonts, scripts, or external refs. -->
+  <title>icon-poi-market</title>
+  <rect x="48" y="120" width="160" height="88" rx="4" fill="#c4a06a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="40,120 216,120 200,72 56,72" fill="#c43c3c" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="56,72 92,72 100,120 48,120" fill="#f0e6d0" stroke="none"/>
+  <polygon points="128,72 164,72 172,120 120,120" fill="#f0e6d0" stroke="none"/>
+  <line x1="56" y1="72" x2="48" y2="120" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <line x1="92" y1="72" x2="100" y2="120" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <line x1="128" y1="72" x2="120" y2="120" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <line x1="164" y1="72" x2="172" y2="120" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <line x1="200" y1="72" x2="216" y2="120" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <rect x="88" y="148" width="80" height="44" rx="3" fill="#8b5a2a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="170" r="8" fill="#ecba3c" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+
+</svg>

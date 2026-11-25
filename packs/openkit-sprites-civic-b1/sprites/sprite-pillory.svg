@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="sprite-pillory">
+  <!-- Open Kit CC0 original geometry: civic: pillory with transparent head/hand cutouts. Ground-plane reference (untrimmed master): pixel (128,232) top-left origin = normalized (0.5, 0.90625). Transform scales about that point. No fonts/scripts/external refs. -->
+  <title>sprite-pillory</title>
+  <g transform="translate(128 232) scale(0.82) translate(-128 -232)">
+
+  <ellipse cx="128" cy="232" rx="72" ry="12" fill="#5a6068" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- outer posts (outside plank) -->
+  <rect x="36" y="88" width="22" height="144" rx="3" fill="#966034" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="198" y="88" width="22" height="144" rx="3" fill="#966034" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- top stubs -->
+  <rect x="40" y="60" width="14" height="32" rx="2" fill="#966034" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="202" y="60" width="14" height="32" rx="2" fill="#966034" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- UPPER plank: evenodd cutouts — large head + two smaller hands, wood between -->
+  <path fill-rule="evenodd" stroke="none" d="
+    M 54 86
+    H 202
+    V 128
+    H 54
+    Z
+    M 128 94
+    A 18 18 0 1 0 128 130
+    A 18 18 0 1 0 128 94
+    Z
+    M 82 102
+    A 11 11 0 1 0 82 124
+    A 11 11 0 1 0 82 102
+    Z
+    M 174 102
+    A 11 11 0 1 0 174 124
+    A 11 11 0 1 0 174 102
+    Z
+  " fill="#c4a06a"/>
+  <rect x="54" y="86" width="148" height="42" rx="3" fill="none" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="112" r="18" fill="none" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="82" cy="113" r="11" fill="none" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="174" cy="113" r="11" fill="none" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- LOWER plank split -->
+  <rect x="54" y="128" width="148" height="18" rx="3" fill="#a87840" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="68" cy="128" r="5" fill="#5a3a22" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="188" cy="128" r="5" fill="#5a3a22" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>

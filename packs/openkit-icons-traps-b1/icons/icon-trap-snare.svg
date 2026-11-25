@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-trap-snare">
+  <!-- Open Kit CC0 original geometry: rope snare with bent rod. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-trap-snare</title>
+  <path d="M48 210 L56 86 L78 90 L70 210 Z" fill="#8a5a34" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="9"/>
+  <path d="M54 200 L60 96 L70 98 L64 200 Z" fill="#c4884a"/>
+  <path d="M66 92 C90 40 150 28 196 70 C210 88 206 116 186 128" fill="none" stroke="#5a3a22" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M66 92 C90 40 150 28 196 70 C210 88 206 116 186 128" fill="none" stroke="#a07040" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M118 138 C118 108 150 90 178 104 C200 116 206 146 186 164 C166 182 136 176 124 156 C118 148 118 144 118 138 Z" fill="none"/>
+  <path d="M124 148 C124 120 150 104 174 116 C194 126 198 150 182 164 C166 178 140 172 130 156" fill="none" stroke="#c4a06a" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M124 148 C124 120 150 104 174 116 C194 126 198 150 182 164 C166 178 140 172 130 156" fill="none" stroke="#8a6a3a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M186 128 L170 140" fill="none" stroke="#8a6a3a" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="168" cy="142" r="8" fill="#6a4a28" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+</svg>

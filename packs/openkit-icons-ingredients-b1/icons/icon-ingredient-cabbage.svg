@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-ingredient-cabbage">
+  <!-- Open Kit CC0 original geometry: raw cabbage head ingredient. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-ingredient-cabbage</title>
+
+  <ellipse cx="128" cy="152" rx="76" ry="70" fill="#3f7a34" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M68 148 C72 92 100 66 128 64 C156 66 184 92 188 148 C172 108 128 102 128 102 C128 102 84 108 68 148 Z" fill="#4a8c3c" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 174 C88 168 56 150 50 118 C44 88 66 70 94 76 C116 82 126 108 128 134 C128 152 128 174 128 174 Z" fill="#5a9a48" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 174 C168 168 200 150 206 118 C212 88 190 70 162 76 C140 82 130 108 128 134 C128 152 128 174 128 174 Z" fill="#6aac52" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M76 170 C90 206 128 216 128 216 C128 216 166 206 180 170 C160 190 128 196 128 196 C128 196 96 190 76 170 Z" fill="#458838" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="148" rx="32" ry="30" fill="#9fd878" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M82 108 C100 130 112 152 118 164" fill="none" stroke="#2f6a28" stroke-width="4" stroke-linecap="round"/>
+  <path d="M174 108 C156 130 144 152 138 164" fill="none" stroke="#2f6a28" stroke-width="4" stroke-linecap="round"/>
+  <path d="M128 128 C128 148 128 168 128 168" fill="none" stroke="#3d7a32" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,229 @@
+{
+  "pack": "openkit-icons-traps-b1",
+  "family": "trap-icons",
+  "license": "CC0-1.0",
+  "export_resolution_px": 256,
+  "alignment_convention": "inventory icon visual-center on untrimmed 256x256 canvas; not an engine ground-plane pivot",
+  "layout": "icons/<name>.svg + icons/<name>.png; sheet/CONTACT_SHEET.png; README.md; CREDITS.md; LICENSE; MANIFEST.json",
+  "items": [
+    {
+      "id": "icon-trap-bear",
+      "kind": "icon",
+      "function": "open-jaw bear trap",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-trap-bear.svg",
+      "png": "icons/icon-trap-bear.png",
+      "sha256_svg": "d013c7c7551b4095621b0be7596908f25e03d5be4e57458e244e643890d75b48",
+      "sha256_png": "85b6d199d0c4eb7e8c7542e4543794100a0a872a520a065910d531add7cdfcfa",
+      "bytes_svg": 2006,
+      "bytes_png": 12269
+    },
+    {
+      "id": "icon-trap-spikes",
+      "kind": "icon",
+      "function": "floor spike plate",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-trap-spikes.svg",
+      "png": "icons/icon-trap-spikes.png",
+      "sha256_svg": "9029d6813083befb04f7ee8d95356aaddf3e254f83ef58daa46c4d8b7f0c35b0",
+      "sha256_png": "df372f2e0c4573f58c32fe18989747627e19bd1b6df4aa5fb55997db88812149",
+      "bytes_svg": 1521,
+      "bytes_png": 4705
+    },
+    {
+      "id": "icon-trap-blade",
+      "kind": "icon",
+      "function": "swinging pendulum blade",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-trap-blade.svg",
+      "png": "icons/icon-trap-blade.png",
+      "sha256_svg": "4f971118e02beefb629d72bde7304183af299387839e5fef6af2cb9d14d5fb6c",
+      "sha256_png": "e3c97ed01da54453eb1e785e8d1df47e77d6718cea1a8016a75bab473de6a868",
+      "bytes_svg": 1586,
+      "bytes_png": 14428
+    },
+    {
+      "id": "icon-trap-dart",
+      "kind": "icon",
+      "function": "fletched dart",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-trap-dart.svg",
+      "png": "icons/icon-trap-dart.png",
+      "sha256_svg": "c9053a24c4c7a5925616529a4b45695aaa22cf3b0c572231ba0d908c664c8d9a",
+      "sha256_png": "37353465832904ede784f5067e69189a84dbc7fa000dc3cb2f6ffac647c04ad6",
+      "bytes_svg": 1196,
+      "bytes_png": 5137
+    },
+    {
+      "id": "icon-trap-tripwire",
+      "kind": "icon",
+      "function": "tripwire between two stakes",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-trap-tripwire.svg",
+      "png": "icons/icon-trap-tripwire.png",
+      "sha256_svg": "288b101a4684d00f86c9911c134b791bc1aea2f333e06fa6ad3877f195fafa57",
+      "sha256_png": "53ba43b5697b4e5338235735d5eaa3cd8cdad58bb6093348eb5f6744bb5f9cea",
+      "bytes_svg": 1729,
+      "bytes_png": 8176
+    },
+    {
+      "id": "icon-trap-snare",
+      "kind": "icon",
+      "function": "rope snare with bent rod",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-trap-snare.svg",
+      "png": "icons/icon-trap-snare.png",
+      "sha256_svg": "7b4de41bdff9a8ec598e9ed5de03b644ad82e674433735bf6e3c9bc344879edb",
+      "sha256_png": "8474a64222ca603e9f8acac94325902babd5a71d341408290af9db2a9080c32b",
+      "bytes_svg": 1690,
+      "bytes_png": 14278
+    },
+    {
+      "id": "icon-trap-plate",
+      "kind": "icon",
+      "function": "stone pressure plate",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-trap-plate.svg",
+      "png": "icons/icon-trap-plate.png",
+      "sha256_svg": "560ec2d39c2dcc7b47ecacaa7902c1a24c4a0a0fcf7738919b36248f92dd26be",
+      "sha256_png": "17406d6a14f5a7b24b2372103e2427fcf03e397d1bae92a5ae50ce77a036bdea",
+      "bytes_svg": 1551,
+      "bytes_png": 4463
+    },
+    {
+      "id": "icon-trap-pit",
+      "kind": "icon",
+      "function": "open pit with hinged lid",
+      "alignment": "visual-center on untrimmed 256x256; not engine ground pivot",
+      "svg": "icons/icon-trap-pit.svg",
+      "png": "icons/icon-trap-pit.png",
+      "sha256_svg": "a78b68247d9f0b7d5e8af6c606fdccfe3341c6377b9fe950dd5c6aef89bda082",
+      "sha256_png": "8030c4b3f8965682f1979db3b1c06e1f5394b9879051369acb25fb6bcec2698b",
+      "bytes_svg": 1412,
+      "bytes_png": 4772
+    }
+  ],
+  "sheet": "sheet/CONTACT_SHEET.png",
+  "files": [
+    {
+      "path": "icons/icon-trap-bear.svg",
+      "name": "icon-trap-bear.svg",
+      "sha256": "d013c7c7551b4095621b0be7596908f25e03d5be4e57458e244e643890d75b48",
+      "bytes": 2006
+    },
+    {
+      "path": "icons/icon-trap-bear.png",
+      "name": "icon-trap-bear",
+      "sha256": "85b6d199d0c4eb7e8c7542e4543794100a0a872a520a065910d531add7cdfcfa",
+      "bytes": 12269
+    },
+    {
+      "path": "icons/icon-trap-spikes.svg",
+      "name": "icon-trap-spikes.svg",
+      "sha256": "9029d6813083befb04f7ee8d95356aaddf3e254f83ef58daa46c4d8b7f0c35b0",
+      "bytes": 1521
+    },
+    {
+      "path": "icons/icon-trap-spikes.png",
+      "name": "icon-trap-spikes",
+      "sha256": "df372f2e0c4573f58c32fe18989747627e19bd1b6df4aa5fb55997db88812149",
+      "bytes": 4705
+    },
+    {
+      "path": "icons/icon-trap-blade.svg",
+      "name": "icon-trap-blade.svg",
+      "sha256": "4f971118e02beefb629d72bde7304183af299387839e5fef6af2cb9d14d5fb6c",
+      "bytes": 1586
+    },
+    {
+      "path": "icons/icon-trap-blade.png",
+      "name": "icon-trap-blade",
+      "sha256": "e3c97ed01da54453eb1e785e8d1df47e77d6718cea1a8016a75bab473de6a868",
+      "bytes": 14428
+    },
+    {
+      "path": "icons/icon-trap-dart.svg",
+      "name": "icon-trap-dart.svg",
+      "sha256": "c9053a24c4c7a5925616529a4b45695aaa22cf3b0c572231ba0d908c664c8d9a",
+      "bytes": 1196
+    },
+    {
+      "path": "icons/icon-trap-dart.png",
+      "name": "icon-trap-dart",
+      "sha256": "37353465832904ede784f5067e69189a84dbc7fa000dc3cb2f6ffac647c04ad6",
+      "bytes": 5137
+    },
+    {
+      "path": "icons/icon-trap-tripwire.svg",
+      "name": "icon-trap-tripwire.svg",
+      "sha256": "288b101a4684d00f86c9911c134b791bc1aea2f333e06fa6ad3877f195fafa57",
+      "bytes": 1729
+    },
+    {
+      "path": "icons/icon-trap-tripwire.png",
+      "name": "icon-trap-tripwire",
+      "sha256": "53ba43b5697b4e5338235735d5eaa3cd8cdad58bb6093348eb5f6744bb5f9cea",
+      "bytes": 8176
+    },
+    {
+      "path": "icons/icon-trap-snare.svg",
+      "name": "icon-trap-snare.svg",
+      "sha256": "7b4de41bdff9a8ec598e9ed5de03b644ad82e674433735bf6e3c9bc344879edb",
+      "bytes": 1690
+    },
+    {
+      "path": "icons/icon-trap-snare.png",
+      "name": "icon-trap-snare",
+      "sha256": "8474a64222ca603e9f8acac94325902babd5a71d341408290af9db2a9080c32b",
+      "bytes": 14278
+    },
+    {
+      "path": "icons/icon-trap-plate.svg",
+      "name": "icon-trap-plate.svg",
+      "sha256": "560ec2d39c2dcc7b47ecacaa7902c1a24c4a0a0fcf7738919b36248f92dd26be",
+      "bytes": 1551
+    },
+    {
+      "path": "icons/icon-trap-plate.png",
+      "name": "icon-trap-plate",
+      "sha256": "17406d6a14f5a7b24b2372103e2427fcf03e397d1bae92a5ae50ce77a036bdea",
+      "bytes": 4463
+    },
+    {
+      "path": "icons/icon-trap-pit.svg",
+      "name": "icon-trap-pit.svg",
+      "sha256": "a78b68247d9f0b7d5e8af6c606fdccfe3341c6377b9fe950dd5c6aef89bda082",
+      "bytes": 1412
+    },
+    {
+      "path": "icons/icon-trap-pit.png",
+      "name": "icon-trap-pit",
+      "sha256": "8030c4b3f8965682f1979db3b1c06e1f5394b9879051369acb25fb6bcec2698b",
+      "bytes": 4772
+    },
+    {
+      "path": "sheet/CONTACT_SHEET.png",
+      "name": "CONTACT_SHEET.png",
+      "sha256": "f02de1b32ee23edb390c24dfa080abbb6ae27a66bbb39cc2218ba237da2f6aa9",
+      "bytes": 135862
+    },
+    {
+      "path": "README.md",
+      "name": "README.md",
+      "sha256": "d37f62702666f0336e668dad38597348e0fa8635420169e27976ab761125f4b1",
+      "bytes": 2078
+    },
+    {
+      "path": "CREDITS.md",
+      "name": "CREDITS.md",
+      "sha256": "6b6f2a25d4f00ff12769620a85e87f75f3e726d4271f0221e563d87bc8e74bd5",
+      "bytes": 89
+    },
+    {
+      "path": "LICENSE",
+      "name": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    }
+  ]
+}

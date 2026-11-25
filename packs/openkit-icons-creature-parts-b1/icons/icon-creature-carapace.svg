@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-creature-carapace">
+  <!-- Open Kit CC0 original geometry: beetle carapace shell. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-creature-carapace</title>
+  <path d="M128 96 C92 96 62 110 60 150 C58 196 92 228 128 230 C164 228 198 196 196 150 C194 110 164 96 128 96 Z" fill="#3b7a52" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M128 100 L128 228" fill="none" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M84 122 C76 146 80 180 100 204" fill="none" stroke="#8ed6a0" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M150 126 C170 136 180 160 176 186" fill="none" stroke="#2a5a3c" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M106 126 C96 140 96 160 102 176" fill="none" stroke="#2a5a3c" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 34 C160 34 180 54 180 78 C180 96 160 106 128 106 C96 106 76 96 76 78 C76 54 96 34 128 34 Z" fill="#2c5e40" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M98 58 Q110 46 128 46" fill="none" stroke="#7cc48e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-creature-fang">
+  <!-- Open Kit CC0 original geometry: curved creature fang. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-creature-fang</title>
+  <path d="M132 30 C156 30 168 64 168 98 C170 148 176 190 188 228 C138 204 100 154 96 100 C98 64 108 30 132 30 Z" fill="#f3ecd6" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M132 36 C152 36 162 66 163 96 Q130 106 101 96 C104 66 112 36 132 36 Z" fill="#d8c49a"/>
+  <path d="M99 98 Q132 110 167 96" fill="none" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M118 128 C126 160 142 186 164 208" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M156 120 C156 154 162 184 174 208" fill="none" stroke="#cfc4a6" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M120 52 C116 66 116 78 118 88" fill="none" stroke="#ead9b0" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

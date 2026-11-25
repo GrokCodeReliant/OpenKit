@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="sprite-flagpole">
+  <!-- Open Kit CC0 original geometry: civic: flagpole with flag. Ground-plane reference (untrimmed master): pixel (128,232) top-left origin = normalized (0.5, 0.90625). Transform scales about that point. No fonts/scripts/external refs. -->
+  <title>sprite-flagpole</title>
+  <g transform="translate(128 232) scale(0.82) translate(-128 -232)">
+
+  <ellipse cx="96" cy="232" rx="28" ry="10" fill="#5a6068" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="88" y="40" width="16" height="192" rx="3" fill="#8a909a" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="96" cy="36" r="10" fill="#ecba3c" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M104 52 L200 72 L200 140 L104 120 Z" fill="#c43c3c" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M104 52 L200 72 L200 88 L104 72 Z" fill="#f0e6d0" stroke="none"/>
+  </g>
+</svg>

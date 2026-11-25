@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-music-horn">
+  <!-- Open Kit CC0 original geometry: music: curved hunting horn with continuous tube and flare. No fonts, scripts, or external refs. -->
+  <title>icon-music-horn</title>
+  <g transform="translate(128 128) scale(0.88) translate(-128 -128)">
+  <path fill-rule="evenodd" d="
+    M 64 72
+    C 40 72 32 120 56 156
+    C 80 192 140 208 184 180
+    L 220 200
+    L 236 152
+    L 200 148
+    C 216 120 200 80 160 68
+    C 120 56 88 56 64 72
+    Z
+    M 96 100
+    C 88 116 96 144 120 156
+    C 144 168 168 156 172 136
+    C 176 116 156 96 132 96
+    C 112 96 100 92 96 100
+    Z
+  " fill="#c45a2a" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="60" cy="80" rx="18" ry="16" fill="#e8dcc8" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+
+</svg>

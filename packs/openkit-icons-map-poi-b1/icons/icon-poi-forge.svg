@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-poi-forge">
+  <!-- Open Kit CC0 original geometry: forge landmark: horned anvil and hammer. No fonts, scripts, or external refs. -->
+  <title>icon-poi-forge</title>
+  <rect x="84" y="200" width="96" height="24" rx="4" fill="#5a5e66" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="
+    M44 128
+    L98 138
+    L98 122
+    L166 122
+    L166 138
+    L196 134
+    L196 152
+    L166 156
+    L158 180
+    L146 200
+    L118 200
+    L106 180
+    L98 156
+    L74 152
+    L44 142
+    Z" fill="#9aa3b0" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="98" y="122" width="68" height="14" rx="2" fill="#b4bcc8" stroke="none"/>
+  <g transform="rotate(-38 176 82)">
+    <rect x="156" y="44" width="58" height="28" rx="4" fill="#c4cedc" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="176" y="70" width="16" height="68" rx="3" fill="#966034" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="sprite-fountain-plaza">
+  <!-- Open Kit CC0 original geometry: civic: plaza fountain. Ground-plane reference (untrimmed master): pixel (128,232) top-left origin = normalized (0.5, 0.90625). Transform scales about that point. No fonts/scripts/external refs. -->
+  <title>sprite-fountain-plaza</title>
+  <g transform="translate(128 232) scale(0.82) translate(-128 -232)">
+
+  <ellipse cx="128" cy="232" rx="72" ry="14" fill="#6a7078" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="96" y="180" width="64" height="52" rx="4" fill="#8a909a" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="180" rx="80" ry="22" fill="#9aa3b0" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="168" rx="56" ry="16" fill="#7ec8e8" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="112" y="120" width="32" height="48" rx="3" fill="#8a909a" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="120" rx="48" ry="16" fill="#9aa3b0" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="112" rx="32" ry="12" fill="#7ec8e8" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="120" y="72" width="16" height="40" rx="3" fill="#8a909a" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="72" rx="20" ry="10" fill="#9aa3b0" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="56" r="10" fill="#7ec8e8" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-ingredient-onion">
+  <!-- Open Kit CC0 original geometry: raw onion bulb ingredient. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-ingredient-onion</title>
+  <g transform="translate(128 128) scale(0.92) translate(-128 -128)">
+
+  <path d="M120 56 L128 96 L136 56 Z" fill="#6ab04a" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M136 60 L140 100 L152 64 Z" fill="#4a9a3c" stroke="#1c161e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- bulb -->
+  <ellipse cx="128" cy="160" rx="56" ry="64" fill="#d8b878" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- papery layer arcs -->
+  <path d="M90 150 Q128 130 166 150" fill="none" stroke="#b89858" stroke-width="5" stroke-linecap="round"/>
+  <path d="M96 180 Q128 165 160 180" fill="none" stroke="#b89858" stroke-width="5" stroke-linecap="round"/>
+  <!-- root nubs -->
+  <path d="M112 220 L116 232 M128 222 L128 236 M144 220 L140 232" fill="none" stroke="#1c161e" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>

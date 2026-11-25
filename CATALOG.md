@@ -1283,4 +1283,10 @@ CC0 1.0 (see each pack `LICENSE` and root `LICENSE.txt`). Ordinary 2D assets, pu
 - `packs/openkit-sprites-props-mine-b1/` — 16 mine / quarry / dig-site prop sprites
 - `packs/openkit-sprites-props-harbor-b1/` — 16 harbor / dock / pier prop sprites
 - `packs/openkit-sprites-characters-b1/` — 16 generic class character sprites
+- `packs/openkit-icons-map-poi-b1/` — 8 map point-of-interest icons (PNG + SVG)
+- `packs/openkit-icons-music-b1/` — 8 music / instrument icons (PNG + SVG)
+- `packs/openkit-sprites-civic-b1/` — 8 civic / roadside world-prop sprites (PNG + SVG)
+- `packs/openkit-icons-ingredients-b1/` — 8 culinary / foraging ingredient icons (PNG + SVG)
+- `packs/openkit-icons-creature-parts-b1/` — 8 creature-part / trophy inventory icons (PNG + SVG)
+- `packs/openkit-icons-traps-b1/` — 8 trap / hazard inventory icons (PNG + SVG)
 - `packs/halloween-walk-home/` — 360 files, Halloween Walk Home art pack (CC0; game in development)

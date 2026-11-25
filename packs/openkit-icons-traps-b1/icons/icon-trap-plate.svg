@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-trap-plate">
+  <!-- Open Kit CC0 original geometry: stone pressure plate. Inventory icon; visual center alignment on 256 canvas (not an engine ground pivot). No fonts/scripts/external refs. -->
+  <title>icon-trap-plate</title>
+  <path d="M40 48 H216 V208 H40 Z" fill="#4a463e" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M52 60 H204 V196 H52 Z" fill="#8a8476" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="10"/>
+  <path d="M62 70 H194 V132 H62 Z" fill="#b0aa9a"/>
+  <path d="M88 88 H168 V168 H88 Z" fill="#6e685c" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="8"/>
+  <path d="M98 98 H158 V138 H98 Z" fill="#9a9486"/>
+  <circle cx="68" cy="76" r="9" fill="#c8ced4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="188" cy="76" r="9" fill="#c8ced4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="68" cy="180" r="9" fill="#c8ced4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="188" cy="180" r="9" fill="#c8ced4" stroke="#1c161e" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M128 100 L138 128 L124 158" fill="none" stroke="#3a3630" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

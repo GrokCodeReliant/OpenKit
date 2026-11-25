@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="icon-music-bell">
+  <!-- Open Kit CC0 original geometry: music: bell. No fonts, scripts, or external refs. -->
+  <title>icon-music-bell</title>
+  <g transform="translate(128 128) scale(0.92) translate(-128 -128)">
+  <path d="
+    M72 108
+    Q72 60 128 52
+    Q184 60 184 108
+    L192 172
+    Q192 192 172 200
+    L84 200
+    Q64 192 64 172
+    Z" fill="#ecba3c" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="200" rx="56" ry="16" fill="#d4a03a" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="160" r="12" fill="#1c161e" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="128" y1="160" x2="128" y2="188" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <circle cx="128" cy="40" r="14" fill="none" stroke="#1c161e" stroke-width="10"/>
+  <circle cx="128" cy="40" r="14" fill="none" stroke="#ecba3c" stroke-width="6"/>
+  <rect x="118" y="50" width="20" height="14" rx="3" fill="#ecba3c" stroke="#1c161e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+
+</svg>
